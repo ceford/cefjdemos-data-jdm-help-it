@@ -82,7 +82,7 @@ Per modificare una Voce di Menu:
 Questo screenshot mostra il template Frontend di base di Joomla **Cassiopeia** con tutte le opzioni 
 dell'Editing Layout impostate su 'Nascondi'.
 
-[articles-create-article-frontend.png](../../../it/images/menu-items/articles-create-article-frontend.png)
+![articles-create-article-frontend.png](../../../en/images/menu-items/articles-create-article-frontend.png)
 
 ## Suggerimenti
 

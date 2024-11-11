@@ -18,7 +18,7 @@ La pagina *Tour Guidati: Opzioni* è trattata in articoli di Aiuto separati:
 
 ## Screenshot
 
-![Opzioni dei tour guidati](../../../it/images/guided-tours/guided-tours-options.png)
+![Opzioni dei tour guidati](../../../en/images/guided-tours/guided-tours-options.png)
 
 Gli elementi nella scheda dei Tour Guidati sono ben spiegati nell'Aiuto Inlinea.
 
