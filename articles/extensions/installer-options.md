@@ -1,10 +1,8 @@
 <!-- Filename: Help4.x:Installer:_Options / Display title: Installatore: Opzioni -->
 
-Sure, here's the translation:
-
 ## Descrizione
 
-La pagina *Installatore: Opzioni* consente di impostare i parametri utilizzati globalmente per 
+La pagina *Installatore: Opzioni* consente di impostare i parametri utilizzati globalmente per
 l'installazione delle estensioni.
 
 ### Elementi Comuni
