@@ -158,7 +158,7 @@ Alcuni aspetti di questa pagina sono trattati in articoli di aiuto separati:
 - **Sessioni condivise** Quando abilitato, la sessione di un utente è condivisa tra
   le sezioni Frontend e Backend del sito. Nota che cambiare questo
   valore invaliderà tutte le sessioni esistenti sul sito. Questo non è
-  disponibile quando l'opzione [Forza HTTPS](#forcehttps) è impostata su
+  disponibile quando l'opzione *Forza HTTPS* è impostata su
   *Solo Amministratore*.
 - **Traccia metadati sessione**
   - *Sì* Metadati aggiuntivi sulla sessione di un utente (compresi il loro
