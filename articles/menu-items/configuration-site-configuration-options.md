@@ -33,7 +33,7 @@ Per modificare un elemento di menu esistente *Opzioni di Configurazione del Sito
 
 ## Schermata Front End
 
-![Form delle opzioni di configurazione del sito nel front end](../../../it/images/menu-items/configuration-site-configuration-options-frontend.png)
+![Form delle opzioni di configurazione del sito nel front end](../../../en/images/menu-items/configuration-site-configuration-options-frontend.png)
 
 *Tradotto da openai.com*
 
