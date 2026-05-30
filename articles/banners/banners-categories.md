@@ -32,7 +32,7 @@ aiuto separati:
 
 ## Screenshot
 
-![Elenco categorie banner](../../../it/images/banners/banners-categories-list.png)
+![Elenco categorie banner](../../../it/images/banners/banners-categories/01-banners-categories-list.png)
 
 ## Suggerimenti
 

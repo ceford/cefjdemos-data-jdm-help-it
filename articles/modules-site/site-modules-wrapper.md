@@ -26,7 +26,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di Aiuto separati:
 
 ## Screenshot
 
-![modulo wrapper tab](../../../it/images/modules-site/modules-wrapper-module-tab.png)
+![modulo wrapper tab](../../../it/images/modules-site/site-modules-wrapper/01-modules-wrapper-module-tab.png)
 
 ## Campi del Modulo
 

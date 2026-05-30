@@ -18,7 +18,7 @@ Alcuni aspetti di questa pagina sono trattati in articoli di Aiuto separati:
 
 ## Screenshot
 
-![Opzioni della cache](../../../it/images/maintenance/cache-options.png)
+![Opzioni della cache](../../../it/images/maintenance/cache-options/01-cache-options.png)
 
 ## Suggerimenti
 

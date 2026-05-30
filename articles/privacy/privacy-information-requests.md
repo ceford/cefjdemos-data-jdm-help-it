@@ -28,7 +28,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Schermata
 
-![richieste di informazioni sulla privacy](../../../it/images/privacy/privacy-information-requests.png)
+![richieste di informazioni sulla privacy](../../../it/images/privacy/privacy-information-requests/01-privacy-information-requests.png)
 
 ## Intestazioni delle Colonne
 

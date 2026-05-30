@@ -37,13 +37,13 @@ Sure, here is the translated text:
 
 ## Schermata
 
-![Elenco delle voci di menu tutte le schede dei dettagli delle categorie del feed di notizie](../../../it/images/menu-items/news-feeds-list-all-categories-details-tab.png)
+![Elenco delle voci di menu tutte le schede dei dettagli delle categorie del feed di notizie](../../../it/images/menu-items/news-feeds-list-all-news-feed-categories/01-news-feeds-list-all-categories-details-tab.png)
 
 ## Campi del modulo
 
 ### Scheda Categorie
 
-![Elemento di menu elenco di tutte le categorie dei feed di notizie scheda categorie](../../../it/images/menu-items/news-feeds-list-all-categories-tree-categories-tab.png)
+![Elemento di menu elenco di tutte le categorie dei feed di notizie scheda categorie](../../../it/images/menu-items/news-feeds-list-all-news-feed-categories/02-news-feeds-list-all-categories-tree-categories-tab.png)
 
 - **Descrizione Categoria di primo livello** Mostra o nasconde la descrizione 
   della categoria di primo livello. Nota che questa descrizione può essere 
@@ -64,7 +64,7 @@ Sure, here is the translated text:
 
 ### Scheda Opzioni di Visualizzazione dei Feed
 
-![Elemento di menu elenco di tutte le categorie dei feed di notizie scheda categorie](../../../it/images/menu-items/news-feeds-list-all-categories-tree-feed-display-options-tab.png)
+![Elemento di menu elenco di tutte le categorie dei feed di notizie scheda categorie](../../../it/images/menu-items/news-feeds-list-all-news-feed-categories/03-news-feeds-list-all-categories-tree-feed-display-options-tab.png)
 
 - **Immagine del Feed** Mostra o nasconde l'immagine dei Feed di Notizie.
 - **Descrizione del Feed** Mostra o nasconde le descrizioni dei Feed di Notizie.

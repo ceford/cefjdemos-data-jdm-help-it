@@ -20,7 +20,7 @@ Alcuni aspetti di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![Opzioni di check-in](../../../it/images/maintenance/check-in-options.png)
+![Opzioni di check-in](../../../it/images/maintenance/check-in-options/01-check-in-options.png)
 
 ## Suggerimenti
 

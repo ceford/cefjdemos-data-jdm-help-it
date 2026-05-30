@@ -62,7 +62,7 @@ normale per installare un'Estensione di Joomla! è la seguente:
 
 ## Scheda Carica File Pacchetto
 
-![Scheda di installazione estensione carica file pacchetto](../../../it/images/extensions/install-upload-package-file.png)
+![Scheda di installazione estensione carica file pacchetto](../../../it/images/extensions/extensions-install/01-install-upload-package-file.png)
 
 - Trascina e rilascia o sfoglia fino alla posizione in cui hai scaricato
   il file di archivio dell'Estensione.
@@ -73,7 +73,7 @@ definita per la tua installazione. Se non puoi aumentare questo valore, puoi uti
 
 ## Installazione dalla Scheda Cartella
 
-![Installazione estensione dalla scheda cartella](../../../it/images/extensions/install-from-folder.png)
+![Installazione estensione dalla scheda cartella](../../../it/images/extensions/extensions-install/02-install-from-folder.png)
 
 1.  Crea una directory temporanea sul tuo disco rigido locale e decomprimi l'archivio dell'Extension in questa directory temporanea.
 2.  Utilizzando un FTP, carica il contenuto di questa directory (inclusi file e sottodirectory) in una directory sul tuo server.
@@ -84,7 +84,7 @@ Nota che è pratica comune inserire la cartella che contiene la tua estensione d
 
 ## Installazione dalla scheda URL
 
-![Estensione installazione dalla scheda URL](../../../it/images/extensions/install-from-url.png)
+![Estensione installazione dalla scheda URL](../../../it/images/extensions/extensions-install/03-install-from-url.png)
 
 Invece di scaricare il file archivio sul tuo computer locale, basta
 specificare l’URL del file archivio desiderato. Poi clicca sul pulsante
@@ -96,7 +96,7 @@ file archivio sul tuo computer locale.*
 
 Per installare un'estensione direttamente dalla Directory delle Estensioni Joomla (JED), puoi selezionare le estensioni da elencare per Categoria o puoi cercarle per nome parziale.
 
-![Installazione estensione dalla scheda web](../../../it/images/extensions/install-from-web.png)
+![Installazione estensione dalla scheda web](../../../it/images/extensions/extensions-install/04-install-from-web.png)
 
 ## Consigli
 

@@ -8,7 +8,7 @@ Ad esempio, gli elementi cestinati di solito non vengono visualizzati per impost
 
 ## Opzioni di Filtro Elenco Articoli¶
 
-![Elenco articoli](../../../it/images/common-elements/articles-list-filter-options.png)
+![Elenco articoli](../../../it/images/common-elements/list-filters/01-articles-list-filter-options.png)
 
 Per **mostrare** o **nascondere** le Opzioni, seleziona il pulsante **Opzioni Filtro**. Nota
 che le Opzioni sono sempre visualizzate al ritorno su qualsiasi pagina in cui è stata selezionata un'Opzione.

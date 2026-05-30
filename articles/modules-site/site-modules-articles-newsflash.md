@@ -27,7 +27,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![modulo newsflash articoli tab](../../../it/images/modules-site/modules-articles-newsflash-module-tab.png)
+![modulo newsflash articoli tab](../../../it/images/modules-site/site-modules-articles-newsflash/01-modules-articles-newsflash-module-tab.png)
 
 ## Campi del Modulo
 

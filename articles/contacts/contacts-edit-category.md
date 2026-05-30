@@ -27,7 +27,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![Modifica categoria contatti](../../../it/images/contacts/contacts-edit-category-category-tab.png)
+![Modifica categoria contatti](../../../it/images/contacts/contacts-edit-category/01-contacts-edit-category-category-tab.png)
 
 ## Campi del Modulo
 

@@ -35,13 +35,13 @@ Per modificare un elemento di menu *Lista Compatta di Elementi Taggati* esistent
 
 ## Screenshot
 
-![Elenco Compatto degli Elementi Taggati nella scheda dei dettagli](../../../it/images/menu-items/tags-compact-list-of-tagged-items-details-tab.png)
+![Elenco Compatto degli Elementi Taggati nella scheda dei dettagli](../../../it/images/menu-items/tags-compact-list-of-tagged-items/01-tags-compact-list-of-tagged-items-details-tab.png)
 
 ## Campi del Modulo
 
 ### Scheda Opzioni Tag
 
-![Elenco Compatto degli Elementi Taggati scheda opzioni tag](../../../it/images/menu-items/tags-compact-list-of-tagged-items-tag-options-tab.png)
+![Elenco Compatto degli Elementi Taggati scheda opzioni tag](../../../it/images/menu-items/tags-compact-list-of-tagged-items/02-tags-compact-list-of-tagged-items-tag-options-tab.png)
 
 - **Mostra Nome Tag** Per un layout con un solo tag, mostra o nasconde il nome del tag.
 - **Immagine Tag** Per un layout con un solo tag, mostra o nasconde l'immagine del tag.
@@ -56,7 +56,7 @@ Per modificare un elemento di menu *Lista Compatta di Elementi Taggati* esistent
 
 ### Scheda Opzioni Selezione Elementi
 
-![Elenco Compatto degli Elementi Taggati scheda dettagli](../../../it/images/menu-items/tags-compact-list-of-tagged-items-item-selection-options-tab.png)
+![Elenco Compatto degli Elementi Taggati scheda dettagli](../../../it/images/menu-items/tags-compact-list-of-tagged-items/03-tags-compact-list-of-tagged-items-item-selection-options-tab.png)
 
 - **Tipo di Corrispondenza** Seleziona elementi con uno qualsiasi dei tag o tutti i tag. Qualsiasi
   restituirà elementi che hanno almeno uno dei tag.

@@ -31,7 +31,7 @@ Categoria, e Mail nel componente Contatto. Richiedono un po' di esperienza di co
 
 ## Schermata
 
-![Campo di modifica degli articoli](../../../it/images/fields/articles-edit-field.png)
+![Campo di modifica degli articoli](../../../it/images/fields/fields-edit/01-articles-edit-field.png)
 
 ## Campi del Formulario
 
@@ -80,7 +80,7 @@ Parametri per tutti i campi:
 
 ### Scheda Opzioni
 
-![Scheda opzioni modifica campo articoli](../../../it/images/fields/articles-edit-field-options-tab.png)
+![Scheda opzioni modifica campo articoli](../../../it/images/fields/fields-edit/02-articles-edit-field-options-tab.png)
 
 #### Opzioni Formulario
 

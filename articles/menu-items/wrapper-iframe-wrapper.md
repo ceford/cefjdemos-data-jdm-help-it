@@ -33,20 +33,20 @@ Per modificare un elemento di menu *IFrame Wrapper* esistente:
 
 ## Schermata
 
-![Dettagli della scheda wrapper Iframe](../../../it/images/menu-items/wrapper-iframe-wrapper-details-tab.png)
+![Dettagli della scheda wrapper Iframe](../../../it/images/menu-items/wrapper-iframe-wrapper/01-wrapper-iframe-wrapper-details-tab.png)
 
 ## Campi del Modulo
 
 ### Scheda Parametri Barra di Scorrimento
 
-![Scheda parametri barra di scorrimento wrapper Iframe](../../../it/images/menu-items/wrapper-scroll-bar-parameters-tab.png)
+![Scheda parametri barra di scorrimento wrapper Iframe](../../../it/images/menu-items/wrapper-iframe-wrapper/02-wrapper-scroll-bar-parameters-tab.png)
 
 - **Larghezza** Larghezza della finestra IFrame. Inserire un numero di pixel o una percentuale. Ad esempio, *550* significa 550 pixel; *75%* significa il 75% della larghezza del contenitore `<main>`. Un numero assoluto di pixel potrebbe essere più ampio del contenitore e causare problemi di layout. In caso di dubbio, provare con il 100%.
 - **Altezza** Altezza della finestra IFrame. Inserire un numero di pixel. Ad esempio, *550* significa 550 pixel.
 
 ### Scheda Avanzata
 
-![Scheda avanzata wrapper Iframe](../../../it/images/menu-items/wrapper-advanced-tab.png)
+![Scheda avanzata wrapper Iframe](../../../it/images/menu-items/wrapper-iframe-wrapper/03-wrapper-advanced-tab.png)
 
 - **Altezza automatica** Imposta automaticamente l'altezza a quella della pagina esterna. *Nota* - questo funzionerà solo se la pagina esterna è sul **lo stesso dominio**. Ad esempio, `http://www.esempio.com` l'html esterno deve essere nella struttura di file radice di `esempio.com`. I sottodomini non funzioneranno, poiché un sottodominio è considerato un dominio separato.
 - **Aggiunta automatica** Prefix web address automaticamente con http://. Questa funzionalità rileverà automaticamente e non prefisserà un URL con http:// o https:// già utilizzato nell'URL.

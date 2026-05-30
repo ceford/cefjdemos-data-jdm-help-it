@@ -27,7 +27,7 @@ Alcuni elementi di questa pagina sono coperti in articoli di aiuto separati:
 
 ## Schermata
 
-![scheda modulo stato multilingue](../../../it/images/modules-admin/modules-popular-articles-module-tab.png)
+![scheda modulo stato multilingue](../../../it/images/modules-admin/admin-modules-popular-articles/01-modules-popular-articles-module-tab.png)
 
 ## Campi del Formulario
 

@@ -33,7 +33,7 @@ Per modificare un elemento di menu Conferma Richiesta esistente:
 
 ## Screenshot
 
-![Menu Item Privacy Confirm Request details tab](../../../it/images/menu-items/privacy-confirm-request-details-tab.png)
+![Menu Item Privacy Confirm Request details tab](../../../it/images/menu-items/privacy-confirm-request/01-privacy-confirm-request-details-tab.png)
 
 Tutti i campi di input del modulo sono trattati negli *Elementi Comuni*.
 

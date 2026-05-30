@@ -20,7 +20,7 @@ Alcuni elementi di questa pagina sono trattati in articoli separati di Aiuto:
 
 ## Screenshot
 
-![Banners Clients](../../../it/images/banners/banners-clients-list.png)
+![Banners Clients](../../../it/images/banners/banners-clients/01-banners-clients-list.png)
 
 ## Intestazioni di colonna
 

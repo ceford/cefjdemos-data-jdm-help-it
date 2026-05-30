@@ -15,7 +15,7 @@ I parametri del layout dell'elenco variano da componente a componente. I seguent
 
 ### Layout Elenco Categoria Articoli
 
-![Tipo di Elemento del Menu Categoria Elenco - scheda layouts elenco](../../../it/images/menu-items/articles-category-list-list-layouts-tab.png)
+![Tipo di Elemento del Menu Categoria Elenco - scheda layouts elenco](../../../it/images/menu-items/menu-item-list-layouts/01-articles-category-list-list-layouts-tab.png)
 
 - **Visualizzazione Seleziona** Mostra o nascondi il controllo Visualizza # che consente all'utente di selezionare il numero di articoli da mostrare.
 - **Campo Filtro** Mostra o nascondi un campo di testo nel Frontend dove un utente può filtrare gli articoli.
@@ -69,7 +69,7 @@ I parametri del layout dell'elenco variano da componente a componente. I seguent
 
 ### Layout Elenco Contatti in Evidenza
 
-![Elemento del Menu Contatti in Evidenza scheda layouts elenco](../../../it/images/menu-items/contacts-featured-contacts-list-layouts-tab.png)
+![Elemento del Menu Contatti in Evidenza scheda layouts elenco](../../../it/images/menu-items/menu-item-list-layouts/02-contacts-featured-contacts-list-layouts-tab.png)
 
 - **Campo Filtro** Mostra o nascondi il filtro dell'elenco.
 - **Visualizzazione Seleziona** Mostra o nascondi il numero di elementi da mostrare nell'elenco.
@@ -92,7 +92,7 @@ I parametri del layout dell'elenco variano da componente a componente. I seguent
 
 ### Layout Elenco Feed di Notizie
 
-![Elemento del Menu elenco tutte le Categorie dei Feed di Notizie scheda layouts](../../../it/images/menu-items/news-feeds-list-all-categories-tree-list-layouts-tab.png)
+![Elemento del Menu elenco tutte le Categorie dei Feed di Notizie scheda layouts](../../../it/images/menu-items/menu-item-list-layouts/03-news-feeds-list-all-categories-tree-list-layouts-tab.png)
 
 - **Campo Filtro** Mostra o nascondi un campo filtro per l'elenco.
 - **Visualizzazione Seleziona** Mostra o nascondi il controllo Visualizza # che consente all'utente di selezionare il numero di elementi da mostrare nell'elenco.
@@ -108,7 +108,7 @@ I parametri del layout dell'elenco variano da componente a componente. I seguent
 
 ### Layout Elenco Tag
 
-![Elenco compatto degli elementi con tag scheda dettagli](../../../it/images/menu-items/tags-compact-list-of-tagged-items-list-layouts-tab.png)
+![Elenco compatto degli elementi con tag scheda dettagli](../../../it/images/menu-items/menu-item-list-layouts/04-tags-compact-list-of-tagged-items-list-layouts-tab.png)
 
 - **Immagine Elemento** Mostra o nascondi l'immagine per ciascun elemento.
 - **Descrizione Elemento** Mostra o nascondi la descrizione per ciascun elemento nell'elenco. La lunghezza può essere limitata utilizzando l'opzione Massimo Caratteri.

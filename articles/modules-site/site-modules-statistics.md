@@ -26,7 +26,7 @@ Alcuni elementi di questa pagina sono trattati in articoli della Guida separati:
 
 ## Schermata
 
-![scheda modulo statistiche](../../../it/images/modules-site/modules-statistics-module-tab.png)
+![scheda modulo statistiche](../../../it/images/modules-site/site-modules-statistics/01-modules-statistics-module-tab.png)
 
 ## Campi del modulo
 

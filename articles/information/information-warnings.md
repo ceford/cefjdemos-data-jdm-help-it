@@ -10,7 +10,7 @@ Questa schermata visualizzerà eventuali avvisi relativi alle estensioni install
 
 ## Screenshot
 
-![Avvertimenti di Informazione](../../../it/images/information/warnings.png)
+![Avvertimenti di Informazione](../../../it/images/information/information-warnings/01-warnings.png)
 
 Sure, here is the translated text:
 

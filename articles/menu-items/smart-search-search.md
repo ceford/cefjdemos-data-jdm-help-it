@@ -34,7 +34,7 @@ Per modificare un elemento di menu di ricerca esistente:
 
 ## Schermata
 
-![Dettagli della scheda Smart Search degli elementi del menu](../../../it/images/menu-items/smart-search-search-details-tab.png)
+![Dettagli della scheda Smart Search degli elementi del menu](../../../it/images/menu-items/smart-search-search/01-smart-search-search-details-tab.png)
 
 ## Campi del Modulo
 
@@ -43,7 +43,7 @@ Se per qualsiasi opzione è selezionato *Usa Globale*, viene utilizzato il valor
 
 ### Scheda Opzioni
 
-![Scheda opzioni di Smart Search dell'elemento di menu](../../../it/images/menu-items/smart-search-search-options-tab.png)
+![Scheda opzioni di Smart Search dell'elemento di menu](../../../it/images/menu-items/smart-search-search/02-smart-search-search-options-tab.png)
 
 - **Filtri Data** Mostra o nascondi i filtri della data di inizio e fine nella ricerca avanzata.
 - **Ricerca Avanzata** Mostra o nascondi la ricerca avanzata per elemento.
@@ -58,7 +58,7 @@ Se per qualsiasi opzione è selezionato *Usa Globale*, viene utilizzato il valor
 
 ### Scheda Avanzata
 
-![Scheda avanzata di Smart Search dell'elemento di menu](../../../it/images/menu-items/smart-search-search-advanced-tab.png)
+![Scheda avanzata di Smart Search dell'elemento di menu](../../../it/images/menu-items/smart-search-search/03-smart-search-search-advanced-tab.png)
 
 - **Selezione di Visualizzazione** Mostra o nascondi il controllo Visualizza # che permette all'utente
   di selezionare il numero di elementi da mostrare nell'elenco.

@@ -33,7 +33,7 @@ Per modificare una voce di menu Modifica Profilo Utente esistente:
 
 ## Screenshot
 
-![Modifica la scheda Dettagli del profilo utente](../../../it/images/menu-items/users-edit-user-profile-details-tab.png)
+![Modifica la scheda Dettagli del profilo utente](../../../it/images/menu-items/users-edit-user-profile/01-users-edit-user-profile-details-tab.png)
 
 Tutti i campi di input del modulo sono coperti negli *Elementi comuni*.
 

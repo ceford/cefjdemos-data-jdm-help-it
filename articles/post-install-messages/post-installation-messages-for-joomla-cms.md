@@ -19,7 +19,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Schermata
 
-![schermata dei messaggi post installazione](../../../it/images/post-install-messages/post-install-messages.png)
+![schermata dei messaggi post installazione](../../../it/images/post-install-messages/post-installation-messages-for-joomla-cms/01-post-install-messages.png)
 
 ## Messaggi
 

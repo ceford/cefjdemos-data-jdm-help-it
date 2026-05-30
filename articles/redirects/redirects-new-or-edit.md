@@ -18,7 +18,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![Reinvia collegamenti](../../../it/images/redirects/redirects-edit.png)
+![Reinvia collegamenti](../../../it/images/redirects/redirects-new-or-edit/01-redirects-edit.png)
 
 ## Campi del modulo
 

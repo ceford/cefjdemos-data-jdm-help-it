@@ -10,7 +10,7 @@ C'è solo un plugin in questo gruppo!
 
 Il plugin *Registro delle Azioni - Joomla* registra le azioni degli utenti sul sito per le estensioni core di Joomla affinché possano essere riviste se necessario. Se questo plugin è abilitato, le ultime azioni compaiono in un modulo nel cruscotto principale:
 
-![Pannello ultime azioni del cruscotto principale](../../../en/images/plugins/plugins-user-actions-log-latest-actions.png)
+![Pannello ultime azioni del cruscotto principale](../../../en/images/plugins/plugin-group-action-logs/01-plugins-user-actions-log-latest-actions.png)
 
 Se il plugin è disabilitato, il modulo del cruscotto principale non cambia. Visualizza le azioni più recenti registrate.
 

@@ -29,7 +29,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![utenti che visualizzano i livelli di accesso](../../../it/images/users/users-edit-viewing-access-level-details-tab.png)
+![utenti che visualizzano i livelli di accesso](../../../it/images/users/users-edit-viewing-access-level/01-users-edit-viewing-access-level-details-tab.png)
 
 ### Scheda Dettagli del Livello
 
@@ -39,7 +39,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ### Scheda Gruppi di Utenti con Accesso di Visualizzazione
 
-![utenti che visualizzano i livelli di accesso](../../../it/images/users/users-edit-viewing-access-level-ugwva-tab.png)
+![utenti che visualizzano i livelli di accesso](../../../it/images/users/users-edit-viewing-access-level/02-users-edit-viewing-access-level-ugwva-tab.png)
 
 Seleziona una casella di controllo per aggiungere un gruppo di utenti a un livello di visualizzazione. Nell'esempio mostrato tutti i gruppi sono figli del gruppo pubblico, quindi non è necessario
 selezionare nessuno dei gruppi figli. Ereditano i permessi di accesso pubblico. Questa funzione dovrebbe essere utilizzata solo per gruppi personalizzati!

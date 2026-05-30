@@ -32,13 +32,13 @@ Per modificare un elemento di menu Contatti in Evidenza esistente:
 
 ## Screenshot
 
-![Dettagli del tab Contatti in evidenza del Menu](../../../it/images/menu-items/contacts-featured-contacts-details-tab.png)
+![Dettagli del tab Contatti in evidenza del Menu](../../../it/images/menu-items/contacts-featured-contacts/01-contacts-featured-contacts-details-tab.png)
 
 ## Campi del Modulo
 
 ### Scheda del Modulo
 
-![Scheda del modulo dei contatti in evidenza del menu](../../../it/images/menu-items/contacts-featured-contacts-form-tab.png)
+![Scheda del modulo dei contatti in evidenza del menu](../../../it/images/menu-items/contacts-featured-contacts/02-contacts-featured-contacts-form-tab.png)
 
 - **Tag** Mostra o nasconde i *Tag* del contatto.
 - **Informazioni di Contatto** Mostra o nasconde le *Informazioni di Contatto* del contatto.
@@ -54,7 +54,7 @@ Per modificare un elemento di menu Contatti in Evidenza esistente:
 Le Opzioni di Posta del Contatto controllano l'aspetto del → *Modulo di Contatto* se
 è abilitato.
 
-![Scheda delle opzioni di posta dei contatti in evidenza del menu](../../../it/images/menu-items/contacts-featured-contacts-mail-options-tab.png)
+![Scheda delle opzioni di posta dei contatti in evidenza del menu](../../../it/images/menu-items/contacts-featured-contacts/03-contacts-featured-contacts-mail-options-tab.png)
 
 - **Modulo di Contatto** Mostra o nasconde il *modulo di contatto* del contatto.
 - **Invia Copia al Mittente** Mostra o nasconde una casella di controllo per consentire a

@@ -22,14 +22,14 @@ c'è un tutorial separato sul [Controllo degli Accessi](jdocmanual?article=user/
 In questo esempio, agli utenti del gruppo Oddjob è stata assegnata
 l'autorizzazione globale per accedere all'interfaccia Amministratore, ma nient'altro.
 
-![Schermata delle Autorizzazioni](../../../it/images/common-elements/global-configuration-permissions-tab.png)
+![Schermata delle Autorizzazioni](../../../it/images/common-elements/edit-permissions/01-global-configuration-permissions-tab.png)
 
 ## Permessi di Configurazione del Componente
 
 Per accedere a un componente specifico, i permessi devono essere impostati nelle opzioni del componente.
 In questo esempio, le opzioni del componente Media.
 
-![Screenshot dei Media](../../../it/images/common-elements/media-options-permissions-tab.png)
+![Screenshot dei Media](../../../it/images/common-elements/edit-permissions/02-media-options-permissions-tab.png)
 
 Noterai che questo componente ha meno Azioni disponibili e al gruppo Oddjob
 sono concessi solo i permessi necessari per svolgere il lavoro.
@@ -52,11 +52,11 @@ Per modificare i permessi per questo componente:
 Dopo il login, un utente nel gruppo Oddjob vedrà i moduli del Cruscotto Home
 che hanno accesso **Speciale** impostato e un link di voce di menu al componente Media.
 
-![Cruscotto Home per Oddjob](../../../it/images/common-elements/home-dashboard-for-oddjob.png)
+![Cruscotto Home per Oddjob](../../../it/images/common-elements/edit-permissions/03-home-dashboard-for-oddjob.png)
 
 E la schermata Media per l'utente Oddjob è come previsto:
 
-![Schermata Media per Oddjob](../../../it/images/common-elements/media-screen-for-oddjob.png)
+![Schermata Media per Oddjob](../../../it/images/common-elements/edit-permissions/04-media-screen-for-oddjob.png)
 
 *Tradotto da openai.com*
 

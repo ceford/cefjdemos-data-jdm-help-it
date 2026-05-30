@@ -8,7 +8,7 @@ Le categorie sono utilizzate da Articoli, Banners, Contatti e altri componenti p
 
 Questo esempio di screenshot utilizza il modulo Articoli: Modifica Categoria.
 
-![Modifica categoria - scheda categoria](../../../it/images/common-elements/articles-edit-category-category-tab.png)
+![Modifica categoria - scheda categoria](../../../it/images/common-elements/edit-category/01-articles-edit-category-category-tab.png)
 
 ## Campi del Modulo
 

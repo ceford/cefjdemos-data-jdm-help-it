@@ -25,7 +25,7 @@ Ci sono due percorsi per la pagina dell'elenco delle Categorie:
 
 ## Screenshot
 
-![Articoli: Elenco delle categorie](../../../it/images/articles/articles-categories-list.png)
+![Articoli: Elenco delle categorie](../../../it/images/articles/articles-categories/01-articles-categories-list.png)
 
 ## Intestazioni di Colonne
 

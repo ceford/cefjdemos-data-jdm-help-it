@@ -32,7 +32,7 @@ Per modificare un elemento di menu **Singolo Weblink** esistente:
 
 ## Screenshot
 
-![Menu voce di menu weblink invia un collegamento web](../../../it/images/menu-items/weblinks-single-weblink-details-tab.png)
+![Menu voce di menu weblink invia un collegamento web](../../../it/images/menu-items/weblinks-single-weblink/01-weblinks-single-weblink-details-tab.png)
 
 Tutti i campi di input del modulo sono coperti negli *Elementi Comuni*.
 

@@ -25,7 +25,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Schermata
 
-![scheda modulo menu dashboard amministratore moduli](../../../it/images/modules-admin/modules-administrator-dashboard-menu-module-tab.png)
+![scheda modulo menu dashboard amministratore moduli](../../../it/images/modules-admin/admin-modules-administrator-dashboard-menu/01-modules-administrator-dashboard-menu-module-tab.png)
 
 ## Campi del Modulo
 

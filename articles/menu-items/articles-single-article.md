@@ -36,7 +36,7 @@ Per modificare un Elemento di Menu:
 
 ## Schermata
 
-![Voce di Menu Articoli - Scheda dettagli Articolo singolo](../../../it/images/menu-items/articles-single-article-details-tab.png)
+![Voce di Menu Articoli - Scheda dettagli Articolo singolo](../../../it/images/menu-items/articles-single-article/01-articles-single-article-details-tab.png)
 
 ## Campi del modulo
 

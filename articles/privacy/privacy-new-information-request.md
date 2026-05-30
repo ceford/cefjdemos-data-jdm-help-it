@@ -17,7 +17,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![richiesta di nuove informazioni sulla privacy](../../../it/images/privacy/privacy-new-information-request.png)
+![richiesta di nuove informazioni sulla privacy](../../../it/images/privacy/privacy-new-information-request/01-privacy-new-information-request.png)
 
 ## Campi del modulo
 

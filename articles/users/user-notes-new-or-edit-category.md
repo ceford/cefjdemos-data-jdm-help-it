@@ -23,7 +23,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di Aiuto separati:
 
 ## Screenshot
 
-![elenco delle note utente](../../../it/images/users/users-user-notes-edit-category.png)
+![elenco delle note utente](../../../it/images/users/user-notes-new-or-edit-category/01-users-user-notes-edit-category.png)
 
 ## Campi del Modulo
 

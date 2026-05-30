@@ -30,7 +30,7 @@ Per modificare un Utente:
 
 ## Schermata
 
-![elenco utenti](../../../it/images/users/users-list.png)
+![elenco utenti](../../../it/images/users/users/01-users-list.png)
 
 ## Intestazioni di Colonna
 

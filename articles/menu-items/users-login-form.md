@@ -33,13 +33,13 @@ Per modificare un elemento di menu Modulo di Accesso esistente:
 
 ## Screenshot
 
-![Dettagli del modulo di accesso - scheda](../../../it/images/menu-items/users-login-form-details-tab.png)
+![Dettagli del modulo di accesso - scheda](../../../it/images/menu-items/users-login-form/01-users-login-form-details-tab.png)
 
 ## Campi del Modulo
 
 ### Scheda Opzioni
 
-![Dettagli della scheda del modulo di login](../../../it/images/menu-items/users-login-form-options-tab.png)
+![Dettagli della scheda del modulo di login](../../../it/images/menu-items/users-login-form/02-users-login-form-options-tab.png)
 
 #### Pannello di Login
 

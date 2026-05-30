@@ -35,7 +35,7 @@ Per modificare un elemento di menu Elenco Contatti in una Categoria esistente:
 
 ## Schermata
 
-![Elenco contatti voce di menu nella scheda dettagli di una categoria](../../../it/images/menu-items/contacts-list-contacts-in-a-category-details-tab.png)
+![Elenco contatti voce di menu nella scheda dettagli di una categoria](../../../it/images/menu-items/contacts-list-contacts-in-a-category/01-contacts-list-contacts-in-a-category-details-tab.png)
 
 ## Campi del Modulo
 
@@ -48,7 +48,7 @@ Per modificare un elemento di menu Elenco Contatti in una Categoria esistente:
 Le Opzioni della Categoria controllano il modo in cui le informazioni della categoria sono mostrate
 nella disposizione. Il Layout della Lista Categoria ha le seguenti Opzioni della Categoria, come mostrato qui sotto.
 
-![Elenco degli Elementi di Menu Contatti in una scheda di categoria Categoria](../../../it/images/menu-items/contacts-list-contacts-in-a-category-category-tab.png)
+![Elenco degli Elementi di Menu Contatti in una scheda di categoria Categoria](../../../it/images/menu-items/contacts-list-contacts-in-a-category/02-contacts-list-contacts-in-a-category-category-tab.png)
 
 - **Titolo della Categoria** Mostra o nasconde il Titolo della Categoria che
   verrà mostrato come sottotitolo nella pagina. Il sottotitolo è solitamente
@@ -67,7 +67,7 @@ nella disposizione. Il Layout della Lista Categoria ha le seguenti Opzioni della
 ### Scheda Visualizzazione Contatto
 
 I campi di Visualizzazione del Contatto controllano l'aspetto della disposizione della lista.
-![Elenco degli Elementi di Menu Contatti in una scheda di visualizzazione contatto Categoria](../../../it/images/menu-items/contacts-featured-contacts-form-tab.png)
+![Elenco degli Elementi di Menu Contatti in una scheda di visualizzazione contatto Categoria](../../../it/images/menu-items/contacts-list-contacts-in-a-category/03-contacts-featured-contacts-form-tab.png)
 
 - **Scegli un Layout** Seleziona dall'elenco dei modelli.
 - **Categoria Contatto** Mostra o nasconde la vista di visualizzazione della Categoria Contatto.
@@ -108,7 +108,7 @@ I campi di Visualizzazione del Contatto controllano l'aspetto della disposizione
 
 Le Opzioni di Mail del Contatto controllano l'aspetto di un → *Modulo di Contatto* se è abilitato.
 
-![Elenco degli Elementi di Menu Contatti in una scheda opzioni mail Categoria](../../../it/images/menu-items/contacts-featured-contacts-mail-options-tab.png)
+![Elenco degli Elementi di Menu Contatti in una scheda opzioni mail Categoria](../../../it/images/menu-items/contacts-list-contacts-in-a-category/04-contacts-featured-contacts-mail-options-tab.png)
 
 - **Modulo di Contatto** Mostra o nasconde il *modulo di contatto* del contatto.
 - **Invia Copia al Mittente** Mostra o nasconde una casella di controllo

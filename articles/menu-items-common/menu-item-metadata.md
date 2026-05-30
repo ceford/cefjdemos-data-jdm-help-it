@@ -16,7 +16,7 @@ Sure, here's the translated text:
 
 ## Schermata
 
-![scheda metadati voce di menu](../../../it/images/menu-items-common/menu-item-metadata.png)
+![scheda metadati voce di menu](../../../it/images/menu-items-common/menu-item-metadata/01-menu-item-metadata.png)
 
 ## Campi del modulo
 

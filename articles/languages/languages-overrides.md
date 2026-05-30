@@ -23,7 +23,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Schermata
 
-![Elenco delle sostituzioni delle lingue](../../../it/images/languages/languages-overrides-list.png)
+![Elenco delle sostituzioni delle lingue](../../../it/images/languages/languages-overrides/01-languages-overrides-list.png)
 
 ## Intestazioni delle colonne
 

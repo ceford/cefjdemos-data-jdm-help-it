@@ -33,7 +33,7 @@ Per modificare una Voce di Menu:
 
 ## Schermata
 
-![Menu Articolo Crea Dettagli Articolo scheda](../../../it/images/menu-items/articles-create-article-details-tab.png)
+![Menu Articolo Crea Dettagli Articolo scheda](../../../it/images/menu-items/articles-create-article/01-articles-create-article-details-tab.png)
 
 ## Campi del modulo
 
@@ -61,7 +61,7 @@ Per modificare una Voce di Menu:
 
 ### Opzioni
 
-![Articoli del menu Crea scheda dettagli articolo](../../../it/images/menu-items/articles-create-article-options-tab.png)
+![Articoli del menu Crea scheda dettagli articolo](../../../it/images/menu-items/articles-create-article/02-articles-create-article-options-tab.png)
 
 - **Categoria specifica**
   - *Sì* Gli articoli saranno assegnati alla categoria specificata. L'utente 
@@ -82,7 +82,7 @@ Per modificare una Voce di Menu:
 Questo screenshot mostra il template Frontend di base di Joomla **Cassiopeia** con tutte le opzioni 
 dell'Editing Layout impostate su 'Nascondi'.
 
-![articles-create-article-frontend.png](../../../en/images/menu-items/articles-create-article-frontend.png)
+![articles-create-article-frontend.png](../../../en/images/menu-items/articles-create-article/03-articles-create-article-frontend.png)
 
 ## Suggerimenti
 

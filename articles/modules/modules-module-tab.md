@@ -7,7 +7,7 @@ unico per ogni modulo ma il pannello destro è identico.
 
 ## Screenshot
 
-![registro delle azioni modulo più recente](../../../it/images/modules/modules-custom-module-tab.png)
+![registro delle azioni modulo più recente](../../../it/images/modules/modules-module-tab/01-modules-custom-module-tab.png)
 
 ## Campi del Modulo
 

@@ -23,7 +23,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![Screenshot dell'elenco degli articoli in primo piano](../../../it/images/articles/articles-featured-list.png)
+![Screenshot dell'elenco degli articoli in primo piano](../../../it/images/articles/articles-featured/01-articles-featured-list.png)
 
 ## Suggerimenti
 

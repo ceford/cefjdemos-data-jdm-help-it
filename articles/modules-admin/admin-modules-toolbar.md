@@ -23,7 +23,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di Aiuto separati:
 
 ## Schermata
 
-![barra degli strumenti dei moduli scheda modulo](../../../it/images/modules-admin/modules-toolbar-module-tab.png)
+![barra degli strumenti dei moduli scheda modulo](../../../it/images/modules-admin/admin-modules-toolbar/01-modules-toolbar-module-tab.png)
 
 ## Campi del modulo
 

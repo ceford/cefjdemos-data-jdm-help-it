@@ -22,7 +22,7 @@ Alcuni elementi di questa pagina sono trattati in articoli separati della Guida:
 
 ## Schermata
 
-![Elenco dei modelli di posta](../../../it/images/mail/mail-templates.png)
+![Elenco dei modelli di posta](../../../it/images/mail/mail-templates/01-mail-templates.png)
 
 ## Intestazioni delle colonne
 

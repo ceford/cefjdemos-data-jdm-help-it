@@ -22,7 +22,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![Elenco degli stili del sito dei modelli](../../../it/images/templates/templates-site-styles-list.png)
+![Elenco degli stili del sito dei modelli](../../../it/images/templates/templates-styles/01-templates-site-styles-list.png)
 
 *Tradotto da openai.com*
 

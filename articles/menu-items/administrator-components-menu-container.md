@@ -56,7 +56,7 @@ Per modificare un Elemento di Menu del Contenitore Componenti esistente, selezio
 
 ## Screenshot
 
-![Contenitore del Menu Componenti](../../../en/images/menu-items/administrator-components-menu-container.png)
+![Contenitore del Menu Componenti](../../../en/images/menu-items/administrator-components-menu-container/01-administrator-components-menu-container.png)
 
 ## Campi del Modulo
 

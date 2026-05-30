@@ -39,7 +39,7 @@ Ci sono due modi per accedere alla pagina dell'elenco degli Articoli:
 
 ## Screenshot
 
-![Elenco degli articoli](../../../it/images/articles/articles-list.png)
+![Elenco degli articoli](../../../it/images/articles/articles/01-articles-list.png)
 
 ## Intestazioni di Colonna
 

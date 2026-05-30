@@ -20,7 +20,7 @@ Alcuni aspetti di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![Modifica passaggio dei tour guidati](../../../it/images/guided-tours/guided-tours-edit-step.png)
+![Modifica passaggio dei tour guidati](../../../it/images/guided-tours/guided-tours-edit-step/01-guided-tours-edit-step.png)
 
 ## Campi del Modulo
 
@@ -76,7 +76,7 @@ di quella chiave per la lingua dell'utente.
 
 ### Scheda Opzioni
 
-![Opzioni della scheda modifica passaggio nei tour guidati](../../../it/images/guided-tours/guided-tours-edit-step-options-tab.png)
+![Opzioni della scheda modifica passaggio nei tour guidati](../../../it/images/guided-tours/guided-tours-edit-step/02-guided-tours-edit-step-options-tab.png)
 
 ## Suggerimenti
 

@@ -27,7 +27,7 @@ Help separati:
 
 ## Screenshot
 
-![Elenco aggiornamenti estensioni](../../../it/images/extensions/update-list.png)
+![Elenco aggiornamenti estensioni](../../../it/images/extensions/extensions-update/01-update-list.png)
 
 ## Consigli
 

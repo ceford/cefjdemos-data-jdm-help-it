@@ -22,7 +22,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Schermata
 
-![Elenco dei plugin](../../../it/images/plugins/plugins-list.png)
+![Elenco dei plugin](../../../it/images/plugins/plugins/01-plugins-list.png)
 
 ## Suggerimenti
 

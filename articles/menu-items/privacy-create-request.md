@@ -33,7 +33,7 @@ Per modificare una voce di menu esistente **Richiesta Creazione**:
 
 ## Schermata
 
-![Dettagli scheda Richiesta Creazione Elemento Menu Privacy](../../../it/images/menu-items/privacy-create-request-details-tab.png)
+![Dettagli scheda Richiesta Creazione Elemento Menu Privacy](../../../it/images/menu-items/privacy-create-request/01-privacy-create-request-details-tab.png)
 
 Tutti i campi di input del modulo sono trattati negli *Elementi Comuni*.
 

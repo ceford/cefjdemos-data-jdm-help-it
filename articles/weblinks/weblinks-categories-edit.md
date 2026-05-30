@@ -23,7 +23,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![modifica categoria collegamenti web tab](../../../it/images/weblinks/web-links-edit-category-category-tab.png)
+![modifica categoria collegamenti web tab](../../../it/images/weblinks/weblinks-categories-edit/01-web-links-edit-category-category-tab.png)
 
 ## Campi del Modulo
 

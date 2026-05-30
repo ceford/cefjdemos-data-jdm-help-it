@@ -24,7 +24,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![elenco note utente](../../../it/images/users/users-user-notes-list.png)
+![elenco note utente](../../../it/images/users/user-notes/01-users-user-notes-list.png)
 
 
 ## Suggerimenti

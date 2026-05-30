@@ -6,7 +6,7 @@ La scheda Modulo: Avanzate viene utilizzata con variazioni minime in tutti i mod
 
 ## Screenshot
 
-![Scheda avanzata dei moduli](../../../it/images/modules/modules-custom-advanced-tab.png)
+![Scheda avanzata dei moduli](../../../it/images/modules/modules-advanced-tab/01-modules-custom-advanced-tab.png)
 
 ## Campi del Modulo
 

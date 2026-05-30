@@ -20,7 +20,7 @@ Alcuni aspetti di questa pagina sono trattati in articoli della Guida separati:
 
 ## Screenshot
 
-![Modifica banner cliente](../../../it/images/banners/banners-edit-client-details-tab.png)
+![Modifica banner cliente](../../../it/images/banners/banners-edit-client/01-banners-edit-client-details-tab.png)
 
 ## Campi del Modulo
 
@@ -50,7 +50,7 @@ Alcuni aspetti di questa pagina sono trattati in articoli della Guida separati:
 
 ### Scheda Metadata
 
-![Scheda metadata modifica cliente banner](../../../it/images/banners/banners-edit-client-metadata-tab.png)
+![Scheda metadata modifica cliente banner](../../../it/images/banners/banners-edit-client/02-banners-edit-client-metadata-tab.png)
 
 - **Parole Chiave** Inserimento facoltativo per parole chiave. Devono essere inserite separate
   da virgole (per esempio, "gatti, cani, animali domestici") e possono essere inserite 

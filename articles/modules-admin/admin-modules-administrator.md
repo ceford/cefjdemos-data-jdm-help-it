@@ -22,11 +22,11 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot - Elenco dei Moduli Installati per l'Amministratore
 
-![elenco moduli amministratore](../../../it/images/modules-admin/modules-administrator-list.png)
+![elenco moduli amministratore](../../../it/images/modules-admin/admin-modules-administrator/01-modules-administrator-list.png)
 
 ## Screenshot - Elenco dei Moduli Amministratore Disponibili
 
-![moduli amministratore disponibili](../../../it/images/modules-admin/modules-administrator-available.png)
+![moduli amministratore disponibili](../../../it/images/modules-admin/admin-modules-administrator/02-modules-administrator-available.png)
 
 ## Posizioni dei Moduli
 

@@ -30,7 +30,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![elenco dei flussi di lavoro](../../../it/images/workflows/workflows-list.png)
+![elenco dei flussi di lavoro](../../../it/images/workflows/workflows/01-workflows-list.png)
 
 ## Intestazioni delle colonne
 

@@ -23,7 +23,7 @@ Alcuni aspetti di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![Manutenzione Svuota Cache](../../../it/images/maintenance/maintenance-clear-cache.png)
+![Manutenzione Svuota Cache](../../../it/images/maintenance/maintenance-clear-cache/01-maintenance-clear-cache.png)
 
 ## Intestazioni delle Colonne
 

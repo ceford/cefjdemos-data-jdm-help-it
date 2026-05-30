@@ -35,7 +35,7 @@ Per modificare un elemento di menu Modulo di Registrazione esistente:
 
 ## Screenshot
 
-![Scheda dettagli del modulo di registrazione](../../../it/images/menu-items/users-registration-form-details-tab.png)
+![Scheda dettagli del modulo di registrazione](../../../it/images/menu-items/users-registration-form/01-users-registration-form-details-tab.png)
 
 Tutti i campi di input del modulo sono trattati negli *Elementi Comuni*.
 

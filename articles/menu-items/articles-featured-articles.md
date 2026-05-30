@@ -36,7 +36,7 @@ Per modificare una voce di menu:
 
 ## Schermata
 
-![Dettagli scheda Articoli in Primo Piano nel menu degli elementi](../../../it/images/menu-items/articles-featured-details-tab.png)
+![Dettagli scheda Articoli in Primo Piano nel menu degli elementi](../../../it/images/menu-items/articles-featured-articles/01-articles-featured-details-tab.png)
 
 ## Suggerimenti
 

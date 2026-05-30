@@ -17,7 +17,7 @@ Alcuni aspetti di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![Opzioni di Aggiornamento Joomla](../../../en/images/joomla-update/joomla-update-options.png)
+![Opzioni di Aggiornamento Joomla](../../../en/images/joomla-update/joomla-update-options/01-joomla-update-options.png)
 
 ## Campi del Modulo
 

@@ -26,7 +26,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![modulo articoli più letti](../../../it/images/modules-site/modules-articles-most-read-module-tab.png)
+![modulo articoli più letti](../../../it/images/modules-site/site-modules-articles-most-read/01-modules-articles-most-read-module-tab.png)
 
 ## Campi del Modulo
 

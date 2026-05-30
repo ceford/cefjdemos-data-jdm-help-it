@@ -25,7 +25,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di assistenza separat
 
 ## Screenshot
 
-![modules joomla version module tab](../../../it/images/modules-admin/modules-joomla-version-module-tab.png)
+![modules joomla version module tab](../../../it/images/modules-admin/admin-modules-joomla-version-information/01-modules-joomla-version-module-tab.png)
 
 ## Campi del Modulo
 

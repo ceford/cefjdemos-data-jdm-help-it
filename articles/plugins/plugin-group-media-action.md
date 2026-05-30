@@ -4,7 +4,7 @@
 
 Questo gruppo di plugin permette di ritagliare, ridimensionare e ruotare le immagini. Nella pagina Media, passa il cursore su una miniatura, seleziona il simbolo del menu (...) e poi il simbolo di modifica (matita). Questo apre la pagina *Modifica Media*:
 
-![Pagina di modifica media](../../../en/images/plugins/plugin-group-media-action-media-edit-page.png)
+![Pagina di modifica media](../../../en/images/plugins/plugin-group-media-action/01-plugin-group-media-action-media-edit-page.png)
 
 ### Azione Media - Ritaglia
 

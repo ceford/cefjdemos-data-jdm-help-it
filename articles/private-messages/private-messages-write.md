@@ -20,7 +20,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Schermata
 
-![messaggi privati scrivi](../../../it/images/private-messages/private-messages-write.png)
+![messaggi privati scrivi](../../../it/images/private-messages/private-messages-write/01-private-messages-write.png)
 
 ## Campi del modulo
 

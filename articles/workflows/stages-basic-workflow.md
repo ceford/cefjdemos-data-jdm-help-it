@@ -31,7 +31,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Schermata
 
-![elenco dei passaggi del flusso di lavoro di base](../../../it/images/workflows/stages-basic-workflow-list.png)
+![elenco dei passaggi del flusso di lavoro di base](../../../it/images/workflows/stages-basic-workflow/01-stages-basic-workflow-list.png)
 
 *Tradotto da openai.com*
 

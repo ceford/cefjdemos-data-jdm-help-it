@@ -32,7 +32,7 @@ Per creare un nuovo utente:
 
 ## Schermata
 
-![modifica dettagli utente tab](../../../it/images/users/users-edit-account-details-tab.png)
+![modifica dettagli utente tab](../../../it/images/users/users-new-or-edit/01-users-edit-account-details-tab.png)
 
 ## Campi del Modulo
 
@@ -54,13 +54,13 @@ Per creare un nuovo utente:
 
 ### Scheda Gruppi di Utenti Assegnati
 
-![scheda gruppi di utenti assegnati](../../../it/images/users/users-edit-assigned-user-groups-tab.png)
+![scheda gruppi di utenti assegnati](../../../it/images/users/users-new-or-edit/02-users-edit-assigned-user-groups-tab.png)
 
 Il predefinito è *Registrato* ma può essere modificato nella pagina *Utente: Opzioni*.
 
 ### Impostazioni di Base
 
-![scheda impostazioni di base](../../../it/images/users/users-edit-basic-settings-tab.png)
+![scheda impostazioni di base](../../../it/images/users/users-new-or-edit/03-users-edit-basic-settings-tab.png)
 
 - **Stile del Template Backend** Seleziona uno stile del template per l'interfaccia Backend dell'Amministratore. Questo influirà solo su questo utente.
 - **Lingua del Backend** Seleziona la lingua per l'interfaccia Backend dell'Amministratore. Questo influirà solo su questo utente.
@@ -70,7 +70,7 @@ Il predefinito è *Registrato* ma può essere modificato nella pagina *Utente: O
 
 ### Impostazioni di Accessibilità
 
-![scheda impostazioni di accessibilità](../../../it/images/users/users-edit-accessibility-settings-tab.png)
+![scheda impostazioni di accessibilità](../../../it/images/users/users-new-or-edit/04-users-edit-accessibility-settings-tab.png)
 
 - **Monocromo** Sì/No
 - **Alto Contrasto** Sì/No
@@ -98,7 +98,7 @@ Il token è visibile solo per il proprio account.
 
 ### Autenticazione Multi-fattore
 
-![scheda autenticazione multi-fattore](../../../it/images/users/users-edit-multi-factor-authentication-tab.png)
+![scheda autenticazione multi-fattore](../../../it/images/users/users-new-or-edit/05-users-edit-multi-factor-authentication-tab.png)
 
 Questa scheda consente di impostare uno o più metodi per consentire l'accesso al proprio account dopo aver effettuato il login con Username e Password. È presente solo quando si modifica il proprio profilo. Sono disponibili diversi metodi. Se si perde l'accesso a un metodo per qualsiasi motivo, è possibile scegliere un altro metodo dalla schermata di verifica post-login. I metodi alternativi devono essere stati impostati in anticipo!
 

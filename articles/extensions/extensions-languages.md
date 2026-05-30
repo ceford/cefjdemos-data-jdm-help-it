@@ -25,7 +25,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![Installazione delle lingue delle estensioni](../../../it/images/extensions/languages-install.png)
+![Installazione delle lingue delle estensioni](../../../it/images/extensions/extensions-languages/01-languages-install.png)
 
 ## Intestazioni delle colonne
 

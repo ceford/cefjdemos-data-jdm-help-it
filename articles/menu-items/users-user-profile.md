@@ -33,7 +33,7 @@ Per modificare un elemento di menu *Profilo Utente* esistente:
 
 ## Screenshot
 
-![Dettagli del profilo utente](../../../it/images/menu-items/users-user-profile-details-tab.png)
+![Dettagli del profilo utente](../../../it/images/menu-items/users-user-profile/01-users-user-profile-details-tab.png)
 
 Tutti i campi di input del modulo sono trattati negli *Elementi Comuni*.
 

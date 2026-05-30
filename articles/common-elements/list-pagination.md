@@ -4,7 +4,7 @@
 
 La maggior parte delle componenti ha visualizzazioni a lista che mostrano elementi dal database. Possono esserci centinaia di elementi, migliaia forse, o persino milioni. Il *Limite della Lista* predefinito, il numero di elementi mostrato in una pagina dei risultati, è solitamente 20. Sotto ogni pagina dei risultati, se ci sono più risultati rispetto al limite attuale, troverai una barra di *Paginazione*:
 
-![Barra di paginazione della lista degli articoli](../../../it/images/common-elements/articles-list-pagination-bar.png)
+![Barra di paginazione della lista degli articoli](../../../it/images/common-elements/list-pagination/01-articles-list-pagination-bar.png)
 
 Con il primo numero della barra di Paginazione selezionato, i primi 20 risultati verranno mostrati nella lista, o qualunque sia il numero di risultati impostato nel Limite della Lista. Seleziona il numero successivo o l'icona Avanti (<span class="icon-angle-right"></span>) per passare alla pagina successiva degli elementi.
 
@@ -12,7 +12,7 @@ Il numero massimo di pagine visualizzato in un'unica barra di paginazione è 10.
 
 Ecco uno screenshot della lista dei Plugin dopo essere passati alla Pagina 10 con il Limite della Lista impostato a 5:
 
-![Barra di paginazione della lista dei plugin](../../../it/images/common-elements/plugins-list-pagination-bar.png)
+![Barra di paginazione della lista dei plugin](../../../it/images/common-elements/list-pagination/02-plugins-list-pagination-bar.png)
 
 ### Le Icone
 

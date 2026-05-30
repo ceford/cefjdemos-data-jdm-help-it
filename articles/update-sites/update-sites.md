@@ -21,7 +21,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di assistenza separat
 
 ## Screenshot
 
-![aggiornare l'elenco dei siti](../../../it/images/update-sites/update-sites-list.png)
+![aggiornare l'elenco dei siti](../../../it/images/update-sites/update-sites/01-update-sites-list.png)
 
 *Tradotto da openai.com*
 

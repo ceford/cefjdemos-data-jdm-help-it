@@ -6,7 +6,7 @@ I plugin in questo gruppo sono utilizzati per il login standard degli utenti all
 
 ## Autenticazione - Cookie
 
-![plugin di autenticazione cookie](../../../en/images/plugins/plugin-group-authentication-cookie.png)
+![plugin di autenticazione cookie](../../../en/images/plugins/plugin-group-authentication/01-plugin-group-authentication-cookie.png)
 
 - **Durata del Cookie** Il numero di giorni fino alla scadenza del cookie di autenticazione. Altri fattori potrebbero causarne la scadenza prima di questo termine. Durate più lunghe sono meno sicure.
 - **Lunghezza della Chiave** La lunghezza della chiave da utilizzare per crittografare il cookie. Lunghezze maggiori sono più sicure, ma rallenteranno le prestazioni.
@@ -19,7 +19,7 @@ Questo plugin elabora il metodo di autenticazione utente predefinito in Joomla. 
 
 Questo plugin gestisce l'autenticazione degli utenti contro un server LDAP.
 
-![plugin di autenticazione ldap](../../../en/images/plugins/plugin-group-authentication-ldap.png)
+![plugin di autenticazione ldap](../../../en/images/plugins/plugin-group-authentication/02-plugin-group-authentication-ldap.png)
 
 - **Host** L'URL dell'host. Ad esempio, `openldap.mycompany.org`.
 - **Porta** Il numero di porta. Il valore predefinito è 389.

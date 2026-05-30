@@ -26,7 +26,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Schermata
 
-![modulo popolare tag scheda](../../../it/images/modules-site/modules-tags-popular-module-tab.png)
+![modulo popolare tag scheda](../../../it/images/modules-site/site-modules-tags-popular/01-modules-tags-popular-module-tab.png)
 
 ## Campi del Modulo
 

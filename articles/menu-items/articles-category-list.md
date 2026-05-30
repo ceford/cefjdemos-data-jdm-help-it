@@ -36,7 +36,7 @@ Per modificare una Voce di Menù:
 
 ## Screenshot
 
-![Elenco delle categorie degli elementi del menu](../../../it/images/menu-items/articles-category-list-details-tab.png)
+![Elenco delle categorie degli elementi del menu](../../../it/images/menu-items/articles-category-list/01-articles-category-list-details-tab.png)
 
 ## Campi del modulo
 

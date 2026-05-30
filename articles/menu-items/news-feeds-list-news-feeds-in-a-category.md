@@ -35,13 +35,13 @@ Per modificare un elemento di menu esistente Elenca Feed di Notizie in una Categ
 
 ## Schermata
 
-![Elenco voci di menu Notizie in una scheda di dettaglio Categoria](../../../it/images/menu-items/news-feeds-list-newsfeeds-in-a-category-details-tab.png)
+![Elenco voci di menu Notizie in una scheda di dettaglio Categoria](../../../it/images/menu-items/news-feeds-list-news-feeds-in-a-category/01-news-feeds-list-newsfeeds-in-a-category-details-tab.png)
 
 ## Campi del Modulo
 
 ### Scheda Opzioni di Visualizzazione del Feed
 
-![Elenco degli Oggetti nel Menu Feeds di Notizie in una Categoria scheda dettagli](../../../it/images/menu-items/news-feeds-list-newfeeds-in-a-category-feed-display-options-tab.png)
+![Elenco degli Oggetti nel Menu Feeds di Notizie in una Categoria scheda dettagli](../../../it/images/menu-items/news-feeds-list-news-feeds-in-a-category/02-news-feeds-list-newfeeds-in-a-category-feed-display-options-tab.png)
 
 - **Immagine del Feed** Mostra o nascondi l'immagine dei Feeds di Notizie.
 - **Descrizione del Feed** Mostra o nascondi la descrizione del Feed di Notizie.

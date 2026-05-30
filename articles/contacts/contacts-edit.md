@@ -28,7 +28,7 @@ Alcuni aspetti di questa pagina sono trattati in articoli della Guida separati:
 
 ## Schermata
 
-![Modifica contatto di Contatti](../../../it/images/contacts/contacts-edit-contact-tab.png)
+![Modifica contatto di Contatti](../../../it/images/contacts/contacts-edit/01-contacts-edit-contact-tab.png)
 
 ## Campi del Modulo
 
@@ -72,13 +72,13 @@ Qui inserisci le informazioni di base sul contatto.
 
 ### Scheda Informazioni Varie
 
-![Scheda modifica contatto contatti](../../../it/images/contacts/contacts-edit-miscellaneous-tab.png)
+![Scheda modifica contatto contatti](../../../it/images/contacts/contacts-edit/02-contacts-edit-miscellaneous-tab.png)
 
 Altre informazioni su questo Contatto possono essere inserite utilizzando l'editor.
 
 ### Scheda Visualizzazione
 
-![Scheda modifica contatto contatti](../../../it/images/contacts/contacts-edit-display-tab.png)
+![Scheda modifica contatto contatti](../../../it/images/contacts/contacts-edit/03-contacts-edit-display-tab.png)
 
 - **Mostra Categoria** Mostra o nasconde la categoria del Contatto.
 - **Mostra Elenco Contatti** Mostra o nasconde l'elenco dei Contatti.
@@ -106,7 +106,7 @@ Altre informazioni su questo Contatto possono essere inserite utilizzando l'edit
 
 ### Scheda Modulo
 
-![Scheda modifica contatto contatti](../../../it/images/contacts/contacts-edit-form-tab.png)
+![Scheda modifica contatto contatti](../../../it/images/contacts/contacts-edit/04-contacts-edit-form-tab.png)
 
 - **Modulo Contatti** Mostra o nasconde il modulo e-mail. Se selezionato su Mostra, viene visualizzato un modulo che consente all'utente di inviare un'e-mail al Contatto dal sito web.
 - **Invia Copia al Mittente** Mostra o nasconde la casella di controllo: *Invia una copia di questo messaggio al tuo indirizzo*.

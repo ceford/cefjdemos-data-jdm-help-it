@@ -19,7 +19,7 @@ Alcuni aspetti di questa pagina sono trattati in articoli di Aiuto separati:
 
 ## Screenshot
 
-![controllo globale della manutenzione](../../../it/images/maintenance/maintenance-global-check-in.png)
+![controllo globale della manutenzione](../../../it/images/maintenance/maintenance-global-check-in/01-maintenance-global-check-in.png)
 
 ## Consigli
 

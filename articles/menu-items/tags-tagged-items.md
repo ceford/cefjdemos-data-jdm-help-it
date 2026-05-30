@@ -21,13 +21,13 @@ Per modificare un elemento di menu Elementi Taggati esistente:
 
 ## Schermata
 
-![Scheda dettagli degli articoli taggati](../../../it/images/menu-items/tags-tagged-items-details-tab.png)
+![Scheda dettagli degli articoli taggati](../../../it/images/menu-items/tags-tagged-items/01-tags-tagged-items-details-tab.png)
 
 ## Campi del Modulo
 
 ### Scheda Opzioni Tag
 
-![Dettagli degli oggetti taggati](../../../it/images/menu-items/tags-tagged-items-tag-options-tab.png)
+![Dettagli degli oggetti taggati](../../../it/images/menu-items/tags-tagged-items/02-tags-tagged-items-tag-options-tab.png)
 
 - **Nome del Tag** Mostra o nasconde il nome del tag per un layout con un solo tag.
 - **Immagine del Tag** Mostra o nasconde l'immagine del tag per un layout con un solo tag.
@@ -41,7 +41,7 @@ Per modificare un elemento di menu Elementi Taggati esistente:
 
 ### Scheda Opzioni Articolo
 
-![Dettagli degli oggetti taggati](../../../it/images/menu-items/tags-tagged-items-item-options-tab.png)
+![Dettagli degli oggetti taggati](../../../it/images/menu-items/tags-tagged-items/03-tags-tagged-items-item-options-tab.png)
 
 - **Immagine dell'Articolo** Mostra o nasconde l'immagine per ogni articolo.
 - **Descrizione dell'Articolo** Mostra o nasconde la descrizione per ogni articolo nella lista.
@@ -50,7 +50,7 @@ Per modificare un elemento di menu Elementi Taggati esistente:
 
 ### Scheda Opzioni di Paginazione
 
-![Dettagli degli oggetti taggati](../../../it/images/menu-items/tags-tagged-items-pagination-options-tab.png)
+![Dettagli degli oggetti taggati](../../../it/images/menu-items/tags-tagged-items/04-tags-tagged-items-pagination-options-tab.png)
 
 - **Selezione di Visualizzazione** Mostra o nasconde il controllo \# che permette all'utente di selezionare il numero di articoli da mostrare nella lista. Nota che se hai un grande numero di articoli, potrebbe essere utile utilizzare le opzioni del Filtro per limitare quali articoli visualizzare.
 - **Paginazione** Mostra o nasconde il supporto alla paginazione. La paginazione fornisce link alle pagine in fondo alla pagina che permettono all'Utente di navigare verso altre pagine.
@@ -58,7 +58,7 @@ Per modificare un elemento di menu Elementi Taggati esistente:
 
 ### Scheda Opzioni Selezione Articolo
 
-![Dettagli degli oggetti taggati](../../../it/images/menu-items/tags-tagged-items-item-selection-options-tab.png)
+![Dettagli degli oggetti taggati](../../../it/images/menu-items/tags-tagged-items/05-tags-tagged-items-item-selection-options-tab.png)
 
 - **Tipo di Corrispondenza** Tutti restituiranno articoli che hanno tutti i tag. Qualsiasi restituirà articoli che hanno almeno uno dei tag.
 - **Tag Figli** Includi o escludi i tag figli dall'elenco dei risultati per un tag.

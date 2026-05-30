@@ -4,7 +4,7 @@
 
 Le Icone Veloci appaiono in pannelli nella Dashboard Home per fornire un facile accesso visivo alle funzionalità di Joomla come alternativa all'utilizzo dei Menu dell'Amministratore. Alcune delle Icone Veloci ottengono informazioni aggiuntive dopo la visualizzazione iniziale. I plugin vengono utilizzati per ottenere tali informazioni aggiuntive. Ad esempio, questo è il pannello dei Controlli degli Aggiornamenti che mostra che sono disponibili due aggiornamenti delle Estensioni.
 
-![Pannello dei controlli degli aggiornamenti della dashboard Home](../../../en/images/plugins/plugin-group-quick-icon-update-checks.png)
+![Pannello dei controlli degli aggiornamenti della dashboard Home](../../../en/images/plugins/plugin-group-quick-icon/01-plugin-group-quick-icon-update-checks.png)
 
 Se osservi attentamente il caricamento o ricaricamento della pagina, vedrai che le icone cambiano colore da blu a verde o rosso, significando aggiornato o non aggiornato. Se disabiliti un plugin, non apparirà nella Dashboard Home.
 
@@ -12,7 +12,7 @@ Se osservi attentamente il caricamento o ricaricamento della pagina, vedrai che 
 
 Controlla gli aggiornamenti delle estensioni di terze parti installate e ti avvisa quando visiti la pagina della Dashboard Home.
 
-![Modulo di modifica della notifica degli aggiornamenti delle estensioni Joomla](../../../en/images/plugins/plugin-group-quick-icon-extensions-updates-notification.png)
+![Modulo di modifica della notifica degli aggiornamenti delle estensioni Joomla](../../../en/images/plugins/plugin-group-quick-icon/02-plugin-group-quick-icon-extensions-updates-notification.png)
 
 - **Gruppo** Il gruppo di questo plugin (questo valore viene confrontato con il gruppo utilizzato nei moduli delle Icone Veloci per iniettare le icone).
 
@@ -30,7 +30,7 @@ Controlla le richieste di privacy che devono essere gestite e ti avvisa quando v
 
 Controlla gli aggiornamenti di Joomla e ti avvisa quando visiti la pagina della Dashboard Home.
 
-![Modulo di modifica della notifica degli aggiornamenti Joomla](../../../en/images/plugins/plugin-group-quick-icon-joomla-update-notification.png)
+![Modulo di modifica della notifica degli aggiornamenti Joomla](../../../en/images/plugins/plugin-group-quick-icon/03-plugin-group-quick-icon-joomla-update-notification.png)
 
 - **Gruppo** Il gruppo di questo plugin (questo valore viene confrontato con il gruppo utilizzato nei moduli delle Icone Veloci per iniettare le icone).
 

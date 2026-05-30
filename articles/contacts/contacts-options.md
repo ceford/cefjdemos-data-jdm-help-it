@@ -18,7 +18,7 @@ Alcuni aspetti di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![Screenshot delle opzioni dei contatti](../../../it/images/contacts/contacts-options-contact-tab.png)
+![Screenshot delle opzioni dei contatti](../../../it/images/contacts/contacts-options/01-contacts-options-contact-tab.png)
 
 ## Campi del Formulario
 
@@ -67,7 +67,7 @@ Queste impostazioni si applicano al singolo Contatto a meno che non vengano camb
 
 ### Scheda Icone
 
-![Scheda icone opzioni contatti](../../../it/images/contacts/contacts-options-icons-tab.png)
+![Scheda icone opzioni contatti](../../../it/images/contacts/contacts-options/02-contacts-options-icons-tab.png)
 
 Queste impostazioni si applicano al singolo Contatto a meno che non vengano cambiate per un elemento del menu specifico o Contatto
 
@@ -83,7 +83,7 @@ Queste impostazioni si applicano al singolo Contatto a meno che non vengano camb
 
 Le Opzioni della Categoria controllano come verranno mostrati i contatti quando si accede a una Categoria per visualizzarne i contatti.
 
-![Scheda opzioni categoria](../../../it/images/contacts/contacts-options-category-tab.png)
+![Scheda opzioni categoria](../../../it/images/contacts/contacts-options/03-contacts-options-category-tab.png)
 
 - **Scegli un Layout** (Blog/Lista/definito dall'utente). Questo permette di selezionare il layout predefinito da mostrare quando si clicca su un link Categoria. Se crei un layout alternativo per una categoria, puoi selezionarlo come predefinito.
 - **Titolo Categoria** Mostra o nasconde il titolo della categoria.
@@ -99,13 +99,13 @@ Le Opzioni della Categoria controllano come verranno mostrati i contatti quando 
 
 Queste impostazioni si applicano alle Opzioni delle Categorie di Contatti a meno che non vengano cambiate per un elemento del menu specifico.
 
-![Scheda opzioni categorie](../../../it/images/contacts/contacts-options-categories-tab.png)
+![Scheda opzioni categorie](../../../it/images/contacts/contacts-options/04-contacts-options-categories-tab.png)
 
 ### Scheda Layout Lista
 
 Queste impostazioni si applicano alle Opzioni della Lista Contatti a meno che non vengano cambiate per un elemento del menu specifico.
 
-![Scheda layout lista](../../../it/images/contacts/contacts-options-list-layouts-tab.png)
+![Scheda layout lista](../../../it/images/contacts/contacts-options/05-contacts-options-list-layouts-tab.png)
 
 - **Campo Filtro** Il Campo Filtro crea un campo di testo dove l'utente può inserire un campo da utilizzare per filtrare gli articoli mostrati nella lista. Le opzioni possibili per questo (nella modifica dell'elemento del menu nel back-end) sono mostrate di seguito.
     - *Nascondi* Non mostra un campo filtro.
@@ -135,7 +135,7 @@ Queste impostazioni si applicano alle Opzioni della Lista Contatti a meno che no
 
 Queste impostazioni si applicano al singolo Contatto a meno che non vengano cambiate per un elemento del menu specifico o Contatto.
 
-![Scheda opzioni formulario](../../../it/images/contacts/contacts-options-form-tab.png)
+![Scheda opzioni formulario](../../../it/images/contacts/contacts-options/06-contacts-options-form-tab.png)
 
 - **Permetti Captcha sul Contatto** Usa Default o Nessuna Selezionata. Seleziona il plugin captcha che verrà utilizzato nel modulo di contatto. Captcha è il nome di una tecnica per prevenire la registrazione spam degli utenti richiedendo a un utente di digitare caratteri da un'immagine distorta o di segnare *Non sono un robot*. Potrebbe essere necessario inserire altre informazioni per il tuo plugin Captcha nel Gestore Plugin.
 - **Modulo di Contatto** Mostra o nasconde il modulo di contatto.

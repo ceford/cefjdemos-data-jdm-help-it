@@ -25,7 +25,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di Aiuto separati:
 
 ## Screenshot
 
-![gruppi di utenti](../../../it/images/users/users-groups-list.png)
+![gruppi di utenti](../../../it/images/users/users-groups/01-users-groups-list.png)
 
 ## Suggerimenti
 

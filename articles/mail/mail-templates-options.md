@@ -21,7 +21,7 @@ Alcuni aspetti di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![Opzioni dei Modelli di Posta](../../../it/images/mail/mail-templates-options-mails-tab.png)
+![Opzioni dei Modelli di Posta](../../../it/images/mail/mail-templates-options/01-mail-templates-options-mails-tab.png)
 
 ## Campi del Modulo
 

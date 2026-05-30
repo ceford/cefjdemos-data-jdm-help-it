@@ -25,7 +25,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![moduli verifica dello stato della privacy modulo scheda](../../../it/images/modules-admin/modules-privacy-status-check-module-tab.png)
+![moduli verifica dello stato della privacy modulo scheda](../../../it/images/modules-admin/admin-modules-privacy-status-check/01-modules-privacy-status-check-module-tab.png)
 
 
 ## Campi del Modulo

@@ -10,7 +10,7 @@ Se ci sono molti pulsanti, essi si disporranno su due righe. Alcuni esempi:
 
 ### Barra degli strumenti di modifica dell'articolo
 
-![Barra degli strumenti di modifica dell'articolo](../../../it/images/common-elements/article-edit-toolbar.png)
+![Barra degli strumenti di modifica dell'articolo](../../../it/images/common-elements/toolbars/01-article-edit-toolbar.png)
 
 I pulsanti senza un'icona a forma di freccia verso il basso funzionano immediatamente. Quindi, **Salva** salverà la pagina e ritornerà con un messaggio di conferma verde o un messaggio di errore rosso. Si noti che, nella maggior parte dei casi, il pulsante **Annulla** chiuderà una pagina di modifica senza salvare alcuna modifica.
 
@@ -22,7 +22,7 @@ Per favore, esplora cosa fanno i vari pulsanti!
 
 ### Barra degli strumenti della lista dei plugin
 
-![Barra degli strumenti della lista dei plugin](../../../it/images/common-elements/plugins-list-toolbar.png)
+![Barra degli strumenti della lista dei plugin](../../../it/images/common-elements/toolbars/02-plugins-list-toolbar.png)
 
 In questo esempio di barra degli strumenti i pulsanti sono grigi per indicare che sono inattivi. Diventano luminosi e attivi quando una casella di controllo degli elementi del Plugin viene selezionata per renderla pronta a essere abilitata, disabilitata o registrata. È possibile selezionare diversi elementi della lista per un'azione simultanea, che è lo scopo principale di questi pulsanti della barra degli strumenti. I singoli elementi possono essere elaborati con le icone in ciascuna riga (non mostrato).
 

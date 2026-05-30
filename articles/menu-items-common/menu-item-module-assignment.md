@@ -13,7 +13,7 @@ Tutti gli elementi del menu hanno un layout simile, ma alcuni campi del modulo e
 
 ## Schermata
 
-![scheda di assegnazione modulo voce di menu](../../../it/images/menu-items-common/menu-item-module-assignment.png)
+![scheda di assegnazione modulo voce di menu](../../../it/images/menu-items-common/menu-item-module-assignment/01-menu-item-module-assignment.png)
 
 ## Campi del Modulo
 

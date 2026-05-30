@@ -38,7 +38,7 @@ Per modificare una Voce di Menu:
 
 ## Screenshot
 
-![Alias della Voce di Menu](../../../it/images/menu-items/articles-archived-articles-details-tab.png)
+![Alias della Voce di Menu](../../../it/images/menu-items/articles-archived-articles/01-articles-archived-articles-details-tab.png)
 
 ## Campi del Modulo
 
@@ -48,7 +48,7 @@ Per modificare una Voce di Menu:
 
 ### Scheda Archivio
 
-![Menu Articoli Archiviati](../../../it/images/menu-items/articles-archived-articles-archive-tab.png)
+![Menu Articoli Archiviati](../../../it/images/menu-items/articles-archived-articles/02-articles-archived-articles-archive-tab.png)
 
 * **Ordinamento Articoli**
   * **Più Antichi Prima** Gli articoli vengono visualizzati a partire dal più 

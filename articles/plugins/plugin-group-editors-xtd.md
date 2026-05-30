@@ -4,7 +4,7 @@
 
 I plugin editors-xtd aggiungono pulsanti alla lista a discesa del contenuto del CMS nell'editor TinyMCE.
 
-![Esempio di rendering dei pulsanti in TinyMCE](../../../en/images/plugins/plugin-group-editors-extended.png)
+![Esempio di rendering dei pulsanti in TinyMCE](../../../en/images/plugins/plugin-group-editors-xtd/01-plugin-group-editors-extended.png)
 
 ### Pulsante - Articolo
 

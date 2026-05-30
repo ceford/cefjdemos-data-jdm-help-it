@@ -18,7 +18,7 @@ La pagina *Dashboard della Privacy* elenca il Tipo di Richiesta di Privacy dell'
 
 ## Screenshot
 
-![dashboard della privacy](../../../it/images/privacy/privacy-dashboard.png)
+![dashboard della privacy](../../../it/images/privacy/privacy-dashboard/01-privacy-dashboard.png)
 
 ## Pannelli di Controllo
 

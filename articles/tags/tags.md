@@ -21,7 +21,7 @@ Seleziona **Componenti → Tag** dal menu dell'Amministratore.
 
 ## Screenshot
 
-![lista dei tag](../../../it/images/tags/tags-list.png)
+![lista dei tag](../../../it/images/tags/tags/01-tags-list.png)
 
 ## Suggerimenti
 

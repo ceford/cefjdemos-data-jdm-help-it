@@ -28,7 +28,7 @@ Alcuni aspetti di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![scheda dettagli elemento del menu](../../../it/images/menu-items-common/menu-item-details.png)
+![scheda dettagli elemento del menu](../../../it/images/menu-items-common/menus-new-item/01-menu-item-details.png)
 
 ## Campi del Modulo
 

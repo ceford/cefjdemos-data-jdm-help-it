@@ -32,7 +32,7 @@ Per modificare una voce di menu **Invia un Collegamento Web** esistente:
 
 ## Screenshot
 
-![Voce di menu weblinks invia un collegamento web](../../../it/images/menu-items/weblinks-submit-a-web-link-details-tab.png)
+![Voce di menu weblinks invia un collegamento web](../../../it/images/menu-items/weblinks-weblink-submit/01-weblinks-submit-a-web-link-details-tab.png)
 
 Tutti i campi di input del modulo sono coperti negli *Elementi Comuni*.
 

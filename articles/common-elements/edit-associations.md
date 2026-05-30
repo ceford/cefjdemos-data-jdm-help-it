@@ -8,7 +8,7 @@ La scheda Associazioni fa questo nel modulo di modifica di vari componenti: arti
 
 ## Esempio: Articoli: Modifica Scheda Associazioni
 
-![Scheda di modifica delle associazioni degli articoli](../../../it/images/common-elements/articles-edit-association-tab.png)
+![Scheda di modifica delle associazioni degli articoli](../../../it/images/common-elements/edit-associations/01-articles-edit-association-tab.png)
 
 In questa illustrazione è stato creato un articolo in tedesco. È quello che viene
 modificato. L'elenco delle associazioni mostra le lingue disponibili diverse dal tedesco.

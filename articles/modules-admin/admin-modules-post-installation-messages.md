@@ -26,7 +26,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![messaggi post-installazione dei moduli nella scheda del modulo](../../../it/images/modules-admin/modules-post-installation-messages-module-tab.png)
+![messaggi post-installazione dei moduli nella scheda del modulo](../../../it/images/modules-admin/admin-modules-post-installation-messages/01-modules-post-installation-messages-module-tab.png)
 
 ## Campi del Modulo
 

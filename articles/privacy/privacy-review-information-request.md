@@ -26,7 +26,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![richiesta di informazioni sulla revisione della privacy](../../../it/images/privacy/privacy-review-information-request.png)
+![richiesta di informazioni sulla revisione della privacy](../../../it/images/privacy/privacy-review-information-request/01-privacy-review-information-request.png)
 
 ## Dettagli
 

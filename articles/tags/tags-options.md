@@ -18,7 +18,7 @@ Alcuni aspetti di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Schermata
 
-![opzioni dei tag elementi etichettati scheda](../../../it/images/tags/tags-options-tagged-items-tab.png)
+![opzioni dei tag elementi etichettati scheda](../../../it/images/tags/tags-options/01-tags-options-tagged-items-tab.png)
 
 ## Campi del Modulo
 
@@ -56,7 +56,7 @@ Alcuni aspetti di questa pagina sono trattati in articoli di aiuto separati:
 
 ### Tab Selezione Elementi
 
-![opzioni tag tab elementi taggati](../../../it/images/tags/tags-options-item-selection-tab.png)
+![opzioni tag tab elementi taggati](../../../it/images/tags/tags-options/02-tags-options-item-selection-tab.png)
 
 - **Lunghezza Minima di Ricerca** Questa impostazione controlla la lunghezza minima dei caratteri
   per la ricerca e l'aggiunta di tag utilizzando la modalità Ajax del campo tag.
@@ -70,7 +70,7 @@ Alcuni aspetti di questa pagina sono trattati in articoli di aiuto separati:
 
 ### Tab Elenco di Tutti i Tag
 
-![opzioni tag tab elenco di tutti i tag](../../../it/images/tags/tags-options-list-all-tags-tab.png)
+![opzioni tag tab elenco di tutti i tag](../../../it/images/tags/tags-options/03-tags-options-list-all-tags-tab.png)
 
 - **Layout Predefinito dell'Elenco di Tutti i Tag** Scegli un layout predefinito per l'Elenco di
   tutti i tag.
@@ -86,7 +86,7 @@ Alcuni aspetti di questa pagina sono trattati in articoli di aiuto separati:
 
 ### Tab Layout Condiviso
 
-![opzioni tag tab layout condiviso](../../../it/images/tags/tags-options-shared-layout-tab.png)
+![opzioni tag tab layout condiviso](../../../it/images/tags/tags-options/04-tags-options-shared-layout-tab.png)
 
 - **Campo Filtro** Se mostrare un campo Filtro per l'elenco. Seleziona
   Nascondi per nascondere il campo filtro.
@@ -101,7 +101,7 @@ Alcuni aspetti di questa pagina sono trattati in articoli di aiuto separati:
 
 ### Tab Inserimento Dati
 
-![opzioni tag tab inserimento dati](../../../it/images/tags/tags-options-data-entry-tab.png)
+![opzioni tag tab inserimento dati](../../../it/images/tags/tags-options/05-tags-options-data-entry-tab.png)
 
 - **Modalità di Inserimento Tag** La modalità Ajax cerca i tag mentre si digita e consente di
   creare tag al volo. I tag nidificati ti mostrano una vista nidificata con tutti
@@ -109,7 +109,7 @@ Alcuni aspetti di questa pagina sono trattati in articoli di aiuto separati:
 
 ### Tab Integrazione
 
-![opzioni tag tab elementi taggati](../../../it/images/tags/tags-options-integration-tab.png)
+![opzioni tag tab elementi taggati](../../../it/images/tags/tags-options/06-tags-options-integration-tab.png)
 
 - **Mostra Link al Feed** Mostra o nascondi un Link al Feed RSS. (Un Link al Feed apparirà
   come un'icona del feed nella barra degli indirizzi della maggior parte dei browser moderni).

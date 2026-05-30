@@ -16,7 +16,7 @@ Seleziona **Utenti → Posta di massa utenti** dal menu Amministratore.
 
 ## Schermata
 
-![mass mail users](../../../it/images/users/mass-mail-users.png)
+![mass mail users](../../../it/images/users/mass-mail-users/01-mass-mail-users.png)
 
 ## Dettagli e Messaggio
 

@@ -12,7 +12,7 @@ Tutti gli elementi del menu hanno una struttura simile, ma alcuni campi del modu
 
 ## Schermata
 
-![tipo di collegamento dell'elemento del menu](../../../it/images/menu-items-common/menu-item-link-type.png)
+![tipo di collegamento dell'elemento del menu](../../../it/images/menu-items-common/menu-item-link-type/01-menu-item-link-type.png)
 
 ## Campi del Modulo
 

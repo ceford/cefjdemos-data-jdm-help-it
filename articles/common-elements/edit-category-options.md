@@ -15,7 +15,7 @@ Componenti diversi offrono diverse opzioni di layout dal menu a tendina. Ad esem
 ```
 [Da Fare] Esempi per mostrare il cambiamento nell'aspetto con opzioni diverse.
 
-![Scheda opzioni modifica categoria degli articoli](../../../it/images/common-elements/articles-edit-category-options-tab.png)
+![Scheda opzioni modifica categoria degli articoli](../../../it/images/common-elements/edit-category-options/01-articles-edit-category-options-tab.png)
 
 ## Scheda Opzioni
 

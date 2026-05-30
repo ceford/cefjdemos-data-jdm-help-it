@@ -24,7 +24,7 @@ Alcuni aspetti di questa pagina sono trattati in articoli di Aiuto separati:
 
 ## Screenshot
 
-![dashboard principale](../../../it/images/site/system-information-tab.png)
+![dashboard principale](../../../it/images/site/site-system-information/01-system-information-tab.png)
 
 ## Schede del Modulo
 
@@ -57,7 +57,7 @@ Alcuni aspetti di questa pagina sono trattati in articoli di Aiuto separati:
 
 ### Scheda Impostazioni PHP
 
-![home dashboard](../../../it/images/site/php-settings-tab.png)
+![home dashboard](../../../it/images/site/site-system-information/02-php-settings-tab.png)
 
 Questa schermata mostra le informazioni sulle impostazioni PHP. Se 
 alcuna di queste viene evidenziata come errata, è necessario correggerla.
@@ -82,7 +82,7 @@ alcuna di queste viene evidenziata come errata, è necessario correggerla.
 
 ### Scheda File di Configurazione
 
-![home dashboard](../../../it/images/site/configuration-file-tab.png)
+![home dashboard](../../../it/images/site/site-system-information/03-configuration-file-tab.png)
 
 Questa scheda mostra il contenuto del file *configuration.php* corrente di Joomla!
 che è memorizzato nella directory `path-to-joomla-root`. Questo file è creato automaticamente
@@ -93,7 +93,7 @@ vedere ulteriori informazioni su queste impostazioni e per apportare modifiche.
 
 ### Scheda Permessi delle Cartelle
 
-![home dashboard](../../../it/images/site/folder-permissions-tab.png)
+![home dashboard](../../../it/images/site/site-system-information/04-folder-permissions-tab.png)
 
 Questa scheda mostra un elenco delle directory a cui il server web deve
 avere accesso in scrittura. Si noti che tutte le directory elencate in questa
@@ -103,7 +103,7 @@ Il file configuration.php è incluso e mostrato come **Non scrivibile**.
 
 ### Scheda Informazioni PHP
 
-![home dashboard](../../../it/images/site/php-information-tab.png)
+![home dashboard](../../../it/images/site/site-system-information/05-php-information-tab.png)
 
 Questa scheda visualizza le impostazioni di configurazione del linguaggio di scripting PHP 
 lato server che Joomla! utilizza, insieme a tutte le informazioni di sistema

@@ -20,7 +20,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![modifica link web tab link web](../../../it/images/weblinks/web-link-edit-web-link-tab.png)
+![modifica link web tab link web](../../../it/images/weblinks/weblinks-links-edit/01-web-link-edit-web-link-tab.png)
 
 ## Campi del Modulo
 
@@ -34,7 +34,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ### Scheda Immagini
 
-![modifica immagini link web](../../../it/images/weblinks/web-link-edit-web-link-images-tab.png)
+![modifica immagini link web](../../../it/images/weblinks/weblinks-links-edit/02-web-link-edit-web-link-images-tab.png)
 
 - **Prima Immagine** Clicca su Seleziona per selezionare un'immagine da visualizzare con
   questo elemento nel front end.
@@ -54,7 +54,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ### Scheda Pubblicazione
 
-![modifica pubblicazione link web](../../../it/images/weblinks/web-link-edit-web-link-publishing-tab.png)
+![modifica pubblicazione link web](../../../it/images/weblinks/weblinks-links-edit/03-web-link-edit-web-link-publishing-tab.png)
 
 - **Inizio Pubblicazione** Data e ora di inizio della pubblicazione. Utilizza questo
   campo se vuoi inserire contenuti in anticipo e poi farli pubblicare
@@ -112,7 +112,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ### Scheda Opzioni
 
-![modifica opzioni link web](../../../it/images/weblinks/web-link-edit-web-link-options-tab.png)
+![modifica opzioni link web](../../../it/images/weblinks/weblinks-links-edit/04-web-link-edit-web-link-options-tab.png)
 
 - **Destinazione** Come aprire il link. Le opzioni sono:
   - Apri nella finestra principale. Apri il link nella finestra del browser corrente,

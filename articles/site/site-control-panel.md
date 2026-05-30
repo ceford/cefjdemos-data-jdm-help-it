@@ -11,7 +11,7 @@ La Home Dashboard è la destinazione predefinita per il login nel backend. Da qu
 
 ## Schermata
 
-![cruscotto di home](../../../it/images/site/home-dashboard.png)
+![cruscotto di home](../../../it/images/site/site-control-panel/01-home-dashboard.png)
 
 ## Moduli
 

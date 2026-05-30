@@ -20,7 +20,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![Elenco delle estensioni gestite](../../../it/images/extensions/manage-list.png)
+![Elenco delle estensioni gestite](../../../it/images/extensions/extensions-manage/01-manage-list.png)
 
 ## Consigli
 

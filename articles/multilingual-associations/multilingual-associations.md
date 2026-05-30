@@ -33,7 +33,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di Aiuto separati:
 
 ## Screenshot
 
-![Elenco associazioni multilingue](../../../it/images/multilingual-associations/multilingual-associations-list.png)
+![Elenco associazioni multilingue](../../../it/images/multilingual-associations/multilingual-associations/01-multilingual-associations-list.png)
 
 In questo screenshot un articolo è stato associato con un articolo in un'altra lingua. L'elenco contiene solo elementi per cui è stata impostata una lingua. Qualsiasi articolo con la lingua impostata su *Tutte* non sarà presente.
 

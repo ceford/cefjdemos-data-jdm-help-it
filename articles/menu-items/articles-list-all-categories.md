@@ -39,7 +39,7 @@ Per modificare una Voce di Menu:
 
 ## Screenshot
 
-![Voci di Menu Elenco Articoli Tutte le categorie scheda dettagli](../../../it/images/menu-items/articles-list-all-categories-details-tab.png)
+![Voci di Menu Elenco Articoli Tutte le categorie scheda dettagli](../../../it/images/menu-items/articles-list-all-categories/01-articles-list-all-categories-details-tab.png)
 
 ## Campi del Modulo
 
@@ -70,7 +70,7 @@ Per modificare una Voce di Menu:
 
 ### Scheda Categorie
 
-![Menu Item Articoli Elenca Tutte le Categorie  scheda categorie](../../../it/images/menu-items/articles-list-all-categories-categories-tab.png)
+![Menu Item Articoli Elenca Tutte le Categorie  scheda categorie](../../../it/images/menu-items/articles-list-all-categories/02-articles-list-all-categories-categories-tab.png)
 
 - **Descrizione della Categoria di Livello Superiore** Mostra la descrizione della
   categoria di livello superiore.
@@ -98,7 +98,7 @@ sopra ma i campi sono simili.
 Le Opzioni Condivise si applicano alle Opzioni Condivise in Elenco, Blog e In Primo Piano
 a meno che non siano modificate dalle impostazioni del menu.
 
-![Menu Item Articoli Elenca Tutte le Categorie  scheda condivisa](../../../it/images/menu-items/articles-list-all-categories-shared-tab.png)
+![Menu Item Articoli Elenca Tutte le Categorie  scheda condivisa](../../../it/images/menu-items/articles-list-all-categories/03-articles-list-all-categories-shared-tab.png)
 
 - **Paginazione** La Paginazione fornisce link di pagina in fondo alla
   pagina che permettono all'utente di navigare verso pagine aggiuntive. Questi sono

@@ -13,7 +13,7 @@ Sure, here's the translated text in Italian:
 
 ## Screenshot
 
-![dettagli voce di menu](../../../it/images/menu-items-common/menu-item-details.png)
+![dettagli voce di menu](../../../it/images/menu-items-common/menu-item-details/01-menu-item-details.png)
 
 Gli screenshot in ciascuna delle pagine di aiuto dei tipi di voci di menu differiscono nei dettagli da questo screenshot.
 

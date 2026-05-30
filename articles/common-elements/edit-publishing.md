@@ -15,7 +15,7 @@ stessa descrizione. Questo potrebbe avere un effetto negativo sulla SEO.
 
 La scheda Pubblicazione Articoli:
 
-![La scheda di modifica della pubblicazione degli articoli](../../../it/images/common-elements/articles-edit-publishing-tab.png)
+![La scheda di modifica della pubblicazione degli articoli](../../../it/images/common-elements/edit-publishing/01-articles-edit-publishing-tab.png)
 
 La maggior parte dei campi dei moduli ha valori predefiniti che consentono di salvare l'elemento. Potrebbe essere opportuno prendere le seguenti azioni per i campi seguenti:
 

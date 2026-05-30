@@ -24,7 +24,7 @@ Alcuni aspetti di questa pagina sono trattati in articoli di Aiuto separati:
 
 ## Screenshot
 
-![Tour Guidati Modifica Tour](../../../it/images/guided-tours/guided-tours-edit-tour.png)
+![Tour Guidati Modifica Tour](../../../it/images/guided-tours/guided-tours-edit-tour/01-guided-tours-edit-tour.png)
 
 ## Campi del Modulo
 

@@ -33,7 +33,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di Aiuto separati:
 
 ## Schermata
 
-![transitions basic workflow list](../../../it/images/workflows/transitions-basic-workflow-list.png)
+![transitions basic workflow list](../../../it/images/workflows/transitions-basic-workflow/01-transitions-basic-workflow-list.png)
 
 *Tradotto da openai.com*
 

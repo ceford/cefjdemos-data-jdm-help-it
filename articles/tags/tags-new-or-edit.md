@@ -19,7 +19,7 @@ Alcuni aspetti di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![modifica dettagli del tag nella scheda tag](../../../it/images/tags/tags-edit-tag-details-tab.png)
+![modifica dettagli del tag nella scheda tag](../../../it/images/tags/tags-new-or-edit/01-tags-edit-tag-details-tab.png)
 
 ## Campi del Modulo
 
@@ -45,7 +45,7 @@ Alcuni aspetti di questa pagina sono trattati in articoli di aiuto separati:
 
 ### Scheda Opzioni
 
-![tags edit tag options tab](../../../it/images/tags/tags-edit-options-tab.png)
+![tags edit tag options tab](../../../it/images/tags/tags-new-or-edit/02-tags-edit-options-tab.png)
 
 #### Pannello Opzioni
 
@@ -63,7 +63,7 @@ Alcuni aspetti di questa pagina sono trattati in articoli di aiuto separati:
 
 ### Scheda Pubblicazione
 
-![tags edit tag publishing tab](../../../it/images/tags/tags-edit-publishing-tab.png)
+![tags edit tag publishing tab](../../../it/images/tags/tags-new-or-edit/03-tags-edit-publishing-tab.png)
 
 #### Pannello Pubblicazione
 

@@ -13,15 +13,15 @@ stato.
 
 ### Intestazioni delle colonne della Lista degli Articoli
 
-![Intestazione delle colonne della Lista degli Articoli](../../../it/images/common-elements/articles-list-column-header.png)
+![Intestazione delle colonne della Lista degli Articoli](../../../it/images/common-elements/list-column-headers/01-articles-list-column-header.png)
 
 ### Intestazioni delle colonne della Lista delle Categorie
 
-![Intestazione delle colonne della Lista delle Categorie](../../../it/images/common-elements/categories-list-column-header.png)
+![Intestazione delle colonne della Lista delle Categorie](../../../it/images/common-elements/list-column-headers/02-categories-list-column-header.png)
 
 ### Intestazioni delle colonne della Lista degli Utenti
 
-![Intestazione delle colonne della Lista degli Utenti](../../../it/images/common-elements/users-list-column-header.png)
+![Intestazione delle colonne della Lista degli Utenti](../../../it/images/common-elements/list-column-headers/03-users-list-column-header.png)
 
 ## Ordinare per Colonna
 

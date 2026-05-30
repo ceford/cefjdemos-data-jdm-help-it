@@ -24,7 +24,7 @@ Alcuni aspetti di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Schermata
 
-![Media](../../../it/images/media/media.png)
+![Media](../../../it/images/media/media/01-media.png)
 
 Sure, here is the translated text:
 

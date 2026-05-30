@@ -27,7 +27,7 @@ Alcuni elementi di questa pagina sono trattati in articoli separati della Guida:
 
 ## Screenshot
 
-![menu del modulo utente dei moduli](../../../it/images/modules-admin/modules-user-menu-module-tab.png)
+![menu del modulo utente dei moduli](../../../it/images/modules-admin/admin-modules-user-menu/01-modules-user-menu-module-tab.png)
 
 ## Campi del Modulo
 

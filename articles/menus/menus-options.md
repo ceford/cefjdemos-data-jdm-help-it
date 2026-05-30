@@ -18,7 +18,7 @@ Alcuni aspetti di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Schermata
 
-![Opzioni Menu](../../../it/images/menus/menu-options-page-display-tab.png)
+![Opzioni Menu](../../../it/images/menus/menus-options/01-menu-options-page-display-tab.png)
 
 ## Campi del Modulo
 

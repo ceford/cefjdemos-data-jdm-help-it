@@ -23,7 +23,7 @@ Seleziona **Utenti → Livelli di accesso** dal menu Amministratore.
 
 ## Screenshot
 
-![utenti che visualizzano i livelli di accesso](../../../it/images/users/users-viewing-access-levels.png)
+![utenti che visualizzano i livelli di accesso](../../../it/images/users/users-viewing-access-levels/01-users-viewing-access-levels.png)
 
 ## Consigli
 

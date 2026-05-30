@@ -8,7 +8,7 @@ Per maggiori informazioni, consulta il [Tutorial del Flusso di Lavoro](https://d
 
 Aggiungi azioni di evidenziazione alle transizioni del flusso di lavoro per i tuoi elementi.
 
-![Modulo di evidenziazione del flusso di lavoro](../../../en/images/plugins/plugin-group-workflow-featuring.png)
+![Modulo di evidenziazione del flusso di lavoro](../../../en/images/plugins/plugin-group-workflow/01-plugin-group-workflow-featuring.png)
 
 - **Lista Bianca delle Estensioni**
 - **Lista Nera delle Estensioni**

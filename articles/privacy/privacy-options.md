@@ -19,7 +19,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![opzioni di privacy](../../../it/images/privacy/privacy-options.png)
+![opzioni di privacy](../../../it/images/privacy/privacy-options/01-privacy-options.png)
 
 ## Campi del Modulo
 

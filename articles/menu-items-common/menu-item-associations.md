@@ -15,7 +15,7 @@ Se la lingua per l'elemento del menu è impostata su *Tutte*, questa pagina most
 
 ## Screenshot
 
-![associazioni elemento menu](../../../it/images/menu-items-common/menu-item-associations.png)
+![associazioni elemento menu](../../../it/images/menu-items-common/menu-item-associations/01-menu-item-associations.png)
 
 ## Campi del Formulario
 

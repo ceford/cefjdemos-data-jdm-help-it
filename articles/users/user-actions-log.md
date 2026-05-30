@@ -19,7 +19,7 @@ Seleziona **Utenti → Registro Azioni Utente** dal menu Amministratore.
 
 ## Screenshot
 
-![log delle azioni degli utenti](../../../it/images/users/user-actions-log-list.png)
+![log delle azioni degli utenti](../../../it/images/users/user-actions-log/01-user-actions-log-list.png)
 
 *Tradotto da openai.com*
 

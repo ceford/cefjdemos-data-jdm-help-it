@@ -17,7 +17,7 @@ Seleziona **Utenti → Privacy → Capacità** dal menu dell'Amministratore.
 
 ## Schermata
 
-![capacità dell'estensione della privacy](../../../it/images/privacy/privacy-capabilities.png)
+![capacità dell'estensione della privacy](../../../it/images/privacy/privacy-extension-capabilities/01-privacy-capabilities.png)
 
 Non ci sono azioni utente su questa pagina oltre a espandere e leggere i rapporti individuali.
 *Tradotto da openai.com*

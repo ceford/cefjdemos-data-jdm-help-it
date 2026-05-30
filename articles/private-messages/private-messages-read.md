@@ -19,7 +19,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Schermata
 
-![visuale dei messaggi privati](../../../it/images/private-messages/private-messages-view.png)
+![visuale dei messaggi privati](../../../it/images/private-messages/private-messages-read/01-private-messages-view.png)
 
 ## Dettagli
 

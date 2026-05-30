@@ -26,7 +26,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 Le schermate di Amministratore e Modelli di Sito utilizzano lo stesso layout. 
 Qui è illustrata la schermata del Modello di Sito.
 
-![Lista modelli di siti](../../../it/images/templates/templates-site-templates-list.png)
+![Lista modelli di siti](../../../it/images/templates/templates-templates/01-templates-site-templates-list.png)
 
 ## Filtri Lista
 

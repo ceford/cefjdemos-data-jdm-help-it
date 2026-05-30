@@ -19,7 +19,7 @@ Alcuni aspetti di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![Opzioni Media](../../../it/images/media/media-options.png)
+![Opzioni Media](../../../it/images/media/media-options/01-media-options.png)
 
 ## Campi del Modulo
 

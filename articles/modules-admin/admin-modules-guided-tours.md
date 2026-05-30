@@ -25,7 +25,7 @@ dell'Amministratore. Poi...
 
 ## Schermata
 
-![scheda modulo tour guidati moduli](../../../it/images/modules-admin/modules-guided-tours-module-tab.png)
+![scheda modulo tour guidati moduli](../../../it/images/modules-admin/admin-modules-guided-tours/01-modules-guided-tours-module-tab.png)
 ## Campi del modulo
 
 - **Titolo** Il titolo del modulo. Questo è anche il titolo visualizzato per il 

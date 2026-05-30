@@ -29,7 +29,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Schermata
 
-![scheda del modulo di categoria degli articoli](../../../it/images/modules-site/modules-articles-category-module-tab.png)
+![scheda del modulo di categoria degli articoli](../../../it/images/modules-site/site-modules-articles-category/01-modules-articles-category-module-tab.png)
 
 ## Campi del Modulo
 
@@ -44,7 +44,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ### Scheda Opzioni di Filtraggio
 
-![scheda opzioni di filtraggio della categoria di articoli](../../../it/images/modules-site/modules-articles-category-filtering-options-tab.png)
+![scheda opzioni di filtraggio della categoria di articoli](../../../it/images/modules-site/site-modules-articles-category/02-modules-articles-category-filtering-options-tab.png)
 
 - **Articoli in Primo Piano** Mostra o nasconde o seleziona solo gli articoli in primo piano.
 - **Conteggio** Il numero di elementi da visualizzare. Il valore predefinito di 0 visualizzerà tutti gli articoli.
@@ -65,14 +65,14 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ### Scheda Opzioni di Ordinamento
 
-![scheda opzioni di ordinamento della categoria di articoli](../../../it/images/modules-site/modules-articles-category-ordering-options-tab.png)
+![scheda opzioni di ordinamento della categoria di articoli](../../../it/images/modules-site/site-modules-articles-category/03-modules-articles-category-ordering-options-tab.png)
 
 - **Campo Articolo per Ordinare** Seleziona un campo dall'elenco. L'ordinamento per Articoli in Primo Piano dovrebbe essere utilizzato solo quando l'opzione di filtraggio per Articoli in Primo Piano è impostata su *Solo*.
 - **Direzione dell'Ordinamento** Seleziona la direzione di ordinamento degli articoli.
 
 ### Scheda Opzioni di Raggruppamento
 
-![scheda opzioni di raggruppamento della categoria di articoli](../../../it/images/modules-site/modules-articles-category-grouping-options-tab.png)
+![scheda opzioni di raggruppamento della categoria di articoli](../../../it/images/modules-site/site-modules-articles-category/04-modules-articles-category-grouping-options-tab.png)
 
 - **Raggruppamento degli Articoli** Seleziona un metodo di raggruppamento degli articoli dall'elenco.
 - **Direzione del Raggruppamento** Seleziona la direzione dell'ordinamento.
@@ -80,7 +80,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ### Scheda Opzioni di Visualizzazione
 
-![scheda opzioni di visualizzazione della categoria di articoli](../../../it/images/modules-site/modules-articles-category-display-options-tab.png)
+![scheda opzioni di visualizzazione della categoria di articoli](../../../it/images/modules-site/site-modules-articles-category/05-modules-articles-category-display-options-tab.png)
 
 - **Titoli Collegati** Mostra titoli come collegamenti agli articoli.
 - **Data** Mostra o nascondi la data dell'articolo.

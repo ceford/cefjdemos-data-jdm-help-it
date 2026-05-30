@@ -22,7 +22,7 @@ Seleziona **Componenti → Collegamenti Web → Collegamenti** dal menu dell’A
 
 ## Screenshot
 
-![elenco dei collegamenti web](../../../it/images/weblinks/weblinks-list.png)
+![elenco dei collegamenti web](../../../it/images/weblinks/weblinks-links/01-weblinks-list.png)
 
 *Tradotto da openai.com*
 

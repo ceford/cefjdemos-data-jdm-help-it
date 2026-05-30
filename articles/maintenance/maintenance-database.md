@@ -21,7 +21,7 @@ Sure, here's the translated text:
 
 ## Screenshot
 
-![Database di manutenzione](../../../it/images/maintenance/maintenance-database.png)
+![Database di manutenzione](../../../it/images/maintenance/maintenance-database/01-maintenance-database.png)
 
 ## Intestazioni delle Colonne
 

@@ -28,7 +28,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Schermata
 
-![lista dei menu](../../../it/images/menus/menus-list.png)
+![lista dei menu](../../../it/images/menus/menus/01-menus-list.png)
 
 ## Intestazioni delle Colonne
 

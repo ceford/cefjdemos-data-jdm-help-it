@@ -53,7 +53,7 @@ Categoria e Mail nel componente Contatti. Richiedono un po' di esperienza di cod
 
 ## Screenshot
 
-![Elenco dei campi degli articoli](../../../it/images/fields/articles-fields-list.png)
+![Elenco dei campi degli articoli](../../../it/images/fields/fields/01-articles-fields-list.png)
 
 Ci sono 16 tipi di campo disponibili, ciascuno implementato come un plugin. È probabile che ne diventino disponibili altri in futuro.
 

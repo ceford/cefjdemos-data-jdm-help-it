@@ -19,7 +19,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![Scheda del client per le opzioni dei banner](../../../it/images/banners/banners-options-client-tab.png)
+![Scheda del client per le opzioni dei banner](../../../it/images/banners/banners-options/01-banners-options-client-tab.png)
 
 ## Campi del Modulo
 
@@ -35,7 +35,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 Questa sezione ti consente di impostare le opzioni di cronologia delle versioni per i Banner, i Clienti dei Banner e le Categorie dei Banner.
 
-![Opzioni di cronologia della scheda Banner](../../../it/images/banners/banners-options-history-tab.png)
+![Opzioni di cronologia della scheda Banner](../../../it/images/banners/banners-options/02-banners-options-history-tab.png)
 
 - **Abilita Versioni** Se salvare o meno la cronologia delle versioni per questo componente. Se No, la cronologia delle versioni non verrà salvata per gli elementi del componente né per le categorie di questo componente.
 - **Versioni Massime** Il numero massimo di versioni da conservare per un elemento. Se un elemento viene salvato e si è raggiunto il numero massimo di versioni, la versione più vecchia verrà eliminata automaticamente. Se impostato a 0, le versioni non verranno mai eliminate automaticamente. Inoltre, versioni specifiche possono essere contrassegnate come *Conserva per Sempre* e non verranno eliminate automaticamente. Nota che le versioni possono essere eliminate manualmente utilizzando il pulsante Elimina nella schermata Cronologia Versioni.

@@ -33,13 +33,13 @@ Per modificare un elemento di menu **Elenca Tutte le Categorie di Link Web** esi
 
 ## Schermata
 
-![Tipo di voce di menu Elenca tutte le categorie di Web Link](../../../it/images/menu-items/weblinks-list-all-web-link-categories-details-tab.png)
+![Tipo di voce di menu Elenca tutte le categorie di Web Link](../../../it/images/menu-items/weblinks-weblink-categories/01-weblinks-list-all-web-link-categories-details-tab.png)
 
 ## Campi del Modulo
 
 ### Scheda Categorie
 
-![Menu elemento tipo Lista tutte le categorie di Collegamenti Web](../../../it/images/menu-items/weblinks-list-all-web-link-categories-categories-tab.png)
+![Menu elemento tipo Lista tutte le categorie di Collegamenti Web](../../../it/images/menu-items/weblinks-weblink-categories/02-weblinks-list-all-web-link-categories-categories-tab.png)
 
 - **Descrizione della Categoria di Livello Superiore** Mostra o nasconde la descrizione della categoria di livello superiore. Nota che questa descrizione può essere sovrascritta per questo layout inserendo una Descrizione Alternativa qui sotto.
 - **Descrizione Alternativa** Inserisci una descrizione opzionale per sostituire la descrizione della categoria per questo layout. Se l'opzione Descrizione di Livello Superiore è impostata su *Mostra*, questa descrizione inserita verrà mostrata al posto della descrizione normale della categoria.

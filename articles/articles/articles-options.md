@@ -18,7 +18,7 @@ Seleziona il pulsante **Opzioni** nella barra degli strumenti di qualsiasi pagin
 
 ## Screenshot
 
-![Screenshot delle opzioni degli articoli](../../../it/images/articles/articles-options-articles-tab.png)
+![Screenshot delle opzioni degli articoli](../../../it/images/articles/articles-options/01-articles-options-articles-tab.png)
 
 ## Campi del Modulo
 
@@ -68,7 +68,7 @@ Queste impostazioni si applicano ai layout degli articoli a meno che non vengano
 
 Queste opzioni controllano il layout della pagina di modifica dell'articolo.
 
-![Opzioni articoli scheda layout di modifica](../../../it/images/articles/articles-options-editing-layout-tab.png)
+![Opzioni articoli scheda layout di modifica](../../../it/images/articles/articles-options/02-articles-options-editing-layout-tab.png)
 
 - **Permetti Captcha all'invio** Seleziona il plugin captcha che verrà utilizzato nel modulo di invio dell'articolo. Se *Usa Globale* è selezionato, assicurati che un plugin captcha sia selezionato nelle Impostazioni Globali.
 - **Opzioni di Pubblicazione** Nascondi la scheda Opzioni di Pubblicazione nel Backend quando modifichi gli Articoli. Questo significa che gli utenti del Backend non potranno modificare i campi in questa scheda. Questi campi saranno sempre impostati sui loro valori predefiniti.
@@ -94,7 +94,7 @@ Queste opzioni controllano il layout della pagina di modifica dell'articolo.
 
 Queste impostazioni si applicano alle Opzioni della Categoria degli Articoli a meno che non vengano modificate dalla categoria individuale o dalle impostazioni del menu.
 
-![Opzioni articoli scheda categoria](../../../it/images/articles/articles-options-category-tab.png)
+![Opzioni articoli scheda categoria](../../../it/images/articles/articles-options/03-articles-options-category-tab.png)
 
 - **Scegli un Layout** Seleziona il layout predefinito da mostrare quando un link Categoria è selezionato.
 - **Titolo Categoria** Mostra il titolo della categoria.
@@ -112,7 +112,7 @@ Queste impostazioni si applicano alle Opzioni della Categoria degli Articoli a m
 
 Queste impostazioni si applicano alle Opzioni delle Categorie degli Articoli, a meno che non vengano modificate dalla categoria individuale o dalle impostazioni del menu.
 
-![Opzioni articoli scheda categorie](../../../it/images/articles/articles-options-categories-tab.png)
+![Opzioni articoli scheda categorie](../../../it/images/articles/articles-options/04-articles-options-categories-tab.png)
 
 - **Descrizione Categoria di Livello Superiore** Mostra la descrizione per la categoria di livello superiore.
 - **Livelli di Sottocategorie** Controlla quanti livelli di sottocategorie mostrare.
@@ -124,7 +124,7 @@ Queste impostazioni si applicano alle Opzioni delle Categorie degli Articoli, a 
 
 Queste impostazioni si applicano ai layout blog o in evidenza a meno che non siano modificate per un elemento del menu specifico.
 
-![Opzioni articoli scheda layout blog e in evidenza](../../../it/images/articles/articles-options-blog-layouts-tab.png)
+![Opzioni articoli scheda layout blog e in evidenza](../../../it/images/articles/articles-options/05-articles-options-blog-layouts-tab.png)
 
 - **# Articoli Principali** Numero di Articoli da mostrare utilizzando l'intera larghezza dell'area di visualizzazione principale. "0" significa che nessun Articolo verrà mostrato utilizzando l'intera larghezza. Se un Articolo ha una pausa "Leggi di più...", verrà mostrata solo la parte del testo prima della pausa (il testo di introduzione).
 - **Classe Articolo Principale** Aggiungi qualsiasi classe CSS per personalizzare il layout. Aggiungi un bordo in cima con la classe "boxed". Per la posizione dell'immagine usa per esempio "image-left", "image-right". Aggiungi "image-alternate" per l'ordinamento alternato delle immagini di introduzione.
@@ -145,7 +145,7 @@ Queste impostazioni si applicano ai layout blog o in evidenza a meno che non sia
 
 Queste impostazioni si applicano alle Opzioni dei Layout Lista a meno che non vengano modificate per un elemento del menu o categoria specifica.
 
-![Opzioni articoli scheda layout lista](../../../it/images/articles/articles-options-list-layouts-tab.png)
+![Opzioni articoli scheda layout lista](../../../it/images/articles/articles-options/06-articles-options-list-layouts-tab.png)
 
 - **Mostra Selezione** Mostra il controllo Seleziona \# che consente all'utente di selezionare il numero di articoli da mostrare.
 - **Campo Filtro** Mostra un campo di testo nel Frontend dove un utente può filtrare gli articoli. Opzioni nel menu di Backend.
@@ -169,7 +169,7 @@ Queste impostazioni si applicano alle Opzioni dei Layout Lista a meno che non ve
 
 Queste impostazioni si applicano alle Opzioni Condivise nei layout Lista, Blog e In Evidenza a meno che non vengano modificate dalle impostazioni del menu.
 
-![Opzioni articoli scheda condivisi](../../../it/images/articles/articles-options-shared-tab.png)
+![Opzioni articoli scheda condivisi](../../../it/images/articles/articles-options/07-articles-options-shared-tab.png)
 
 - **Ordine delle Categorie**
   - **Nessun Ordine** Gli articoli sono ordinati solo per Ordine Articolo, senza riguardo per la Categoria.

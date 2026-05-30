@@ -13,7 +13,7 @@ Tutti gli elementi del menu hanno un layout simile, ma alcuni campi del modulo e
 
 ## Screenshot
 
-![Scheda della categoria dell'articolo del menu](../../../it/images/menu-items-common/articles-category-blog-category-tab.png)
+![Scheda della categoria dell'articolo del menu](../../../it/images/menu-items-common/menu-item-category/01-articles-category-blog-category-tab.png)
 
 ## Campi del modulo
 

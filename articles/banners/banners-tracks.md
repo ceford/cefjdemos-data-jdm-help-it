@@ -20,7 +20,7 @@ aiuto separati:
 
 ## Schermata
 
-![Elenco tracce dei banner](../../../it/images/banners/banners-tracks-list.png)
+![Elenco tracce dei banner](../../../it/images/banners/banners-tracks/01-banners-tracks-list.png)
 
 ## Intestazioni delle colonne
 

@@ -20,7 +20,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di Aiuto separati:
 
 ## Screenshot
 
-![Opzioni del modulo scheda generale](../../../it/images/modules/module-options-general-tab.png)
+![Opzioni del modulo scheda generale](../../../it/images/modules/module-options/01-module-options-general-tab.png)
 
 ## Campi del Modulo
 
@@ -48,7 +48,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di Aiuto separati:
   modulo di modifica e può essere utilizzato per limitare la visibilità di un modulo
   dell'Amministratore a una sola lingua.
 
-![Opzioni Modulo scheda Generale](../../../it/images/modules/module-options-administrator-modules-tab.png)
+![Opzioni Modulo scheda Generale](../../../it/images/modules/module-options/02-module-options-administrator-modules-tab.png)
 
 ## Suggerimenti
 

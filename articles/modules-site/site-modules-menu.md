@@ -26,7 +26,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Schermata
 
-![scheda del modulo del menu](../../../it/images/modules-site/modules-menu-module-tab.png)
+![scheda del modulo del menu](../../../it/images/modules-site/site-modules-menu/01-modules-menu-module-tab.png)
 
 ## Campi del Modulo
 

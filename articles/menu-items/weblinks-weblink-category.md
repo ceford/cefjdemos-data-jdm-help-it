@@ -34,7 +34,7 @@ Per modificare un elemento di menu **Elenca Link Web in una Categoria** esistent
 
 ## Screenshot
 
-![Tipo di elemento di menu Elenco link Web in una Categoria](../../../it/images/menu-items/weblinks-list-web-links-in-a-category-details-tab.png)
+![Tipo di elemento di menu Elenco link Web in una Categoria](../../../it/images/menu-items/weblinks-weblink-category/01-weblinks-list-web-links-in-a-category-details-tab.png)
 
 Tutti i campi di input del modulo sono trattati negli *Elementi Comuni*.
 

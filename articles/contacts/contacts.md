@@ -26,7 +26,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![Elenco contatti](../../../it/images/contacts/contacts-list.png)
+![Elenco contatti](../../../it/images/contacts/contacts/01-contacts-list.png)
 
 *Tradotto da openai.com*
 

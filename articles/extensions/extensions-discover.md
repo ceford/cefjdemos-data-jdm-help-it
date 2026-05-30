@@ -26,7 +26,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![Scopri l'elenco delle estensioni](../../../it/images/extensions/discover-list.png)
+![Scopri l'elenco delle estensioni](../../../it/images/extensions/extensions-discover/01-discover-list.png)
 
 ## Intestazioni delle Colonne
 

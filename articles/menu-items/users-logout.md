@@ -35,13 +35,13 @@ Per modificare un elemento di menu Esci esistente:
 Italian:
 ## Screenshot
 
-![Scheda dei dettagli del logout](../../../it/images/menu-items/users-logout-details-tab.png)
+![Scheda dei dettagli del logout](../../../it/images/menu-items/users-logout/01-users-logout-details-tab.png)
 
 ## Campi del Modulo
 
 ### Scheda Opzioni
 
-![Scheda opzioni di disconnessione](../../../it/images/menu-items/users-logout-options-tab.png)
+![Scheda opzioni di disconnessione](../../../it/images/menu-items/users-logout/02-users-logout-options-tab.png)
 
 - **Pagina di Reindirizzamento dopo il Logout** Seleziona o crea la pagina a cui l'utente sarà 
   reindirizzato dopo aver terminato la sessione corrente effettuando il logout. L'impostazione predefinita 

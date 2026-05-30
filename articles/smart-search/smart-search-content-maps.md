@@ -62,7 +62,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![mappa dei contenuti di ricerca intelligente](../../../it/images/smart-search/smart-search-content-maps.png)
+![mappa dei contenuti di ricerca intelligente](../../../it/images/smart-search/smart-search-content-maps/01-smart-search-content-maps.png)
 
 ## Intestazioni della Colonna
 

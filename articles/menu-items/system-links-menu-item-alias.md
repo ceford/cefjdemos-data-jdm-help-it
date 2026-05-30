@@ -31,7 +31,7 @@ Per modificare una Voce di Menu esistente:
 
 ## Screenshot
 
-![Alias Elemento del Menu](../../../it/images/menu-items/system-links-menu-item-alias-details-tab.png)
+![Alias Elemento del Menu](../../../it/images/menu-items/system-links-menu-item-alias/01-system-links-menu-item-alias-details-tab.png)
 
 Tutti i campi di input del modulo sono trattati negli *Elementi Comuni*.
 

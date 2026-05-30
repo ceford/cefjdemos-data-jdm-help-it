@@ -27,7 +27,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![scheda modulo visualizzazione feed](../../../it/images/modules-site/modules-feed-display-module-tab.png)
+![scheda modulo visualizzazione feed](../../../it/images/modules-site/site-modules-feed-display/01-modules-feed-display-module-tab.png)
 
 ## Campi del Modulo
 

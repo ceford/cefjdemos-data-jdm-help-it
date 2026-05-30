@@ -21,9 +21,9 @@ Se viene selezionata l'opzione **Nessuno**, non ci sono dati aggiuntivi da inser
 
 ### Esempio: Schema Articolo
 
-![Scheda dello schema con opzione articolo selezionata](../../../it/images/common-elements/articles-edit-schema-tab-article.png)
+![Scheda dello schema con opzione articolo selezionata](../../../it/images/common-elements/edit-schema/01-articles-edit-schema-tab-article.png)
 
 ### Esempio: Schema Persona
 
-![Scheda dello schema con opzione persona selezionata](../../../it/images/common-elements/articles-edit-schema-tab-person.png)
+![Scheda dello schema con opzione persona selezionata](../../../it/images/common-elements/edit-schema/02-articles-edit-schema-tab-person.png)
 

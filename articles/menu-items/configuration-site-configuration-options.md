@@ -29,11 +29,11 @@ Per modificare un elemento di menu esistente *Opzioni di Configurazione del Sito
 
 ## Screenshot
 
-![Opzioni di configurazione del sito tipo elemento di menu](../../../it/images/menu-items/configuration-site-configuration-options-details.png)
+![Opzioni di configurazione del sito tipo elemento di menu](../../../it/images/menu-items/configuration-site-configuration-options/01-configuration-site-configuration-options-details.png)
 
 ## Schermata Front End
 
-![Form delle opzioni di configurazione del sito nel front end](../../../en/images/menu-items/configuration-site-configuration-options-frontend.png)
+![Form delle opzioni di configurazione del sito nel front end](../../../en/images/menu-items/configuration-site-configuration-options/02-configuration-site-configuration-options-frontend.png)
 
 *Tradotto da openai.com*
 

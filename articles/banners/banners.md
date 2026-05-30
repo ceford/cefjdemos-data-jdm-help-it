@@ -27,7 +27,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di Aiuto separati:
 
 ## Screenshot
 
-![Elenco dei banner](../../../it/images/banners/banners-list.png)
+![Elenco dei banner](../../../it/images/banners/banners/01-banners-list.png)
 
 ## Intestazioni delle Colonne
 

@@ -19,7 +19,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di Aiuto separati:
 
 ## Screenshot
 
-![opzioni dei collegamenti web](../../../it/images/weblinks/weblinks-options-web-link-tab.png)
+![opzioni dei collegamenti web](../../../it/images/weblinks/weblinks-options/01-weblinks-options-web-link-tab.png)
 
 ### Scheda Collegamento Web
 

@@ -20,7 +20,7 @@ Un elemento di questa pagina è trattato in un articolo di aiuto separato:
 
 ## Screenshot
 
-![Modifica Modello di Posta](../../../it/images/mail/edit-mail-template.png)
+![Modifica Modello di Posta](../../../it/images/mail/mail-template-edit/01-edit-mail-template.png)
 
 Le Opzioni di Posta consentono l'invio di messaggi in Testo Semplice o HTML o entrambi. Se viene selezionato solo un metodo, l'alternativa non sarà presente nel modulo di modifica del messaggio.
 
