@@ -14,7 +14,7 @@ Seleziona il pulsante **Versioni** nella Barra degli Strumenti di una pagina di 
 
 ## Screenshot
 
-![Popup della cronologia delle versioni](../../../it/images/common-elements/edit-version-history/01-articles-edit-versions.png)
+![Popup della cronologia delle versioni](../../../it/images/common-elements/edit-version-history/01-versions-dialog.png)
 
 ## Intestazioni di Colonna
 

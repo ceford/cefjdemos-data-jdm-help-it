@@ -21,7 +21,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![Opzioni dei feed di notizie, scheda feed di notizie](../../../it/images/news-feeds/news-feed-options/01-news-feeds-options-news-feed-tab.png)
+![Opzioni dei feed di notizie, scheda feed di notizie](../../../it/images/news-feeds/news-feed-options/01-news-feed-tab.png)
 
 ## Campi di Modulo
 
@@ -53,7 +53,7 @@ uno specifico elemento del menu o Feed di Notizie
 
 ### Scheda Categoria
 
-![Opzioni categoria dei feed di notizie](../../../it/images/news-feeds/news-feed-options/02-news-feeds-options-category-tab.png)
+![Opzioni categoria dei feed di notizie](../../../it/images/news-feeds/news-feed-options/02-category-tab.png)
 
 - **Scegli un layout** Seleziona Blog, Lista o un layout definito dall'utente da mostrare
   di default quando viene selezionato un link di Categoria.
@@ -71,7 +71,7 @@ uno specifico elemento del menu o Feed di Notizie
 
 ### Scheda Categorie
 
-![Opzioni categorie dei feed di notizie](../../../it/images/news-feeds/news-feed-options/03-news-feeds-options-categories-tab.png)
+![Opzioni categorie dei feed di notizie](../../../it/images/news-feeds/news-feed-options/03-categories-tab.png)
 
 - **Descrizione della Categoria di Livello Superiore** Mostra o nascondi la descrizione della
   categoria di livello superiore.
@@ -83,7 +83,7 @@ uno specifico elemento del menu o Feed di Notizie
 
 ### Scheda Liste Layout
 
-![Opzioni liste layout dei feed di notizie](../../../it/images/news-feeds/news-feed-options/04-news-feeds-options-list-layouts-tab.png)
+![Opzioni liste layout dei feed di notizie](../../../it/images/news-feeds/news-feed-options/04-list-layouts-tab.png)
 
 - **Campo Filtro** Il Campo Filtro crea un campo di testo in cui un utente
   può inserire un campo da utilizzare per filtrare gli articoli mostrati nella lista.
@@ -105,7 +105,7 @@ uno specifico elemento del menu o Feed di Notizie
 
 ### Scheda Integrazione
 
-![Opzioni integrazione dei feed di notizie](../../../it/images/news-feeds/news-feed-options/05-news-feeds-options-integration-tab.png)
+![Opzioni integrazione dei feed di notizie](../../../it/images/news-feeds/news-feed-options/05-integration-tab.png)
 
 - **Rimuovi ID dagli URL** Se mostrare o meno l'ID del database di un
   feed di notizie in un link.

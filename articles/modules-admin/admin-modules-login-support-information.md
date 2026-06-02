@@ -26,7 +26,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Schermata
 
-![moduli login supporto informazioni modulo scheda](../../../it/images/modules-admin/admin-modules-login-support-information/01-modules-login-support-information-module-tab.png)
+![moduli login supporto informazioni modulo scheda](../../../it/images/modules-admin/admin-modules-login-support-information/01-module-tab.png)
 
 ## Campi del Modulo
 

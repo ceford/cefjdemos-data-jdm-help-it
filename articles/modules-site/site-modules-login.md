@@ -30,7 +30,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Schermata
 
-![scheda del modulo di accesso](../../../it/images/modules-site/site-modules-login/01-modules-login-module-tab.png)
+![scheda del modulo di accesso](../../../it/images/modules-site/site-modules-login/01-module-tab.png)
 
 ## Campi del Modulo
 

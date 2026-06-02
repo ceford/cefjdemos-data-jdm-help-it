@@ -27,7 +27,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![scheda modulo feed di syndication](../../../it/images/modules-site/site-modules-syndication-feeds/01-modules-syndication-feeds-module-tab.png)
+![scheda modulo feed di syndication](../../../it/images/modules-site/site-modules-syndication-feeds/01-module-tab.png)
 
 ## Campi del Modulo
 

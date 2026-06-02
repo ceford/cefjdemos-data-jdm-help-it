@@ -23,7 +23,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di Aiuto separati:
 
 ## Screenshot
 
-![elenco categorie contatti](../../../it/images/contacts/contacts-categories/01-contacts-categories-list.png)
+![elenco categorie contatti](../../../it/images/contacts/contacts-categories/01-categories-list.png)
 
 *Tradotto da openai.com*
 

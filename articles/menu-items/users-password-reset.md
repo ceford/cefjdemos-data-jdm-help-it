@@ -33,7 +33,7 @@ Per modificare un elemento di menu esistente *Reimposta Password*:
 
 ## Screenshot
 
-![Dettagli della scheda di reimpostazione della password](../../../it/images/menu-items/users-password-reset/01-users-password-reset-details-tab.png)
+![Dettagli della scheda di reimpostazione della password](../../../it/images/menu-items/users-password-reset/01-details-tab.png)
 
 Tutti i campi di input del modulo sono trattati negli *Elementi Comuni*.
 

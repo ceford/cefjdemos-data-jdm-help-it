@@ -33,7 +33,7 @@ Per modificare un elemento di menu Crea Contatto esistente:
 
 ## Screenshot
 
-![Crea contatto voce di menu](../../../it/images/menu-items/contacts-create-contact/01-contacts-create-contact-details-tab.png)
+![Crea contatto voce di menu](../../../it/images/menu-items/contacts-create-contact/01-details-tab.png)
 
 If you have any other parts you need translated or more specific instructions, feel free to let me know!
 

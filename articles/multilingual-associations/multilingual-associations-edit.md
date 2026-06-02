@@ -27,7 +27,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![Elementi di riferimento e di destinazione affiancati](../../../it/images/multilingual-associations/multilingual-associations-edit/01-multilingual-associations-edit.png)
+![Elementi di riferimento e di destinazione affiancati](../../../it/images/multilingual-associations/multilingual-associations-edit/01-edit-form.png)
 
 In questo esempio gli elementi sono Articoli. Ognuno è una finestra scorrevole con le opzioni dell'elemento sotto l'area di modifica del testo (non visibile).
 

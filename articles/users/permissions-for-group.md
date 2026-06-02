@@ -21,7 +21,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![permessi utenti per gruppo](../../../it/images/users/permissions-for-group/01-users-permissions-for-group.png)
+![permessi utenti per gruppo](../../../it/images/users/permissions-for-group/01-permissions-list.png)
 
 Sopra la tabella dei Permessi ci sono elementi selezionati che mostrano i permessi di accesso
 usando icone per *Consentito*, *Non Consentito* e *Vietato*. La legenda delle icone è sotto

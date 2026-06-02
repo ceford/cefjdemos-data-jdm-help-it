@@ -28,7 +28,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di Aiuto separati:
 
 ## Schermata
 
-![Scheda modulo selettore di lingua](../../../it/images/modules-site/site-modules-language-switcher/01-modules-language-switcher-module-tab.png)
+![Scheda modulo selettore di lingua](../../../it/images/modules-site/site-modules-language-switcher/01-module-tab.png)
 
 ## Campi del modulo
 

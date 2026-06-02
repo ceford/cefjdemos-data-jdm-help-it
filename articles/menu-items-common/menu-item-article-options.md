@@ -13,7 +13,7 @@ Tutte le voci di menu hanno un layout simile, ma alcuni dei campi del modulo e a
 
 ## Screenshot
 
-![dettagli voce di menu](../../../it/images/menu-items-common/menu-item-article-options/01-articles-article-options.png)
+![dettagli voce di menu](../../../it/images/menu-items-common/menu-item-article-options/01-options-tab.png)
 
 ## Campi del modulo
 

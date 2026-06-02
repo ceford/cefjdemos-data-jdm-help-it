@@ -29,7 +29,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Schermata
 
-![scheda del modulo utenti recenti](../../../it/images/modules-site/site-modules-latest-users/01-modules-latest-users-module-tab.png)
+![scheda del modulo utenti recenti](../../../it/images/modules-site/site-modules-latest-users/01-module-tab.png)
 
 ## Campi del Modulo
 

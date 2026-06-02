@@ -28,7 +28,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di Aiuto separati:
 
 ## Schermata
 
-![scheda modulo personalizzato](../../../it/images/modules-site/site-modules-custom/01-modules-custom-module-tab.png)
+![scheda modulo personalizzato](../../../it/images/modules-site/site-modules-custom/01-module-tab.png)
 
 ## Campi del modulo
 

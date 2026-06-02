@@ -6,7 +6,7 @@ La scheda *Modulo: Assegnazione Menu* viene utilizzata con piccole variazioni in
 
 ## Schermata
 
-![Scheda avanzata dei moduli](../../../it/images/modules/modules-menu-assignment-tab/01-modules-custom-menu-assignment-tab.png)
+![Scheda avanzata dei moduli](../../../it/images/modules/modules-menu-assignment-tab/01-menu-assignment-tab.png)
 
 ## Campi del modulo
 

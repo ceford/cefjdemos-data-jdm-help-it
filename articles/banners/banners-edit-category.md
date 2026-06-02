@@ -28,7 +28,7 @@ Navigare alla lista delle Categorie Banner:
 
 ## Screenshot
 
-![Banners modifica categoria](../../../it/images/banners/banners-edit-category/01-banners-edit-category-category-tab.png)
+![Banners modifica categoria](../../../it/images/banners/banners-edit-category/01-category-tab.png)
 
 Vedi gli Elementi Comuni per maggiori informazioni.
 *Tradotto da openai.com*

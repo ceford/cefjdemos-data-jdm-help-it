@@ -36,7 +36,7 @@ Per modificare un elemento di menu Lista Tutte le Categorie di Contatto esistent
 
 ## Screenshot
 
-![Elenco di tutti i contatti delle categorie nella scheda dettagli albero voce di menu](../../../it/images/menu-items/contacts-list-all-contact-categories/01-contacts-list-all-categories-tree-details-tab.png)
+![Elenco di tutti i contatti delle categorie nella scheda dettagli albero voce di menu](../../../it/images/menu-items/contacts-list-all-contact-categories/01-details-tab.png)
 
 ## Campi del Modulo
 
@@ -45,7 +45,7 @@ Per modificare un elemento di menu Lista Tutte le Categorie di Contatto esistent
 Le Opzioni delle Categorie controllano il modo in cui le informazioni delle categorie 
 sono visualizzate nel layout. Le cose che puoi modificare sono:
 
-![Voce di Menu Elenco Contatti Tutte le Categorie albero scheda categorie](../../../it/images/menu-items/contacts-list-all-contact-categories/02-contacts-list-all-categories-tree-categories-tab.png)
+![Voce di Menu Elenco Contatti Tutte le Categorie albero scheda categorie](../../../it/images/menu-items/contacts-list-all-contact-categories/02-categories-tab.png)
 
 - **Descrizione della Categoria di Primo Livello** Mostra o nasconde la 
   descrizione della categoria di primo livello o, facoltativamente, sovrascrivi con il 
@@ -65,7 +65,7 @@ sono visualizzate nel layout. Le cose che puoi modificare sono:
 
 Le Opzioni di Visualizzazione dei Contatti controllano l'aspetto del layout dell'elenco.
 
-![Voce di Menu Elenco Contatti Tutte le Categorie albero scheda opzioni di visualizzazione contatti](../../../it/images/menu-items/contacts-list-all-contact-categories/03-contacts-list-all-categories-tree-contact-display-options.png)
+![Voce di Menu Elenco Contatti Tutte le Categorie albero scheda opzioni di visualizzazione contatti](../../../it/images/menu-items/contacts-list-all-contact-categories/03-contact-display-options.png)
 
 - **Categoria del Contatto** Mostra o nasconde la vista di visualizzazione della Categoria dei Contatti.
     - *Usa Globale* Usa il valore predefinito dalla schermata delle opzioni dei contatti.
@@ -102,7 +102,7 @@ Le Opzioni di Visualizzazione dei Contatti controllano l'aspetto del layout dell
 
 ### Scheda Opzioni di Posta
 
-![Voce di Menu Elenco Contatti Tutte le Categorie albero scheda opzioni di posta](../../../it/images/menu-items/contacts-list-all-contact-categories/04-contacts-list-all-categories-tree-mail-options-tab.png)
+![Voce di Menu Elenco Contatti Tutte le Categorie albero scheda opzioni di posta](../../../it/images/menu-items/contacts-list-all-contact-categories/04-mail-options-tab.png)
 
 - **Modulo di Contatto** Mostra o nasconde il *modulo di contatto* del contatto.
 - **Invia Copia al Mittente** Mostra o nasconde una casella di controllo 

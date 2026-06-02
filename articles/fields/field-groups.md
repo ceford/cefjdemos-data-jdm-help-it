@@ -30,7 +30,7 @@ Categoria e Posta nel componente Contatti. Richiedono una certa esperienza di pr
 
 ## Schermata
 
-![Elenco dei gruppi di campi degli articoli](../../../it/images/fields/field-groups/01-articles-field-groups-list.png)
+![Elenco dei gruppi di campi degli articoli](../../../it/images/fields/field-groups/01-field-groups-list.png)
 
 *Tradotto da openai.com*
 

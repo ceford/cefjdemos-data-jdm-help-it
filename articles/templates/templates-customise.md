@@ -19,7 +19,7 @@ dei file master del template delle sovrascritture.
 
 Le schermate Amministratore e Modelli del Sito usano lo stesso layout. La schermata del Modello del Sito è illustrata qui.
 
-![modelli personalizzare cassiopeia editor scheda](../../../it/images/templates/templates-customise/01-templates-customise-cassiopeia-editor-tab.png)
+![modelli personalizzare cassiopeia editor scheda](../../../it/images/templates/templates-customise/01-editor-tab.png)
 
 ## Campi del Modulo
 
@@ -29,14 +29,14 @@ Le schermate Amministratore e Modelli del Sito usano lo stesso layout. La scherm
 
 ### Scheda Crea Overrides
 
-![scheda crea overrides personalizza cassiopeia modelli](../../../it/images/templates/templates-customise/02-templates-customise-cassiopeia-create-overrides-tab.png)
+![scheda crea overrides personalizza cassiopeia modelli](../../../it/images/templates/templates-customise/02-create-overrides-tab.png)
 
 - Seleziona un elemento da sovrascrivere. Elementi contrassegnati con un'icona di file solido si aprono per rivelare un elenco di elementi. Gli elementi contrassegnati con icone sovrapposte di pagina aperta e piena creano immediatamente un override senza richiesta di conferma. L'override viene posizionato nella posizione appropriata. C'è un messaggio di conferma, ad esempio:
   *Override creato in /templates/cassiopeia/html/mod_whosonline*.
 
 ### Scheda File Aggiornati
 
-![scheda aggiornata personalizza cassiopeia template](../../../it/images/templates/templates-customise/03-templates-customise-cassiopeia-updated-files-tab.png)
+![scheda aggiornata personalizza cassiopeia template](../../../it/images/templates/templates-customise/03-updated-files-tab.png)
 
 Se non ci sono stati aggiornamenti al modello da quando sono stati creati gli overrides, questa scheda conterrà un semplice messaggio:
 
@@ -48,7 +48,7 @@ Se ci sono stati aggiornamenti, una tabella mostrerà un elenco di overrides che
 
 ### Scheda Descrizione Modello
 
-![scheda descrizione modello personalizza cassiopeia](../../../it/images/templates/templates-customise/04-templates-customise-cassiopeia-template-description-tab.png)
+![scheda descrizione modello personalizza cassiopeia](../../../it/images/templates/templates-customise/04-template-description-tab.png)
 
 - **Miniatura e Descrizione** Informazioni su questo modello.
 

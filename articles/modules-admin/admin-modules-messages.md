@@ -25,7 +25,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di Aiuto separati:
 
 ## Schermata
 
-![moduli messaggi scheda modulo](../../../it/images/modules-admin/admin-modules-messages/01-modules-messages-module-tab.png)
+![moduli messaggi scheda modulo](../../../it/images/modules-admin/admin-modules-messages/01-module-tab.png)
 
 ## Campi del Modulo
 

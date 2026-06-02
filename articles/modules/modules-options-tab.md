@@ -6,7 +6,7 @@ La scheda *Moduli: Opzioni* viene utilizzata, con lievi variazioni, in tutte le 
 
 ## Screenshot
 
-![Scheda avanzata dei moduli](../../../it/images/modules/modules-options-tab/01-modules-custom-options-tab.png)
+![Scheda avanzata dei moduli](../../../it/images/modules/modules-options-tab/01-options-tab.png)
 
 ## Campi del Modulo
 

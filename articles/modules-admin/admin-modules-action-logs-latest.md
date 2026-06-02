@@ -26,7 +26,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di supporto separati:
 
 ## Screenshot
 
-![registri delle azioni scheda modulo più recente](../../../it/images/modules-admin/admin-modules-action-logs-latest/01-modules-action-logs-latest-module-tab.png)
+![registri delle azioni scheda modulo più recente](../../../it/images/modules-admin/admin-modules-action-logs-latest/01-module-tab.png)
 
 ## Campi del modulo
 

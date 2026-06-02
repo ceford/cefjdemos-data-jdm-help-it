@@ -19,7 +19,7 @@ Alcuni aspetti di questa pagina sono trattati in articoli separati della Guida:
 
 ## Screenshot
 
-![Scheda delle preferenze delle opzioni di installazione](../../../it/images/extensions/installer-options/01-installer-options-preferences-tab.png)
+![Scheda delle preferenze delle opzioni di installazione](../../../it/images/extensions/installer-options/01-preferences-tab.png)
 
 ## Campi del Modulo
 

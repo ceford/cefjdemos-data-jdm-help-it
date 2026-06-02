@@ -11,7 +11,7 @@ La pagina *Smart Search: Analisi dei Termini di Ricerca* visualizza un elenco di
 
 ## Screenshot
 
-![analisi dei termini di ricerca della ricerca intelligente](../../../it/images/smart-search/smart-search-search-term-analysis/01-smart-search-search-term-analysis.png)
+![analisi dei termini di ricerca della ricerca intelligente](../../../it/images/smart-search/smart-search-search-term-analysis/01-search-term-analysis.png)
 
 ## Colonne
 

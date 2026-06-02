@@ -24,7 +24,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![module frontend link tab](../../../it/images/modules-admin/admin-modules-frontend-link/01-modules-frontend-link-module-tab.png)
+![module frontend link tab](../../../it/images/modules-admin/admin-modules-frontend-link/01-module-tab.png)
 
 ## Campi del modulo
 

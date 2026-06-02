@@ -19,7 +19,7 @@ Alcuni aspetti di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![menu modifica dettagli scheda](../../../it/images/menus/menus-edit/01-menus-edit-menu-details-tab.png)
+![menu modifica dettagli scheda](../../../it/images/menus/menus-edit/01-menu-details-tab.png)
 
 ## Campi del Modulo
 

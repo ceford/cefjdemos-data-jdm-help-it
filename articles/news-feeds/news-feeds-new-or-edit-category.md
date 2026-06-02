@@ -22,7 +22,7 @@ Alcuni aspetti di questa pagina sono trattati in articoli di Aiuto separati:
 
 ## Screenshot
 
-![Modifica delle categorie dei feed di notizie nella scheda delle categorie](../../../it/images/news-feeds/news-feeds-new-or-edit-category/01-news-feeds-edit-category-category-tab.png)
+![Modifica delle categorie dei feed di notizie nella scheda delle categorie](../../../it/images/news-feeds/news-feeds-new-or-edit-category/01-category-tab.png)
 
 ## Campi del modulo
 
@@ -32,7 +32,7 @@ Alcuni aspetti di questa pagina sono trattati in articoli di Aiuto separati:
 
 ### Scheda delle opzioni
 
-![Modifica delle categorie dei feed di notizie - scheda delle opzioni](../../../it/images/news-feeds/news-feeds-new-or-edit-category/02-news-feeds-edit-category-options-tab.png)
+![Modifica delle categorie dei feed di notizie - scheda delle opzioni](../../../it/images/news-feeds/news-feeds-new-or-edit-category/02-options-tab.png)
 
 - **Layout** Seleziona un layout tra le opzioni disponibili.
 - **Immagine** Scegli un'immagine da visualizzare con questa categoria nel Frontend.

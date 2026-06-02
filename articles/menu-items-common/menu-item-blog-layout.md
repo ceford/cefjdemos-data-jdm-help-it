@@ -13,7 +13,7 @@ Tutti gli elementi del menu hanno un layout simile, ma alcuni campi del modulo e
 
 ## Schermata
 
-![Scheda Layout Blog Voce di Menu](../../../it/images/menu-items-common/menu-item-blog-layout/01-articles-category-blog-blog-layout-tab.png)
+![Scheda Layout Blog Voce di Menu](../../../it/images/menu-items-common/menu-item-blog-layout/01-blog-layout-tab.png)
 
 ## Campi del Modulo
 

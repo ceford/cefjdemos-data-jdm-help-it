@@ -26,7 +26,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di Aiuto separati:
 
 ## Screenshot
 
-![moduli scheda di stato multilingue del modulo](../../../it/images/modules-admin/admin-modules-multilingual-status/01-modules-multilingual-status-module-tab.png)
+![moduli scheda di stato multilingue del modulo](../../../it/images/modules-admin/admin-modules-multilingual-status/01-module-tab.png)
 
 ## Campi del modulo
 

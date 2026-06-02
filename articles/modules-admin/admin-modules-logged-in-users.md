@@ -25,7 +25,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![moduli scheda moduli utenti registrati](../../../it/images/modules-admin/admin-modules-logged-in-users/01-modules-logged-in-users-module-tab.png)
+![moduli scheda moduli utenti registrati](../../../it/images/modules-admin/admin-modules-logged-in-users/01-module-tab.png)
 
 ## Campi del modulo
 

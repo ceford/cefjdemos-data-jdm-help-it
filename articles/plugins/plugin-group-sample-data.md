@@ -4,7 +4,7 @@
 
 Questi plugin forniscono dati di esempio per il modulo Dati di Esempio che possono essere visualizzati sulla Dashboard Principale. Se un plugin è disabilitato, non apparirà lì.
 
-![Pannello dati di esempio nella dashboard principale](../../../en/images/plugins/plugin-group-sample-data/01-plugin-group-sample-data.png)
+![Pannello dati di esempio nella dashboard principale](../../../en/images/plugins/plugin-group-sample-data/01-sample-data-module.png)
 
 ### Dati di Esempio - Blog
 

@@ -27,7 +27,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![scheda modulo briciole di pane](../../../it/images/modules-site/site-modules-breadcrumbs/01-modules-breadcrumbs-module-tab.png)
+![scheda modulo briciole di pane](../../../it/images/modules-site/site-modules-breadcrumbs/01-module-tab.png)
 
 ## Campi del Modulo
 

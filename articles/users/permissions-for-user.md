@@ -20,7 +20,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![permessi degli utenti per utente](../../../it/images/users/permissions-for-user/01-users-permissions-for-user.png)
+![permessi degli utenti per utente](../../../it/images/users/permissions-for-user/01-permissions-list.png)
 
 Sopra la tabella dei Permessi sono selezionati elementi che mostrano i permessi di accesso
 utilizzando icone per *Consentito*, *Non Consentito* e *Vietato*. La legenda delle icone è sotto

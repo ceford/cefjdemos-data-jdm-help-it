@@ -29,7 +29,7 @@ Puoi anche creare un nuovo articolo selezionando l'icona **+** nel Menu o nella 
 
 ## Schermata
 
-![Schermata di modifica degli articoli](../../../it/images/articles/articles-edit/01-articles-edit-content-tab.png)
+![Schermata di modifica degli articoli](../../../it/images/articles/articles-edit/01-content-tab.png)
 
 ## Campi del Modulo
 
@@ -85,7 +85,7 @@ Puoi anche creare un nuovo articolo selezionando l'icona **+** nel Menu o nella 
 permessi Admin. Consente la visualizzazione di immagini e link negli articoli utilizzando
 layout standardizzati.
 
-![Scheda per modificare le immagini e link degli articoli](../../../it/images/articles/articles-edit/02-articles-edit-images-tab.png)
+![Scheda per modificare le immagini e link degli articoli](../../../it/images/articles/articles-edit/02-images-tab.png)
 
 #### Immagine Introduttiva
 
@@ -144,7 +144,7 @@ layout standardizzati.
 Articolo: Opzioni. È un insieme di opzioni utilizzate per controllare come
 l'articolo verrà mostrato nel Frontend.
 
-![Scheda Opzioni](../../../it/images/articles/articles-edit/03-articles-edit-options-tab.png)
+![Scheda Opzioni](../../../it/images/articles/articles-edit/03-options-tab.png)
 
 #### Layout
 
@@ -213,14 +213,14 @@ Questa sezione mostra i campi personalizzati che sono definiti per questo artico
 sono campi che non sono assegnati a un Gruppo di Campi. Ogni Gruppo di Campi, se definito,
 apparirà come una scheda separata.
 
-![Scheda Campi](../../../it/images/articles/articles-edit/04-articles-edit-fields-tab.png)
+![Scheda Campi](../../../it/images/articles/articles-edit/04-fields-tab.png)
 
 ### Scheda Configura Schermata di Modifica
 
 **Nota:** Questa può essere nascosta da un utente con permessi Admin nelle
 Articolo: Opzioni.
 
-![Scheda Configura schermata di modifica](../../../it/images/articles/articles-edit/05-articles-edit-configure-edit-screen-tab.png)
+![Scheda Configura schermata di modifica](../../../it/images/articles/articles-edit/05-editor-tab.png)
 
 - **Opzioni di Pubblicazione** Se Nascondi, la scheda Opzioni di Pubblicazione
   non verrà mostrata nel Backend. Questo significa che gli utenti del Backend non

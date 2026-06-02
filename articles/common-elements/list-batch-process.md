@@ -11,7 +11,7 @@ categoria.
 Le operazioni che possono essere eseguite variano in base all'elenco. La seguente
 screenshot mostra la finestra di dialogo batch per gli Articoli:
 
-![Screenshot batch elenco articoli](../../../it/images/common-elements/list-batch-process/01-articles-list-batch.png)
+![Screenshot batch elenco articoli](../../../it/images/common-elements/list-batch-process/01-articles-list-batch-dialog.png)
 
 ## Esempio: Come elaborare in Batch un gruppo di articoli:
 

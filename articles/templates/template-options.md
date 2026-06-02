@@ -26,7 +26,7 @@ Alcuni aspetti di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![opzioni modelli scheda modelli](../../../it/images/templates/template-options/01-templates-options-templates-tab.png)
+![opzioni modelli scheda modelli](../../../it/images/templates/template-options/01-templates-tab.png)
 
 ## Campi del Modulo
 

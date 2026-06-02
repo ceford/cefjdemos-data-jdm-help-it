@@ -26,7 +26,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Schermata
 
-![Reindirizzamenti link](../../../it/images/redirects/redirects-links/01-redirects-links.png)
+![Reindirizzamenti link](../../../it/images/redirects/redirects-links/01-links-list.png)
 
 ## Intestazioni di Colonna
 

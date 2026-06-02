@@ -31,7 +31,7 @@ Per modificare un tipo di elemento Intestazione di Menu esistente:
 
 ## Schermata
 
-![Menu Item Heading details tab](../../../it/images/menu-items/system-links-menu-heading/01-system-links-menu-heading-details-tab.png)
+![Menu Item Heading details tab](../../../it/images/menu-items/system-links-menu-heading/01-details-tab.png)
 
 Tutti i campi di input del modulo sono trattati negli *Elementi Comuni*.
 

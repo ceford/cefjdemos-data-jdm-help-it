@@ -32,7 +32,7 @@ Per modificare un elemento di menu esistente *Richiesta di Promemoria Nome Utent
 
 ## Screenshot
 
-![Scheda dettagli profilo utente](../../../it/images/menu-items/users-username-reminder-request/01-users-username-reminder-request-details-tab.png)
+![Scheda dettagli profilo utente](../../../it/images/menu-items/users-username-reminder-request/01-details-tab.png)
 
 Tutti i campi di input del modulo sono trattati negli *Elementi Comuni*.
 

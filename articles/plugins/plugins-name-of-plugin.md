@@ -54,7 +54,7 @@ Partendo dal menu Amministratore:
 
 ## Screenshot
 
-![Scheda del plugin di Plugins](../../../it/images/plugins/plugins-name-of-plugin/01-plugins-plugin-tab.png)
+![Scheda del plugin di Plugins](../../../it/images/plugins/plugins-name-of-plugin/01-plugin-tab.png)
 
 ## Campi del Modulo
 

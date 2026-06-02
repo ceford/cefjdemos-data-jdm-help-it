@@ -20,7 +20,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Schermata
 
-![Opzioni di smart search nella scheda smart search](../../../it/images/smart-search/smart-search-options/01-smart-search-options-smart-search-tab.png)
+![Opzioni di smart search nella scheda smart search](../../../it/images/smart-search/smart-search-options/01-smart-search-tab.png)
 
 ## Campi del Modulo
 
@@ -49,7 +49,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ### Scheda Indice
 
-![Scheda delle opzioni di ricerca intelligente](../../../it/images/smart-search/smart-search-options/02-smart-search-options-index-tab.png)
+![Scheda delle opzioni di ricerca intelligente](../../../it/images/smart-search/smart-search-options/02-index-tab.png)
 
 - **Cerca Frasi** Disabilitato per migliorare le prestazioni o abilitato per migliorare la qualità dei risultati.
 - **Dimensione del Lotto Indicizzatore** La dimensione del lotto controlla quanti elementi vengono elaborati per batch. Grandi dimensioni dei lotti richiedono molta memoria, mentre piccole dimensioni dei lotti richiedono meno memoria ma eseguono più richieste che tendono a impiegare più tempo.

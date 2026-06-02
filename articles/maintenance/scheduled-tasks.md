@@ -23,7 +23,7 @@ L'elenco iniziale delle Attività Pianificate contiene tre elementi.
 
 ## Schermata
 
-![scheduled tasks list](../../../it/images/maintenance/scheduled-tasks/01-scheduled-tasks-list.png)
+![scheduled tasks list](../../../it/images/maintenance/scheduled-tasks/01-tasks-list.png)
 
 ## Intestazioni di colonna
 
@@ -39,13 +39,13 @@ Colonne uniche per attività programmate:
 
 Seleziona il pulsante nella barra degli strumenti per vedere un elenco di esecuzioni di singoli compiti.
 
-![task execution history list](../../../it/images/maintenance/scheduled-tasks/02-scheduled-tasks-logs.png)
+![task execution history list](../../../it/images/maintenance/scheduled-tasks/02-execution-history.png)
 
 ## Compiti Disponibili
 
 Lo screenshot seguente mostra un elenco di attività disponibili. Alcune sono dimostrazioni, altre sono utili.
 
-![Scheduled Tasks Available](../../../it/images/maintenance/scheduled-tasks/03-scheduled-tasks-types.png)
+![Scheduled Tasks Available](../../../it/images/maintenance/scheduled-tasks/03-task-types.png)
 
 Ogni attività ha i propri parametri correlati che dovrebbero essere autoesplicativi. Ad esempio, l'attività **Sito Offline** ha senso solo se la **Modifica Attività → Campi di Base → Regola di Esecuzione** è impostata su **Esecuzione Manuale**.
 

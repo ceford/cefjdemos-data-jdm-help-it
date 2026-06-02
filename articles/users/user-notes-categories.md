@@ -19,7 +19,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![elenco delle note degli utenti](../../../it/images/users/user-notes-categories/01-users-user-notes-categories-list.png)
+![elenco delle note degli utenti](../../../it/images/users/user-notes-categories/01-categories-list.png)
 
 *Tradotto da openai.com*
 

@@ -26,7 +26,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![modulo di tag simili](../../../it/images/modules-site/site-modules-tags-similar/01-modules-tags-similar-module-tab.png)
+![modulo di tag simili](../../../it/images/modules-site/site-modules-tags-similar/01-module-tab.png)
 
 ## Campi del modulo
 

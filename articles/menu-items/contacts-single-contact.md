@@ -33,7 +33,7 @@ Per modificare un elemento di menu Singolo Contatto esistente:
 
 ## Screenshot
 
-![Dettagli di un singolo contatto nel menu](../../../it/images/menu-items/contacts-single-contact/01-contacts-single-contact-details-tab.png)
+![Dettagli di un singolo contatto nel menu](../../../it/images/menu-items/contacts-single-contact/01-details-tab.png)
 
 ## Campi del Modulo
 
@@ -46,7 +46,7 @@ Per modificare un elemento di menu Singolo Contatto esistente:
 
 Le Opzioni di Visualizzazione Contatto controllano l'aspetto del layout dell'elenco.
 
-![Elemento del Menu Contatto singolo scheda opzioni di visualizzazione contatto](../../../it/images/menu-items/contacts-single-contact/02-contacts-single-contact-contact-display-options-tab.png)
+![Elemento del Menu Contatto singolo scheda opzioni di visualizzazione contatto](../../../it/images/menu-items/contacts-single-contact/02-contact-display-options-tab.png)
 
 - **Categoria del Contatto** Mostra o nasconde la vista di visualizzazione della Categoria del Contatto.
     Le seguenti opzioni sono disponibili.
@@ -84,7 +84,7 @@ Le Opzioni di Visualizzazione Contatto controllano l'aspetto del layout dell'ele
 
 ### Opzioni di Posta Elettronica
 
-![Elemento del Menu Contatto singolo scheda opzioni di posta](../../../it/images/menu-items/contacts-single-contact/03-contacts-single-contact-mail-options-tab.png)
+![Elemento del Menu Contatto singolo scheda opzioni di posta](../../../it/images/menu-items/contacts-single-contact/03-mail-options-tab.png)
 
 - **Modulo di Contatto** Mostra o nasconde il *modulo di contatto* del contatto.
 - **Invia Copia al Mittente** Mostra o nasconde una casella

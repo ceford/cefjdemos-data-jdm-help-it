@@ -26,7 +26,7 @@ Alcuni aspetti di questa pagina sono trattati in articoli di Assistenza separati
 
 Questo esempio è una pagina *Articoli: Modifica Gruppo di Campi*. *Contatti: Modifica Gruppo di Campi* e *Utenti: Modifica Gruppo di Campi* sono simili.
 
-![articoli modifica gruppo di campi](../../../it/images/fields/field-groups-edit/01-articles-edit-field-group.png)
+![articoli modifica gruppo di campi](../../../it/images/fields/field-groups-edit/01-edit-field-group.png)
 
 ## Campi del Modulo
 

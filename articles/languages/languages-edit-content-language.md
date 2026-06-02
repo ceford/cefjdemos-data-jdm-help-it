@@ -20,7 +20,7 @@ Alcuni aspetti di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Schermata
 
-![Lingue Modifica dettagli della lingua dei contenuti nella scheda](../../../it/images/languages/languages-edit-content-language/01-languages-edit-content-language-details-tab.png)
+![Lingue Modifica dettagli della lingua dei contenuti nella scheda](../../../it/images/languages/languages-edit-content-language/01-details-tab.png)
 
 ## Campi del Modulo
 
@@ -47,7 +47,7 @@ Alcuni aspetti di questa pagina sono trattati in articoli di aiuto separati:
 
 ### Scheda Opzioni
 
-![Opzioni della scheda Modifica lingua contenuto](../../../it/images/languages/languages-edit-content-language/02-languages-edit-content-language-options-tab.png)
+![Opzioni della scheda Modifica lingua contenuto](../../../it/images/languages/languages-edit-content-language/02-options-tab.png)
 
 * Il **Nome Personalizzato del Sito** potrebbe essere diverso in lingue differenti!
 * La **Meta Description** dovrebbe essere diversa in lingue differenti!

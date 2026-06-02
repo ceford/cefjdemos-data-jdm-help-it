@@ -20,7 +20,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![Elenco dei siti con lingue installate](../../../it/images/languages/languages-installed/01-languages-installed-site.png)
+![Elenco dei siti con lingue installate](../../../it/images/languages/languages-installed/01-languages-installed-list.png)
 
 ## Filtri Lista
 

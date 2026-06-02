@@ -40,7 +40,7 @@ Per modificare una Categoria esistente:
 
 ## Screenshot
 
-![Modifica categoria screenshot](../../../it/images/articles/articles-edit-category/01-articles-edit-category-category-tab.png)
+![Modifica categoria screenshot](../../../it/images/articles/articles-edit-category/01-category-tab.png)
 
 ## Campi del modulo
 

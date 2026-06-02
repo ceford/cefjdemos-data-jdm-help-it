@@ -13,7 +13,7 @@ Tutti gli elementi del menu hanno una disposizione simile, ma alcuni dei campi d
 Italian:
 ## Screenshot
 
-![visualizzazione della scheda della pagina dell'elemento del menu](../../../it/images/menu-items-common/menu-item-page-display/01-menu-item-page-display.png)
+![visualizzazione della scheda della pagina dell'elemento del menu](../../../it/images/menu-items-common/menu-item-page-display/01-page-display-tab.png)
 
 ## Campi del Modulo
 

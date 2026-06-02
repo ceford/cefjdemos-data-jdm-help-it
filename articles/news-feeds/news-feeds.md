@@ -21,7 +21,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di Aiuto separati:
 
 ## Screenshot
 
-![Elenco dei feed delle notizie](../../../it/images/news-feeds/news-feeds/01-news-feeds-list.png)
+![Elenco dei feed delle notizie](../../../it/images/news-feeds/news-feeds/01-feeds-list.png)
 
 *Tradotto da openai.com*
 

@@ -27,7 +27,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Schermata
 
-![scheda modulo piè di pagina](../../../it/images/modules-site/site-modules-footer/01-modules-footer-module-tab.png)
+![scheda modulo piè di pagina](../../../it/images/modules-site/site-modules-footer/01-module-tab.png)
 
 ## Campi del modulo
 

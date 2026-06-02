@@ -34,13 +34,13 @@ Per modificare una voce di menu Elenco Tutti i Tag esistente:
 
 ## Schermata
 
-![Elenco Compatto degli Articoli Taggati tab dettagli](../../../it/images/menu-items/tags-list-all-tags/01-tags-list-all-tags-details-tab.png)
+![Elenco Compatto degli Articoli Taggati tab dettagli](../../../it/images/menu-items/tags-list-all-tags/01-details-tab.png)
 
 ## Campi del Modulo
 
 ### Scheda Opzioni
 
-![Elenco Compatto degli Elementi Etichettati scheda dei dettagli](../../../it/images/menu-items/tags-list-all-tags/02-tags-list-all-tags-options-tab.png)
+![Elenco Compatto degli Elementi Etichettati scheda dei dettagli](../../../it/images/menu-items/tags-list-all-tags/02-options-tab.png)
 
 - **Numero di Colonne** Il numero di colonne in cui disporre le etichette.
   Nota che questo potrebbe non essere il numero visualizzato se non è divisibile
@@ -61,7 +61,7 @@ Per modificare una voce di menu Elenco Tutti i Tag esistente:
 
 ### Scheda Opzioni di Selezione
 
-![Elenco Compatto degli Elementi Etichettati scheda dei dettagli](../../../it/images/menu-items/tags-list-all-tags/03-tags-list-all-tags-selection-options-tab.png)
+![Elenco Compatto degli Elementi Etichettati scheda dei dettagli](../../../it/images/menu-items/tags-list-all-tags/03-selection-options-tab.png)
 
 - **Elementi Massimi** Il numero massimo di risultati da restituire.
 - **Campo Filtro** Mostra o nasconde il Campo Filtro utilizzato per filtrare gli articoli

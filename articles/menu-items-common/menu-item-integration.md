@@ -13,7 +13,7 @@ Tutti gli elementi del menu hanno un layout simile, ma alcuni campi del modulo e
 
 ## Schermata
 
-![scheda di integrazione dell'elemento di menu](../../../it/images/menu-items-common/menu-item-integration/01-menu-item-category-blog-integration.png)
+![scheda di integrazione dell'elemento di menu](../../../it/images/menu-items-common/menu-item-integration/01-integration-tab.png)
 
 ## Campi del Form
 

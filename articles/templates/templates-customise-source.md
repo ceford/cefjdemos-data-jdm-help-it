@@ -20,7 +20,7 @@ La pagina *Templates: Personalizza Sorgente* è il luogo in cui viene modificato
 
 ## Schermata
 
-![Personalizzazione dei template tab dell'editor di cassiopeia](../../../it/images/templates/templates-customise-source/01-templates-customise-cassiopeia-edit-component-editor-tab.png)
+![Personalizzazione dei template tab dell'editor di cassiopeia](../../../it/images/templates/templates-customise-source/01-editor-tab.png)
 
 ## Campi del Modulo
 

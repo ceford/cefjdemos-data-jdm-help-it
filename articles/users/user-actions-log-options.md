@@ -20,7 +20,7 @@ Per accedere a questa schermata:
 
 ## Screenshot
 
-![registro delle azioni dell'utente - tab opzioni](../../../it/images/users/user-actions-log-options/01-user-actions-log-options-options-tab.png)
+![registro delle azioni dell'utente - tab opzioni](../../../it/images/users/user-actions-log-options/01-options-tab.png)
 
 ## Campi del Modulo
 

@@ -26,7 +26,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![elenco di tutti gli elementi del menu](../../../it/images/menus/menus-items/01-menus-all-menu-items-list.png)
+![elenco di tutti gli elementi del menu](../../../it/images/menus/menus-items/01-items-list.png)
 
 ## Suggerimenti
 

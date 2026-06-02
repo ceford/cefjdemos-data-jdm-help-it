@@ -28,7 +28,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di Aiuto separati:
 
 ## Screenshot
 
-![scheda del modulo chi è online](../../../it/images/modules-site/site-modules-whos-online/01-modules-whos-online-module-tab.png)
+![scheda del modulo chi è online](../../../it/images/modules-site/site-modules-whos-online/01-module-tab.png)
 
 ## Campi del modulo
 

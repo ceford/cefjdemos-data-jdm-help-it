@@ -80,7 +80,7 @@ Parametri per tutti i campi:
 
 ### Scheda Opzioni
 
-![Scheda opzioni modifica campo articoli](../../../it/images/fields/fields-edit/02-articles-edit-field-options-tab.png)
+![Scheda opzioni modifica campo articoli](../../../it/images/fields/fields-edit/02-options-tab.png)
 
 #### Opzioni Formulario
 

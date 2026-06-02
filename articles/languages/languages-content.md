@@ -20,7 +20,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![Elenco dei contenuti delle lingue](../../../it/images/languages/languages-content/01-languages-content.png)
+![Elenco dei contenuti delle lingue](../../../it/images/languages/languages-content/01-languages-list.png)
 
 ## Intestazioni di Colonne
 

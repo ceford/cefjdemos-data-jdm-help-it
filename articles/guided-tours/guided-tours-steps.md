@@ -23,7 +23,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di Aiuto separati:
 
 ## Schermata
 
-![Elenco dei passaggi dei tour guidati](../../../it/images/guided-tours/guided-tours-steps/01-guided-tours-steps-list.png)
+![Elenco dei passaggi dei tour guidati](../../../it/images/guided-tours/guided-tours-steps/01-steps-list.png)
 
 ## Suggerimenti
 

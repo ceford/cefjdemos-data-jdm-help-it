@@ -26,7 +26,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Schermata
 
-![Elenco dei tour guidati](../../../it/images/guided-tours/guided-tours/01-guided-tours-list.png)
+![Elenco dei tour guidati](../../../it/images/guided-tours/guided-tours/01-tours-list.png)
 
 ## Suggerimenti
 

@@ -24,7 +24,7 @@ Alcuni aspetti di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![Modifica Sostituzione Lingue](../../../it/images/languages/languages-edit-override/01-languages-edit-override.png)
+![Modifica Sostituzione Lingue](../../../it/images/languages/languages-edit-override/01-override-form.png)
 
 ## Campi del Modulo
 

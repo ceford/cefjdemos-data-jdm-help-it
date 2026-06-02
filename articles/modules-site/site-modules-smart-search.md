@@ -26,7 +26,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![scheda del modulo di ricerca intelligente](../../../it/images/modules-site/site-modules-smart-search/01-modules-smart-search-module-tab.png)
+![scheda del modulo di ricerca intelligente](../../../it/images/modules-site/site-modules-smart-search/01-module-tab.png)
 
 ## Campi del Modulo
 

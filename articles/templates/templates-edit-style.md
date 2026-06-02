@@ -20,7 +20,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![templates cassiopeia modifica scheda editor stile](../../../it/images/templates/templates-edit-style/01-templates-site-edit-style-details-tab.png)
+![templates cassiopeia modifica scheda editor stile](../../../it/images/templates/templates-edit-style/01-details-tab.png)
 
 ## Campi del Modulo
 
@@ -34,7 +34,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ### Scheda Avanzato
 
-![templates cassiopeia edit style editor tab](../../../it/images/templates/templates-edit-style/02-templates-site-edit-style-advanced-tab.png)
+![templates cassiopeia edit style editor tab](../../../it/images/templates/templates-edit-style/02-advanced-tab.png)
 
 Questa sezione potrebbe non essere presente per tutti gli stili. Se un template
 da cui è derivato uno stile ha opzioni configurabili, queste saranno presenti
@@ -65,7 +65,7 @@ sostituendo 3rem con una larghezza adatta per la tua immagine:
 
 ### Scheda Assegnazione Menù
 
-![templates cassiopeia edit style editor tab](../../../it/images/templates/templates-edit-style/03-templates-site-edit-style-menu-assignment-tab.png)
+![templates cassiopeia edit style editor tab](../../../it/images/templates/templates-edit-style/03-menu-assignment-tab.png)
 
 Questa sezione contiene tutti gli elementi di menu configurati nel tuo sito Joomla!
 Per applicare lo stile corrente alla pagina web corrispondente a un elemento di menu,

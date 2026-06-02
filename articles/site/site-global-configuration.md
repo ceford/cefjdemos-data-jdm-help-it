@@ -19,7 +19,7 @@ Alcuni aspetti di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Schermata
 
-![scheda di configurazione globale del sito](../../../it/images/site/site-global-configuration/01-global-configuration-site-tab.png)
+![scheda di configurazione globale del sito](../../../it/images/site/site-global-configuration/01-site-tab.png)
 
 ## Campi del modulo
 
@@ -96,7 +96,7 @@ Alcuni aspetti di questa pagina sono trattati in articoli di aiuto separati:
 
 ### Scheda Sistema
 
-![scheda di configurazione globale del sistema](../../../it/images/site/site-global-configuration/02-global-configuration-system-tab.png)
+![scheda di configurazione globale del sistema](../../../it/images/site/site-global-configuration/02-system-tab.png)
 
 #### Pannello Debug
 
@@ -168,7 +168,7 @@ Alcuni aspetti di questa pagina sono trattati in articoli di aiuto separati:
 
 ### Scheda Server
 
-![scheda di configurazione globale del server](../../../it/images/site/site-global-configuration/03-global-configuration-server-tab.png)
+![scheda di configurazione globale del server](../../../it/images/site/site-global-configuration/03-server-tab.png)
 
 #### Pannello Server
 
@@ -283,7 +283,7 @@ Alcuni aspetti di questa pagina sono trattati in articoli di aiuto separati:
 
 ### Scheda Registri
 
-![scheda di configurazione globale dei registri](../../../it/images/site/site-global-configuration/04-global-configuration-logging-tab.png)
+![scheda di configurazione globale dei registri](../../../it/images/site/site-global-configuration/04-logging-tab.png)
 
 #### Pannello Registri
 

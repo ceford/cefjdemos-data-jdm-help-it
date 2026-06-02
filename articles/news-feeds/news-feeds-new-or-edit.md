@@ -22,7 +22,7 @@ Alcuni aspetti di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![Scheda modifica feed di notizie](../../../it/images/news-feeds/news-feeds-new-or-edit/01-news-feeds-edit-tab.png)
+![Scheda modifica feed di notizie](../../../it/images/news-feeds/news-feeds-new-or-edit/01-edit-tab.png)
 
 ## Campi del Modulo
 
@@ -37,7 +37,7 @@ Alcuni aspetti di questa pagina sono trattati in articoli di aiuto separati:
 
 ### Scheda Opzioni
 
-![Scheda opzioni feed delle notizie](../../../it/images/news-feeds/news-feeds-new-or-edit/02-news-feeds-options-tab.png)
+![Scheda opzioni feed delle notizie](../../../it/images/news-feeds/news-feeds-new-or-edit/02-options-tab.png)
 
 #### Pannello Immagini
 

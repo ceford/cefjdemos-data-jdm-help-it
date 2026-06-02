@@ -33,7 +33,7 @@ Per modificare un elemento di menu Estendi Consenso esistente:
 
 ## Screenshot
 
-![Dettagli della scheda Crea Richiesta Privacy nel Menu](../../../it/images/menu-items/privacy-extend-consent/01-privacy-extend-consent-details-tab.png)
+![Dettagli della scheda Crea Richiesta Privacy nel Menu](../../../it/images/menu-items/privacy-extend-consent/01-details-tab.png)
 
 Tutti i campi di input del modulo sono trattati nei *Elementi Comuni*.
 

@@ -6,13 +6,13 @@ Seleziona il pulsante Opzioni nella barra degli strumenti per configurare le att
 
 ### Configurare la scheda Attività
 
-![task timeout setting](../../../it/images/maintenance/scheduled-tasks-configuration/01-scheduled-tasks-options-configure-tasks.png)
+![task timeout setting](../../../it/images/maintenance/scheduled-tasks-configuration/01-configure-tasks-tab.png)
 
 - **Timeout dell'attività** Il valore predefinito è di 300 secondi.
 
 ### Scheda Programmatore Pigro
 
-![lazy schedule setting](../../../it/images/maintenance/scheduled-tasks-configuration/02-scheduled-tasks-options-lazy-scheduler.png)
+![lazy schedule setting](../../../it/images/maintenance/scheduled-tasks-configuration/02-lazy-scheduler-tab.png)
 
 - I compiti **abilitati** vengono attivati dai visitatori del sito.
 - I compiti **disabilitati** devono essere attivati da un cron job esterno.
@@ -20,7 +20,7 @@ Seleziona il pulsante Opzioni nella barra degli strumenti per configurare le att
 
 ### Tabella Cron Web
 
-![web cron setting](../../../it/images/maintenance/scheduled-tasks-configuration/03-scheduled-tasks-options-webcron.png)
+![web cron setting](../../../it/images/maintenance/scheduled-tasks-configuration/03-webcron-tab.png)
 
 - **Web Cron** Disabilitato è l'impostazione predefinita. Abilitato richiede un hash per avviare il compito. Prima del primo salvataggio c'è un messaggio che indica che è necessaria una chiave. Dopo il salvataggio c'è un campo contenente un URL di collegamento Webcron da copiare.
 

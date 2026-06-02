@@ -27,7 +27,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![utenti note utente nuovo o modifica](../../../it/images/users/user-notes-new-or-edit/01-users-user-notes-new-or-edit.png)
+![utenti note utente nuovo o modifica](../../../it/images/users/user-notes-new-or-edit/01-edit-form.png)
 
 ## Campi del Modulo
 

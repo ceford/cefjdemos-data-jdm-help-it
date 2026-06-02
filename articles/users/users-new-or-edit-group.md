@@ -14,7 +14,7 @@ La pagina *Utenti: Nuovo o Modifica Gruppo* viene utilizzata per creare un nuovo
 
 ## Screenshot
 
-![dettagli nuovo gruppo utenti](../../../it/images/users/users-new-or-edit-group/01-users-new-group-details-tab.png)
+![dettagli nuovo gruppo utenti](../../../it/images/users/users-new-or-edit-group/01-details-tab.png)
 
 ## Dettagli Gruppo Utenti
 

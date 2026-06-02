@@ -23,7 +23,7 @@ Dal menu Amministratore:
 
 ## Schermata
 
-![modulo di inserimento dati del modulo weblinks](../../../it/images/modules-site/site-modules-weblinks/01-modules-weblinks-module-tab.png)
+![modulo di inserimento dati del modulo weblinks](../../../it/images/modules-site/site-modules-weblinks/01-module-tab.png)
 
 ## Campi del Modulo
 

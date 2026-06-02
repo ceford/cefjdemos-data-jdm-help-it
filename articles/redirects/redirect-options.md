@@ -28,7 +28,7 @@ Seleziona il link **Plugin di Sistema per il Reindirizzamento** e abilita il plu
 
 ## Screenshot
 
-![Opzioni di reindirizzamento nella scheda avanzata](../../../it/images/redirects/redirect-options/01-redirect-options-advanced-tab.png)
+![Opzioni di reindirizzamento nella scheda avanzata](../../../it/images/redirects/redirect-options/01-advanced-tab.png)
 
 ## Campi del modulo
 

@@ -18,7 +18,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![modifica sito di aggiornamento siti di aggiornamento](../../../it/images/update-sites/edit-update-site/01-update-sites-edit-update-site.png)
+![modifica sito di aggiornamento siti di aggiornamento](../../../it/images/update-sites/edit-update-site/01-update-site-form.png)
 
 ## Campi del modulo
 

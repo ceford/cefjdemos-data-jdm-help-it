@@ -40,7 +40,7 @@ Per modificare un Elemento di Menu:
 
 ## Screenshot
 
-![Categoria Voci di Menu Blog](../../../it/images/menu-items/articles-category-blog/01-articles-category-blog-details-tab.png)
+![Categoria Voci di Menu Blog](../../../it/images/menu-items/articles-category-blog/01-details-tab.png)
 
 ## Campi del Modulo
 

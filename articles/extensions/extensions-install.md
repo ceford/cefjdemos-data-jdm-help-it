@@ -62,7 +62,7 @@ normale per installare un'Estensione di Joomla! è la seguente:
 
 ## Scheda Carica File Pacchetto
 
-![Scheda di installazione estensione carica file pacchetto](../../../it/images/extensions/extensions-install/01-install-upload-package-file.png)
+![Scheda di installazione estensione carica file pacchetto](../../../it/images/extensions/extensions-install/01-upload-package-file.png)
 
 - Trascina e rilascia o sfoglia fino alla posizione in cui hai scaricato
   il file di archivio dell'Estensione.

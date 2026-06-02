@@ -24,7 +24,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![scheda modulo banner](../../../it/images/modules-site/site-modules-banners/01-modules-banners-module-tab.png)
+![scheda modulo banner](../../../it/images/modules-site/site-modules-banners/01-module-tab.png)
 
 ## Campi del Modulo
 

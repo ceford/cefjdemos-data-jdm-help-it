@@ -27,7 +27,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di Aiuto separati:
 
 ## Screenshot
 
-![scheda modulo articoli correlati](../../../it/images/modules-site/site-modules-articles-related/01-modules-articles-related-module-tab.png)
+![scheda modulo articoli correlati](../../../it/images/modules-site/site-modules-articles-related/01-module-tab.png)
 
 ## Campi del Modulo
 

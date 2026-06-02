@@ -25,7 +25,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Schermata
 
-![smart search contenuti mappe](../../../it/images/smart-search/smart-search-search-filters/01-smart-search-search-filters.png)
+![smart search contenuti mappe](../../../it/images/smart-search/smart-search-search-filters/01-search-filters.png)
 
 *Tradotto da openai.com*
 

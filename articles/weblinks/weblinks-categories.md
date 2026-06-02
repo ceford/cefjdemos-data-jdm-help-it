@@ -20,7 +20,7 @@ Seleziona **Componenti → Weblinks → Categorie** dal menu Amministratore.
 
 ## Screenshot
 
-![elenco weblink](../../../it/images/weblinks/weblinks-categories/01-web-links-categories-list.png)
+![elenco weblink](../../../it/images/weblinks/weblinks-categories/01-categories-list.png)
 
 *Tradotto da openai.com*
 

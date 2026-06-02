@@ -26,7 +26,7 @@ Un banner può essere un'immagine cliccabile o un codice personalizzato. Il Tipo
 mostrato nello screenshot qui sotto. Il tipo personalizzato ha la casella di selezione
 dell'immagine sostituita con un'area di testo per il codice.
 
-![Banners edit details tab](../../../it/images/banners/banners-edit/01-banners-edit-details-tab.png)
+![Banners edit details tab](../../../it/images/banners/banners-edit/01-details-tab.png)
 
 ## Campi del modulo
 
@@ -80,7 +80,7 @@ dell'immagine sostituita con un'area di testo per il codice.
 
 ### Scheda Dettagli Banner
 
-![Banners edit banner details tab](../../../it/images/banners/banners-edit/02-banners-edit-banner-details-tab.png)
+![Banners edit banner details tab](../../../it/images/banners/banners-edit/02-banner-details-tab.png)
 
 - **Max. Impressioni** Il numero di Impressioni acquistate per questo
   Banner. Le impressioni sono il numero di volte che un Banner verrà visualizzato

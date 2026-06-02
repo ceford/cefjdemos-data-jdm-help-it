@@ -30,7 +30,7 @@ Per modificare un elemento di menu URL Esterno esistente:
 
 ## Screenshot
 
-![Alias della voce di menu](../../../it/images/menu-items/system-links-url/01-system-links-url-details-tab.png)
+![Alias della voce di menu](../../../it/images/menu-items/system-links-url/01-details-tab.png)
 
 Tutti i campi di input del modulo sono trattati negli *Elementi Comuni*.
 

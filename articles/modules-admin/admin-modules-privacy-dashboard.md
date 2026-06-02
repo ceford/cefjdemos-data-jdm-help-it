@@ -25,7 +25,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di Aiuto separati:
 
 ## Screenshot
 
-![scheda del modulo della dashboard della privacy dei moduli](../../../it/images/modules-admin/admin-modules-privacy-dashboard/01-modules-privacy-dashboard-module-tab.png)
+![scheda del modulo della dashboard della privacy dei moduli](../../../it/images/modules-admin/admin-modules-privacy-dashboard/01-module-tab.png)
 
 ## Campi del Modulo
 

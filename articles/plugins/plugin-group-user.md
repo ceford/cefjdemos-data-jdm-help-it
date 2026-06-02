@@ -4,7 +4,7 @@
 
 ### Utente - Creatore Contatti
 
-![Modulo creatore contatti utente](../../../en/images/plugins/plugin-group-user/01-plugin-group-user-contact-creator.png)
+![Modulo creatore contatti utente](../../../en/images/plugins/plugin-group-user/01-contact-creator.png)
 
 - **Pagina Web Automatica** Una stringa formattata per generare automaticamente la pagina web di un contatto. [name] viene sostituito con il nome, [username] viene sostituito con il nome utente, [userid] viene sostituito con l'ID utente e [email] viene sostituito con l'email.
 - **Categoria** Categoria per assegnare i contatti di default.
@@ -14,13 +14,13 @@
 
 Permette la gestione dei token di sicurezza utilizzati per autenticarsi all'applicazione API di Joomla (accesso remoto al sito). Questi token sono strettamente personali. Puoi visualizzare il tuo token, ma puoi solo disabilitare o resettare i token di altri utenti.
 
-![Modulo token API Joomla utente](../../../en/images/plugins/plugin-group-user/02-plugin-group-user-joomla-api-token.png)
+![Modulo token API Joomla utente](../../../en/images/plugins/plugin-group-user/02-joomla-api-token.png)
 
 - **Gruppi Utenti Permessi** Selezionare uno o più gruppi per consentire loro di utilizzare i Joomla Token per autenticarsi all'applicazione API di Joomla.
 
 ### Utente - Joomla!
 
-![Modulo Joomla utente](../../../en/images/plugins/plugin-group-user/03-plugin-group-user-joomla.png)
+![Modulo Joomla utente](../../../en/images/plugins/plugin-group-user/03-joomla.png)
 
 - **Creazione Automatica Utenti** Se creare o meno automaticamente utenti registrati di Joomla! quando possibile. Il valore predefinito è *Sì*.
 - **Email di Notifica all'Utente** Quando un amministratore crea un account utente, determina se un'email contenente il nome utente e la password viene inviata all'utente.
@@ -34,7 +34,7 @@ Questo plugin aggiunge la funzionalità dei profili utente a un sito web. Gli ut
 - **Opzionale** Il campo è visibile nei profili utente ma è opzionale e gli utenti non sono obbligati a compilarlo.
 - **Disabilitato** Il campo è disabilitato e non visibile nei profili utente.
 
-![Modulo profilo utente](../../../en/images/plugins/plugin-group-user/04-plugin-group-user-profile.png)
+![Modulo profilo utente](../../../en/images/plugins/plugin-group-user/04-profile.png)
 
 - **Tutti i campi** Le tre opzioni sono disponibili eccetto per il campo Termini di Servizio, che offre una scelta tra *Obbligatorio* e *Disabilitato*.
 
@@ -42,7 +42,7 @@ Questo plugin aggiunge la funzionalità dei profili utente a un sito web. Gli ut
 
 Questo plugin consente di raccogliere il consenso degli utenti ai termini e condizioni del sito.
 
-![Modulo termini e condizioni utente](../../../en/images/plugins/plugin-group-user/05-plugin-group-user-terms-and-conditions.png)
+![Modulo termini e condizioni utente](../../../en/images/plugins/plugin-group-user/05-terms-and-conditions.png)
 
 - **Termini & Condizioni Brevi** Consente di inserire un riepilogo dei Termini & Condizioni o di utilizzare il valore predefinito della lingua.
 - **Articolo Termini & Condizioni** Selezionare o creare un articolo per i Termini & Condizioni da collegare al modulo dell'utente.

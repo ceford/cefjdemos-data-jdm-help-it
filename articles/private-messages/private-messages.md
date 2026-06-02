@@ -21,7 +21,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![messaggi privati](../../../it/images/private-messages/private-messages/01-private-messages.png)
+![messaggi privati](../../../it/images/private-messages/private-messages/01-messages-list.png)
 
 ## Suggerimenti
 

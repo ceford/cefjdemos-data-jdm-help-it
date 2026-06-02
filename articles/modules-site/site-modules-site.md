@@ -21,11 +21,11 @@ Alcuni elementi di questa pagina sono trattati in articoli di Aiuto separati:
 
 ## Screenshot - Elenco dei Moduli del Sito Installati
 
-![elenco moduli amministratore](../../../it/images/modules-site/site-modules-site/01-modules-site-list.png)
+![elenco moduli amministratore](../../../it/images/modules-site/site-modules-site/01-site-list.png)
 
 ## Screenshot - Elenco dei Moduli del Sito Disponibili
 
-![moduli disponibili dell'amministratore](../../../it/images/modules-site/site-modules-site/02-modules-site-available.png)
+![moduli disponibili dell'amministratore](../../../it/images/modules-site/site-modules-site/02-site-available.png)
 
 ## Posizioni dei Moduli
 

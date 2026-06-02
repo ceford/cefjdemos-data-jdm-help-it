@@ -22,7 +22,7 @@ Maggiori Informazioni: [Una Guida per Principianti al Test dei Bug di Joomla](ht
 
 ## Screenshot
 
-![Modulo Opzioni Patchtester](../../../it/images/joomla-patchtester/patchtester-options/01-patchtester-options-github-repository-tab.png)
+![Modulo Opzioni Patchtester](../../../it/images/joomla-patchtester/patchtester-options/01-github-repository-tab.png)
 
 ## Campi del Modulo
 
@@ -34,7 +34,7 @@ Maggiori Informazioni: [Una Guida per Principianti al Test dei Bug di Joomla](ht
 
 Hai bisogno di un account GitHub e di un Token GitHub. Tutto gratuito - vedi la scheda di Autenticazione GitHub per i dettagli.
 
-![Opzioni Patchtester scheda di autenticazione github](../../../it/images/joomla-patchtester/patchtester-options/02-patchtester-options-github-authentication-tab.png)
+![Opzioni Patchtester scheda di autenticazione github](../../../it/images/joomla-patchtester/patchtester-options/02-github-authentication-tab.png)
 
 - **Metodo di Autenticazione GitHub** Scegli il metodo Token. Il
   metodo delle Credenziali non funzionerà da settembre 2020.
@@ -44,7 +44,7 @@ Hai bisogno di un account GitHub e di un Token GitHub. Tutto gratuito - vedi la 
 
 Queste impostazioni vengono utilizzate per i test automatici. Usa i predefiniti per i test manuali.
 
-![Opzioni Patchtester scheda impostazioni server ci](../../../it/images/joomla-patchtester/patchtester-options/03-patchtester-options-ci-server-settings-tab.png)
+![Opzioni Patchtester scheda impostazioni server ci](../../../it/images/joomla-patchtester/patchtester-options/03-ci-server-settings-tab.png)
 
 - **Indirizzo Server CI** Predefinito: `https://ci.joomla.org`
 - **Attiva Integrazione CI** Predefinito: Disattivato

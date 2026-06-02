@@ -35,11 +35,11 @@ Per modificare un elemento esistente del menu Opzioni Modello di Visualizzazione
 
 ## Screenshot
 
-![Visualizza la scheda dei dettagli delle opzioni del modello di visualizzazione](../../../it/images/menu-items/configuration-display-template-options/01-configuration-display-template-options-details.png)
+![Visualizza la scheda dei dettagli delle opzioni del modello di visualizzazione](../../../it/images/menu-items/configuration-display-template-options/01-details-tab.png)
 
 ## Screenshot Front End
 
-![Opzioni del template di visualizzazione nel modulo del front end](../../../en/images/menu-items/configuration-display-template-options/02-configuration-display-template-options-frontend.png)
+![Opzioni del template di visualizzazione nel modulo del front end](../../../en/images/menu-items/configuration-display-template-options/02-frontend.png)
 
 *Tradotto da openai.com*
 

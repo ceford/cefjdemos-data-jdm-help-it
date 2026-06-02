@@ -34,7 +34,7 @@ Per modificare un elemento di menu Singolo Feed di Notizie esistente:
 
 ## Screenshot
 
-![Scheda di dettaglio della singola notizia del feed](../../../it/images/menu-items/news-feeds-single-news-feed/01-news-feeds-single-news-feed-details-tab.png)
+![Scheda di dettaglio della singola notizia del feed](../../../it/images/menu-items/news-feeds-single-news-feed/01-details-tab.png)
 
 ## Campi del Modulo
 
@@ -45,7 +45,7 @@ Per modificare un elemento di menu Singolo Feed di Notizie esistente:
 
 ### Scheda Opzioni di Visualizzazione del Feed
 
-![Scheda dettagli dell'Elemento di Menu Singolo Feed di Notizie](../../../it/images/menu-items/news-feeds-single-news-feed/02-news-feeds-single-news-feed-feed-display-options-tab.png)
+![Scheda dettagli dell'Elemento di Menu Singolo Feed di Notizie](../../../it/images/menu-items/news-feeds-single-news-feed/02-display-options-tab.png)
 
 Oltre a Sì/No o Nascondi/Mostra, queste opzioni consentono di usare l'impostazione "Usa Globale". 
 Questo utilizza il valore predefinito dalla schermata Opzioni Feed di Notizie.

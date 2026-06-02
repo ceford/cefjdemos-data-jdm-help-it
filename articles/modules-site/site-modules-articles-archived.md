@@ -26,7 +26,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Schermata
 
-![scheda modulo articoli archiviati](../../../it/images/modules-site/site-modules-articles-archived/01-modules-articles-archived-module-tab.png)
+![scheda modulo articoli archiviati](../../../it/images/modules-site/site-modules-articles-archived/01-module-tab.png)
 
 ## Campi del modulo
 

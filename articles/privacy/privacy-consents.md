@@ -19,7 +19,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Screenshot
 
-![consensi sulla privacy](../../../it/images/privacy/privacy-consents/01-privacy-consents.png)
+![consensi sulla privacy](../../../it/images/privacy/privacy-consents/01-consents-list.png)
 
 ## Intestazioni delle colonne
 

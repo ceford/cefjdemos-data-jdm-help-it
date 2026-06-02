@@ -23,7 +23,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Schermata
 
-![modifica filtro ricerca smart](../../../it/images/smart-search/smart-search-new-or-edit-filter/01-smart-search-edit-filter.png)
+![modifica filtro ricerca smart](../../../it/images/smart-search/smart-search-new-or-edit-filter/01-edit-filter.png)
 
 ## Campi del modulo
 
@@ -44,7 +44,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Scheda Opzioni
 
-![scheda opzioni filtro modifica ricerca intelligente](../../../it/images/smart-search/smart-search-new-or-edit-filter/02-smart-search-edit-filter-options-tab.png)
+![scheda opzioni filtro modifica ricerca intelligente](../../../it/images/smart-search/smart-search-new-or-edit-filter/02-options-tab.png)
 
 ### Pannello di Pubblicazione
 

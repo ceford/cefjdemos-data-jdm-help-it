@@ -31,7 +31,7 @@ Per modificare una voce di menu Separatore esistente:
 
 ## Screenshot
 
-![Alias del Menù](../../../it/images/menu-items/system-links-separator/01-system-links-separator-details-tab.png)
+![Alias del Menù](../../../it/images/menu-items/system-links-separator/01-details-tab.png)
 
 Tutti i campi di input del modulo sono trattati negli *Elementi Comuni*.
 

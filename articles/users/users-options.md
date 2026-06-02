@@ -19,7 +19,7 @@ inclusi:
 
 ## Schermata
 
-![opzioni utenti scheda opzioni utenti](../../../it/images/users/users-options/01-users-options-user-options-tab.png)
+![opzioni utenti scheda opzioni utenti](../../../it/images/users/users-options/01-user-options-tab.png)
 
 ## Campi del modulo
 
@@ -56,7 +56,7 @@ inclusi:
 
 ### Scheda delle opzioni del dominio email
 
-![scheda opzioni utente domini email](../../../it/images/users/users-options/02-users-options-email-domain-options-tab.png)
+![scheda opzioni utente domini email](../../../it/images/users/users-options/02-email-domain-options-tab.png)
 
 - **Nome del dominio** Inserisci un elenco di domini email consentiti e non consentiti.
   Di default, tutti i domini sono consentiti. I caratteri jolly (\*) sono supportati. Per esempio:
@@ -67,7 +67,7 @@ inclusi:
 
 ### Scheda delle opzioni della password
 
-![scheda opzioni password](../../../it/images/users/users-options/03-users-options-password-options-tab.png)
+![scheda opzioni password](../../../it/images/users/users-options/03-password-options-tab.png)
 
 - **Numero massimo di reset** Il numero massimo di reset della password consentiti
   nel periodo di tempo. Zero indica nessun limite.
@@ -82,7 +82,7 @@ inclusi:
 
 ### Scheda dell'autenticazione multi-fattore
 
-![scheda autenticazione multi-fattore](../../../it/images/users/users-options/04-users-options-multi-factor-authentication-tab.png)
+![scheda autenticazione multi-fattore](../../../it/images/users/users-options/04-multi-factor-authentication-tab.png)
 
 - **Posizioni dei moduli frontend consentite** Quando si visualizza la pagina di autenticazione 
   multi-fattore del frontend tutti i moduli saranno nascosti eccetto quelli nelle posizioni 
@@ -122,7 +122,7 @@ inclusi:
 
 ### Scheda della cronologia delle note utente
 
-![scheda cronologia note utente](../../../it/images/users/users-options/05-users-options-user-notes-history-tab.png)
+![scheda cronologia note utente](../../../it/images/users/users-options/05-user-notes-history-tab.png)
 
 - **Abilita versioni** Salva la cronologia delle versioni per le note utente.
 - **Numero massimo di versioni** Il numero massimo di versioni da memorizzare per una nota 
@@ -132,7 +132,7 @@ inclusi:
 
 ### Scheda degli utenti Mail di massa
 
-![scheda utenti mail di massa](../../../it/images/users/users-options/06-users-options-mass-mail-users-tab.png)
+![scheda utenti mail di massa](../../../it/images/users/users-options/06-mass-mail-users-tab.png)
 
 - **Prefisso oggetto** Inserisci un testo opzionale da inserire automaticamente prima 
   dell'oggetto dell'e-mail di massa.
@@ -141,7 +141,7 @@ inclusi:
 
 ### Scheda dell'integrazione
 
-![scheda integrazione](../../../it/images/users/users-options/07-users-options-integration-tab.png)
+![scheda integrazione](../../../it/images/users/users-options/07-integration-tab.png)
 
 - **Abilita campi personalizzati** Abilita la creazione di campi personalizzati.
 

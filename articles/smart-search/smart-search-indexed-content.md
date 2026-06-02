@@ -26,7 +26,7 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
 
 ## Schermata
 
-![ricerca intelligente contenuto indicizzato](../../../it/images/smart-search/smart-search-indexed-content/01-smart-search-indexed-content.png)
+![ricerca intelligente contenuto indicizzato](../../../it/images/smart-search/smart-search-indexed-content/01-indexed-content.png)
 
 ## Crea un Indice
 
