@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_List_All_News_Feed_Categories / Display title: Elenca tutte le categorie del feed di notizie -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_List_All_News_Feed_Categories",
+  "title": "Elenca tutte le categorie del feed di notizie ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

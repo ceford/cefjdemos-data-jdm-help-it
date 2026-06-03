@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Banners:_Edit / Display title: Banner: Modifica -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Banners:_Edit",
+  "title": "Banner: Modifica ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

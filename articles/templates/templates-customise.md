@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Templates:_Customise / Display title: Template: Personalizza -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Templates:_Customise",
+  "title": "Template: Personalizza ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

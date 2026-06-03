@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Privacy_Dashboard / Display title: Pannello di Controllo della Privacy -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Privacy_Dashboard",
+  "title": "Pannello di Controllo della Privacy ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Random_Image / Display title: Moduli: Immagine casuale -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Random_Image",
+  "title": "Moduli: Immagine casuale ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

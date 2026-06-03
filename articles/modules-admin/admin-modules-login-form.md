@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Admin_Modules:_Login_Form / Display title: Moduli: Modulo di Accesso -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Login_Form",
+  "title": "Moduli: Modulo di Accesso ",
+  "description": "", 
+  "author": ""
+}
+-->
 . 
 ## Descrizione
 

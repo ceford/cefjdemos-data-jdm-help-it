@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menus_Menu_Item_Weblink_Categories / Display title: Elenca Tutte le Categorie di Collegamenti Web -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menus_Menu_Item_Weblink_Categories",
+  "title": "Elenca Tutte le Categorie di Collegamenti Web ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

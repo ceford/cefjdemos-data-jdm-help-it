@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Smart_Search / Display title: Moduli: Ricerca Intelligente -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Smart_Search",
+  "title": "Moduli: Ricerca Intelligente ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

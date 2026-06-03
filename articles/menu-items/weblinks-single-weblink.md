@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menus_Menu_Item_Single_Weblink / Display title: Link Singolo -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menus_Menu_Item_Single_Weblink",
+  "title": "Link Singolo ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

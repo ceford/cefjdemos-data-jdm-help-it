@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Privacy:_Options / Display title: Privacy: Opzioni  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Privacy:_Options",
+  "title": "Privacy: Opzioni  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

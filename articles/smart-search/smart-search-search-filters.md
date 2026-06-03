@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Smart_Search:_Search_Filters / Display title: Ricerca Intelligente: Filtri di Ricerca -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Smart_Search:_Search_Filters",
+  "title": "Ricerca Intelligente: Filtri di Ricerca ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menus_Menu_Item_Weblink_Category / Display title: Elencare i Link Web in una Categoria -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menus_Menu_Item_Weblink_Category",
+  "title": "Elencare i Link Web in una Categoria ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

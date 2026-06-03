@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Admin_Modules:_Tours_Menu / Display title: Moduli: Visite Guidate -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Tours_Menu",
+  "title": "Moduli: Visite Guidate ",
+  "description": "", 
+  "author": ""
+}
+-->
 ## Descrizione
 
 Il modulo *Visite Guidate* mostra un elenco di visite guidate disponibili come un elenco a discesa nella barra del titolo dell'Amministratore.

@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Menu_Item_Blog_Layout / Display title: Layout del Blog Voce di Menu -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Menu_Item_Blog_Layout",
+  "title": "Layout del Blog Voce di Menu ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

@@ -1,4 +1,11 @@
-<!-- Filename: Chunk4x:Extensions_Plugin_Manager_Edit_User_Group / Display title: Gruppo Utenti -->
+<!--
+{
+  "source": "https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_User_Group",
+  "title": "Gruppo Utenti ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione del Gruppo
 

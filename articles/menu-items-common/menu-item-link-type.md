@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Menu_Item_Link_Type / Display title: Tipo di Collegamento Voce di Menu -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Menu_Item_Link_Type",
+  "title": "Tipo di Collegamento Voce di Menu ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

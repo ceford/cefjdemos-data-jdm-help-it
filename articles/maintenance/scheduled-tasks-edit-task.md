@@ -1,4 +1,11 @@
-<!-- Filename: Help5.x:Scheduled_Tasks:_Edit / Display title: Modifica attività -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help5.x:Scheduled_Tasks:_Edit",
+  "title": "Modifica attività ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

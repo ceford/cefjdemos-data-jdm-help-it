@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Smart_Search:_Content_Maps / Display title: Ricerca Intelligente: Mappe dei Contenuti  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Smart_Search:_Content_Maps",
+  "title": "Ricerca Intelligente: Mappe dei Contenuti  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

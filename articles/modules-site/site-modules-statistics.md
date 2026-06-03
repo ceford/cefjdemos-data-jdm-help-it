@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Statistics / Display title: Moduli: Statistiche -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Statistics",
+  "title": "Moduli: Statistiche ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

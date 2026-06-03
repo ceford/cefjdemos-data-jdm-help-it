@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Templates:_Templates / Display title: Modelli: Modelli  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Templates:_Templates",
+  "title": "Modelli: Modelli  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

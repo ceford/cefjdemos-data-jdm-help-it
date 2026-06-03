@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Guided_Tours:_Steps / Display title: Tour Guidati: Passaggi -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Guided_Tours:_Steps",
+  "title": "Tour Guidati: Passaggi ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 If you have more text to translate or need further assistance, feel free to ask!
 

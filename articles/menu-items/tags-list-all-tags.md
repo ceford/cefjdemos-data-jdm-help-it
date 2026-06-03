@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_List_All_Tags / Display title: Elenca Tutti i Tag -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Tags",
+  "title": "Elenca Tutti i Tag ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

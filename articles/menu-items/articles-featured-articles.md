@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Featured_Articles / Display title: Articoli in evidenza -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Articles",
+  "title": "Articoli in evidenza ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

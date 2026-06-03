@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Banners / Display title: Moduli: Banner -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Banners",
+  "title": "Moduli: Banner ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

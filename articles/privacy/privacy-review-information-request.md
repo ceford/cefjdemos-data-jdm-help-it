@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Privacy:_Review_Information_Request / Display title: Privacy: Richiesta di Revisione delle Informazioni -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Privacy:_Review_Information_Request",
+  "title": "Privacy: Richiesta di Revisione delle Informazioni ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:List_Filters / Display title: Filtri di Elenco -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:List_Filters",
+  "title": "Filtri di Elenco ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Scopo¶
 

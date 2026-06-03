@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Admin_Modules:_Privacy_Status_Check / Display title: Moduli: Verifica dello Stato della Privacy -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Privacy_Status_Check",
+  "title": "Moduli: Verifica dello Stato della Privacy ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

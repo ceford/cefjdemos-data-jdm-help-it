@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Modules_Options_Tab / Display title: Moduli: Scheda Opzioni -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Modules_Options_Tab",
+  "title": "Moduli: Scheda Opzioni ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

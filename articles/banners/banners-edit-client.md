@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Banners:_New_or_Edit_Client / Display title: Banner: Modifica Cliente -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Banners:_New_or_Edit_Client",
+  "title": "Banner: Modifica Cliente ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

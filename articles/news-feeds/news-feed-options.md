@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:News_Feed:_Options / Display title: Flusso di Notizie: Opzioni -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:News_Feed:_Options",
+  "title": "Flusso di Notizie: Opzioni ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

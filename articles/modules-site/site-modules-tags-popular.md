@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Tags_-_Popular / Display title: Moduli: Tag - Popolari  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Tags_-_Popular",
+  "title": "Moduli: Tag - Popolari  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Privacy:_Information_Requests / Display title: Privacy: Richieste di Informazioni -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Privacy:_Information_Requests",
+  "title": "Privacy: Richieste di Informazioni ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

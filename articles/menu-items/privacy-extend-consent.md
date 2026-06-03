@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Extend_Consent / Display title: Voce di Menu: Estendere il Consenso -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Extend_Consent",
+  "title": "Voce di Menu: Estendere il Consenso ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

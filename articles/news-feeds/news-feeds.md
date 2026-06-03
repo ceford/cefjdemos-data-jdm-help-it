@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:News_Feeds / Display title: Feed di Notizie -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:News_Feeds",
+  "title": "Feed di Notizie ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

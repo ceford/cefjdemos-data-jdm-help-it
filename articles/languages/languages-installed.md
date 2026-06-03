@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Languages:_Installed / Display title: Lingue: Installate -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Languages:_Installed",
+  "title": "Lingue: Installate ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

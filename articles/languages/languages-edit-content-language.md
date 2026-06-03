@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Languages:_Edit_Content_Language / Display title: Lingue: Modifica la Lingua del Contenuto -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Languages:_Edit_Content_Language",
+  "title": "Lingue: Modifica la Lingua del Contenuto ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 Sure, here is the translated text:
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Admin_Modules:_Administrator_Menu / Display title: Moduli: Menu Amministratore -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Administrator_Menu",
+  "title": "Moduli: Menu Amministratore ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

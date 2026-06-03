@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:User_Actions_Log / Display title: Registro delle Azioni dell'Utente -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:User_Actions_Log",
+  "title": "Registro delle Azioni dell'Utente ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

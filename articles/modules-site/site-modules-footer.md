@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Footer / Display title: Moduli: Piè di pagina -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Footer",
+  "title": "Moduli: Piè di pagina ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

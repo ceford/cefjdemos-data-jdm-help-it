@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Articles:_Featured / Display title: Articoli: In Primo Piano -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Articles:_Featured",
+  "title": "Articoli: In Primo Piano ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

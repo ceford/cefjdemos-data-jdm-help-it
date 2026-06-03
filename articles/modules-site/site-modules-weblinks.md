@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Extensions_Module_Manager_Weblinks / Display title: Moduli: Collegamenti Web -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Extensions_Module_Manager_Weblinks",
+  "title": "Moduli: Collegamenti Web ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

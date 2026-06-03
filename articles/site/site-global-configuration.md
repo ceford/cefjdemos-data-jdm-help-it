@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Global_Configuration / Display title: Configurazione Globale -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Global_Configuration",
+  "title": "Configurazione Globale ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

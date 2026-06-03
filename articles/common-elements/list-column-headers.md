@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:List_Column_Headers / Display title: Intestazioni di Colonne della Lista -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:List_Column_Headers",
+  "title": "Intestazioni di Colonne della Lista ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Scopo
 

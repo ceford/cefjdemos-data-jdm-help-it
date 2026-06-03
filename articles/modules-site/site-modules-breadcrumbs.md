@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Breadcrumbs / Display title: Moduli: Briciole di pane -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Breadcrumbs",
+  "title": "Moduli: Briciole di pane ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

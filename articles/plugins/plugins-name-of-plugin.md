@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Plugins:_Name_of_Plugin / Display title: Plugin: Nome del Plugin -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Plugins:_Name_of_Plugin",
+  "title": "Plugin: Nome del Plugin ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

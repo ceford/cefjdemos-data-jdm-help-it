@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Languages:_Edit_Override / Display title: Lingue: Modifica Sostituzione -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Languages:_Edit_Override",
+  "title": "Lingue: Modifica Sostituzione ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

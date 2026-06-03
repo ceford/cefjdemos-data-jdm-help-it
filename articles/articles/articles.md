@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Articles / Display title: Articoli -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Articles",
+  "title": "Articoli ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

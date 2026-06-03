@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Login_Form / Display title: Modulo di Accesso -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Login_Form",
+  "title": "Modulo di Accesso ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

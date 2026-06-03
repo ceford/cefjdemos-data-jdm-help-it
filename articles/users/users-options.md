@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Users:_Options / Display title: Utenti: Opzioni -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Users:_Options",
+  "title": "Utenti: Opzioni ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

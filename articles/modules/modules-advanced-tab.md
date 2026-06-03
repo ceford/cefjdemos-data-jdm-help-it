@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Modules_Advanced_Tab / Display title: Moduli: Scheda Avanzata  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Modules_Advanced_Tab",
+  "title": "Moduli: Scheda Avanzata  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Plugin:_Options / Display title: Plugin: Opzioni -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Plugin:_Options",
+  "title": "Plugin: Opzioni ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 If you have any other sentences or phrases you'd like translated, feel free to ask!
 ## Descrizione

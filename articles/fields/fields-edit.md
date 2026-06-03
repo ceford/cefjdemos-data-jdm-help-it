@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Fields:_Edit / Display title: Componente: Modifica Campo -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Fields:_Edit",
+  "title": "Componente: Modifica Campo ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Banners:_Tracks / Display title: Striscioni: Tracce -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Banners:_Tracks",
+  "title": "Striscioni: Tracce ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

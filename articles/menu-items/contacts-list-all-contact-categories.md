@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_List_All_Contact_Categories / Display title: Elenca tutte le categorie di contatti -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_List_All_Contact_Categories",
+  "title": "Elenca tutte le categorie di contatti ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

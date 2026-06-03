@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:User_Actions_Log:_Options / Display title: Registro delle Azioni dell'Utente: Opzioni -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:User_Actions_Log:_Options",
+  "title": "Registro delle Azioni dell'Utente: Opzioni ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

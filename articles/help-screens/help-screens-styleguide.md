@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Help_screens_styleguide / Display title: Guida di Stile per le Schermate di Aiuto -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Help_screens_styleguide",
+  "title": "Guida di Stile per le Schermate di Aiuto ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 <div class="alert alert-warning">
 Questa guida di stile è per l'installazione di Joomla MediaWiki (docs.joomla.org).

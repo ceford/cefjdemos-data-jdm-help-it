@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Heading / Display title: Intestazione del Menu -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Heading",
+  "title": "Intestazione del Menu ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

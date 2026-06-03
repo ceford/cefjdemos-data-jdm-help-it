@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Admin_Modules:_Logged-in_Users / Display title: Moduli: Utenti Registrati -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Logged-in_Users",
+  "title": "Moduli: Utenti Registrati ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

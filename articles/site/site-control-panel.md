@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Control_Panel / Display title: Dashboard Home -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Control_Panel",
+  "title": "Dashboard Home ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Admin_Modules:_Administrator_Dashboard_Menu / Display title: Moduli: Menu della Dashboard Amministratore -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Administrator_Dashboard_Menu",
+  "title": "Moduli: Menu della Dashboard Amministratore ",
+  "description": "", 
+  "author": ""
+}
+-->
 ## Descrizione
 
 Il modulo *Menu della Dashboard Amministratore* visualizza una raccolta

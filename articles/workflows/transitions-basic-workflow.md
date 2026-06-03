@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Transitions_List:_Basic_Workflow / Display title: Transizioni: Flusso di Lavoro di Base -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Transitions_List:_Basic_Workflow",
+  "title": "Transizioni: Flusso di Lavoro di Base ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

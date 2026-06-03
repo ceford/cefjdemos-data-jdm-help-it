@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Admin_Modules:_Sample_Data / Display title: Moduli: Dati di Esempio -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Sample_Data",
+  "title": "Moduli: Dati di Esempio ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 

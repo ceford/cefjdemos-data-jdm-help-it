@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Login / Display title: Moduli: Accesso -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Login",
+  "title": "Moduli: Accesso ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Descrizione
 
