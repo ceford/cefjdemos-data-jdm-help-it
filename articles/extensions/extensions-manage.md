@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Extensions:_Manage",
-  "title": "Estensioni: Gestisci ",
+  "title": "Estensioni: Gestisci",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Users:_Groups",
-  "title": "Utenti: Gruppi ",
+  "title": "Utenti: Gruppi",
   "description": "", 
   "author": ""
 }

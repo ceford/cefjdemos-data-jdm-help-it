@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:User_Notes:_New_or_Edit_Category",
-  "title": "Note dell'utente: Nuova o Modifica Categoria ",
+  "title": "Note dell'utente: Nuova o Modifica Categoria",
   "description": "", 
   "author": ""
 }

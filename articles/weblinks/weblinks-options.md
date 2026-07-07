@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Weblinks:_Options",
-  "title": "Opzioni di Collegamenti Web ",
+  "title": "Opzioni di Collegamenti Web",
   "description": "", 
   "author": ""
 }

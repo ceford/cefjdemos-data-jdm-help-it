@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Registration_Form",
-  "title": "Modulo di Registrazione ",
+  "title": "Modulo di Registrazione",
   "description": "", 
   "author": ""
 }

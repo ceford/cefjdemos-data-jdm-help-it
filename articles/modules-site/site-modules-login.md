@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Login",
-  "title": "Moduli: Accesso ",
+  "title": "Moduli: Accesso",
   "description": "", 
   "author": ""
 }

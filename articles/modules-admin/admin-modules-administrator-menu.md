@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Administrator_Menu",
-  "title": "Moduli: Menu Amministratore ",
+  "title": "Moduli: Menu Amministratore",
   "description": "", 
   "author": ""
 }

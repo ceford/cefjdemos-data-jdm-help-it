@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Permissions_for_User",
-  "title": "Permessi per l'utente ",
+  "title": "Permessi per l'utente",
   "description": "", 
   "author": ""
 }

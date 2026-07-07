@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Compact_List_of_Tagged_Items",
-  "title": "Elenco Compatto di Elementi Taggati ",
+  "title": "Elenco Compatto di Elementi Taggati",
   "description": "", 
   "author": ""
 }

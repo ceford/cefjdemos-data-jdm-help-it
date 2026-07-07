@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Messages:_Options",
-  "title": "Messaggi: Opzioni ",
+  "title": "Messaggi: Opzioni",
   "description": "", 
   "author": ""
 }

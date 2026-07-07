@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Login_Support_Information",
-  "title": "Moduli: Informazioni di Supporto per l'Accesso ",
+  "title": "Moduli: Informazioni di Supporto per l'Accesso",
   "description": "", 
   "author": ""
 }

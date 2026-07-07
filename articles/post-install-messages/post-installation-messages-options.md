@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Post-installation_Messages:_Options",
-  "title": "Messaggi post-installazione: Opzioni ",
+  "title": "Messaggi post-installazione: Opzioni",
   "description": "", 
   "author": ""
 }

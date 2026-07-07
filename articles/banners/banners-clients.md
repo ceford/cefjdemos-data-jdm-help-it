@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Banners:_Clients",
-  "title": "Banner: Clienti ",
+  "title": "Banner: Clienti",
   "description": "", 
   "author": ""
 }

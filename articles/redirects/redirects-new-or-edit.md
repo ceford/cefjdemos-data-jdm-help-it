@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Redirects:_New_or_Edit",
-  "title": "Reindirizzamenti: Nuovi o Modifica ",
+  "title": "Reindirizzamenti: Nuovi o Modifica",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:Menu_Item_Blog_Layout",
-  "title": "Layout del Blog Voce di Menu ",
+  "title": "Layout del Blog Voce di Menu",
   "description": "", 
   "author": ""
 }

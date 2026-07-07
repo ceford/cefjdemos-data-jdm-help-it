@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:Menu_Item_Page_Display",
-  "title": "Visualizzazione della pagina dell'elemento del menu ",
+  "title": "Visualizzazione della pagina dell'elemento del menu",
   "description": "", 
   "author": ""
 }

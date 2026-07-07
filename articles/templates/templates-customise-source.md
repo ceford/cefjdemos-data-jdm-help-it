@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Templates:_Customise_Source",
-  "title": "Modelli: Personalizzare la Sorgente ",
+  "title": "Modelli: Personalizzare la Sorgente",
   "description": "", 
   "author": ""
 }

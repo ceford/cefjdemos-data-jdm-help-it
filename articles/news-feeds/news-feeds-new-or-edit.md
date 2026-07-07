@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:News_Feeds:_New_or_Edit",
-  "title": "Feed di Notizie: Modifica ",
+  "title": "Feed di Notizie: Modifica",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:User_Actions_Log:_Options",
-  "title": "Registro delle Azioni dell'Utente: Opzioni ",
+  "title": "Registro delle Azioni dell'Utente: Opzioni",
   "description": "", 
   "author": ""
 }

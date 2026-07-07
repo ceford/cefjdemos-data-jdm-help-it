@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Contacts:_New_or_Edit",
-  "title": "Contatti: Modifica ",
+  "title": "Contatti: Modifica",
   "description": "", 
   "author": ""
 }

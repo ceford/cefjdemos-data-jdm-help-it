@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Button_Group",
-  "title": "Gruppo pulsanti Editors Xtd  ",
+  "title": "Gruppo pulsanti Editors Xtd ",
   "description": "", 
   "author": ""
 }

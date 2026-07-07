@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help5.x:Scheduled_Tasks:_Options",
-  "title": "Configurazione attività pianificate ",
+  "title": "Configurazione attività pianificate",
   "description": "", 
   "author": ""
 }

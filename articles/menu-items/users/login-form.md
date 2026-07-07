@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Login_Form",
-  "title": "Modulo di Accesso ",
+  "title": "Modulo di Accesso",
   "description": "", 
   "author": ""
 }

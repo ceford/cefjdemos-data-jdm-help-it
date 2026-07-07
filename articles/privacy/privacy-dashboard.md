@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Privacy_Dashboard",
-  "title": "Pannello di Controllo della Privacy ",
+  "title": "Pannello di Controllo della Privacy",
   "description": "", 
   "author": ""
 }

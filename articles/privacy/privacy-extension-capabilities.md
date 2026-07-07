@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Privacy:_Extension_Capabilities",
-  "title": "Privacy: Capacità di Estensione ",
+  "title": "Privacy: Capacità di Estensione",
   "description": "", 
   "author": ""
 }

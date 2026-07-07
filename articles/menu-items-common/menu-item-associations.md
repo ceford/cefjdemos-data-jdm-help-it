@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:Menu_Item_Associations",
-  "title": "Associazioni Voci di Menu ",
+  "title": "Associazioni Voci di Menu",
   "description": "", 
   "author": ""
 }

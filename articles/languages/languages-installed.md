@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Languages:_Installed",
-  "title": "Lingue: Installate ",
+  "title": "Lingue: Installate",
   "description": "", 
   "author": ""
 }

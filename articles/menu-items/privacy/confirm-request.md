@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Confirm_Request",
-  "title": "Articolo del menu: Conferma richiesta ",
+  "title": "Articolo del menu: Conferma richiesta",
   "description": "", 
   "author": ""
 }

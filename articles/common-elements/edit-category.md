@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:Edit_Category",
-  "title": "Modifica Categoria ",
+  "title": "Modifica Categoria",
   "description": "", 
   "author": ""
 }

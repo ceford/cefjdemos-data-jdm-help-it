@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Article_Archived",
-  "title": "Articoli Archiviati ",
+  "title": "Articoli Archiviati",
   "description": "", 
   "author": ""
 }

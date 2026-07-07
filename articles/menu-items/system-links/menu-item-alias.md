@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Alias",
-  "title": "Alias voci di menu ",
+  "title": "Alias voci di menu",
   "description": "", 
   "author": ""
 }

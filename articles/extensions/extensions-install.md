@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Extensions:_Install",
-  "title": "Estensioni: Installa ",
+  "title": "Estensioni: Installa",
   "description": "", 
   "author": ""
 }

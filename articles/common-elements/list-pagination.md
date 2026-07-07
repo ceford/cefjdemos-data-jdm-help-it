@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:List_Pagination",
-  "title": "Paginazione Della Lista ",
+  "title": "Paginazione Della Lista",
   "description": "", 
   "author": ""
 }

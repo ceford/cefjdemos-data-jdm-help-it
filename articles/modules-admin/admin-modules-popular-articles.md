@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Popular_Articles",
-  "title": "Moduli: Articoli Popolari ",
+  "title": "Moduli: Articoli Popolari",
   "description": "", 
   "author": ""
 }

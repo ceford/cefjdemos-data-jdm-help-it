@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Footer",
-  "title": "Moduli: Piè di pagina ",
+  "title": "Moduli: Piè di pagina",
   "description": "", 
   "author": ""
 }

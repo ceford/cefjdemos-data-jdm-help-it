@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Help_screens_styleguide",
-  "title": "Guida di Stile per le Schermate di Aiuto ",
+  "title": "Guida di Stile per le Schermate di Aiuto",
   "description": "", 
   "author": ""
 }

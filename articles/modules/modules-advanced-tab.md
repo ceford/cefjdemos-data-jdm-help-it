@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:Modules_Advanced_Tab",
-  "title": "Moduli: Scheda Avanzata  ",
+  "title": "Moduli: Scheda Avanzata ",
   "description": "", 
   "author": ""
 }

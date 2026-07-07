@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:List_Ordering",
-  "title": "Ordinamento delle Liste ",
+  "title": "Ordinamento delle Liste",
   "description": "", 
   "author": ""
 }

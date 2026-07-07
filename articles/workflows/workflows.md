@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Workflows_List",
-  "title": "Flussi di lavoro ",
+  "title": "Flussi di lavoro: Introduzione",
   "description": "", 
   "author": ""
 }

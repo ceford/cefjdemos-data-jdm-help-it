@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Articles_-_Most_Read",
-  "title": "Moduli: Articoli - Più Letti ",
+  "title": "Moduli: Articoli - Più Letti",
   "description": "", 
   "author": ""
 }

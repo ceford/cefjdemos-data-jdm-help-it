@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Joomla_Update:_Options",
-  "title": "Aggiornamento Joomla: Opzioni ",
+  "title": "Aggiornamento Joomla: Opzioni",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:Menu_Item_Link_Type",
-  "title": "Tipo di Collegamento Voce di Menu ",
+  "title": "Tipo di Collegamento Voce di Menu",
   "description": "", 
   "author": ""
 }

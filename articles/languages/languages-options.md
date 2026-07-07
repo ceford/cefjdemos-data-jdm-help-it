@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Languages:_Options",
-  "title": "Lingue: Opzioni ",
+  "title": "Lingue: Opzioni",
   "description": "", 
   "author": ""
 }

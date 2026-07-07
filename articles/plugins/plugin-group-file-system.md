@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_FileSystem_Group",
-  "title": "Gruppo del File System ",
+  "title": "Gruppo del File System",
   "description": "", 
   "author": ""
 }

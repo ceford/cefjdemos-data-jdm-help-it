@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Maintenance:_Clear_Cache",
-  "title": "Manutenzione: Cancella Cache ",
+  "title": "Manutenzione: Cancella Cache",
   "description": "", 
   "author": ""
 }

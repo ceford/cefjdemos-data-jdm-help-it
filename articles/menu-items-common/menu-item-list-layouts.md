@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:Menu_Item_List_Layouts",
-  "title": "Layout dell'elenco delle voci di menu ",
+  "title": "Layout dell'elenco delle voci di menu",
   "description": "", 
   "author": ""
 }

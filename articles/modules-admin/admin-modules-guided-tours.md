@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Tours_Menu",
-  "title": "Moduli: Visite Guidate ",
+  "title": "Moduli: Visite Guidate",
   "description": "", 
   "author": ""
 }

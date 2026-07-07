@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Component:_Field_Groups",
-  "title": "Componente: Gruppi di Campi ",
+  "title": "Componente: Gruppi di Campi",
   "description": "", 
   "author": ""
 }

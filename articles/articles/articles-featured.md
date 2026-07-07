@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Articles:_Featured",
-  "title": "Articoli: In Primo Piano ",
+  "title": "Articoli: In Primo Piano",
   "description": "", 
   "author": ""
 }

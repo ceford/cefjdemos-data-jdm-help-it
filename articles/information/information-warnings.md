@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Information:_Warnings",
-  "title": "Informazioni: Avvertimenti ",
+  "title": "Informazioni: Avvertimenti",
   "description": "", 
   "author": ""
 }

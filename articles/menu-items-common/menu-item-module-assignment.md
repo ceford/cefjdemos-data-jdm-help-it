@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:Menu_Item_Module_Assignment",
-  "title": "Assegnazione Modulo Voce di Menu ",
+  "title": "Assegnazione Modulo Voce di Menu",
   "description": "", 
   "author": ""
 }

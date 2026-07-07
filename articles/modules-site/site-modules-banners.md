@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Banners",
-  "title": "Moduli: Banner ",
+  "title": "Moduli: Banner",
   "description": "", 
   "author": ""
 }

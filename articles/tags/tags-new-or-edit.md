@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Tags:_New_or_Edit",
-  "title": "Etichette: Nuova o Modifica ",
+  "title": "Etichette: Nuova o Modifica",
   "description": "", 
   "author": ""
 }

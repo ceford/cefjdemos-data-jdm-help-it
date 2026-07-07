@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Templates:_Styles",
-  "title": "Template: Stili ",
+  "title": "Template: Stili",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Stages_List:_Basic_Workflow",
-  "title": "Fasi: Flusso di lavoro di base ",
+  "title": "Fasi: Flusso di lavoro di base",
   "description": "", 
   "author": ""
 }

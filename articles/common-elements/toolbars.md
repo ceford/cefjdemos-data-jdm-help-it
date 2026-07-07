@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:Toolbars",
-  "title": "Barre degli strumenti ",
+  "title": "Barre degli strumenti",
   "description": "", 
   "author": ""
 }

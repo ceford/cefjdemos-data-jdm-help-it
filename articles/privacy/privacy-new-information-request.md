@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Privacy:_New_Information_Request",
-  "title": "Privacy: Nuova Richiesta di Informazioni ",
+  "title": "Privacy: Nuova Richiesta di Informazioni",
   "description": "", 
   "author": ""
 }

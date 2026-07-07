@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help5.x:Start_Here",
-  "title": "Inizia Qui ",
+  "title": "Inizia Qui",
   "description": "", 
   "author": ""
 }

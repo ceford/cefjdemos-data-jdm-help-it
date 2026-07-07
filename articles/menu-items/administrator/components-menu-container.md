@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Components_Menu_Container",
-  "title": "Voce di menu: Contenitore del menu Componenti ",
+  "title": "Voce di menu: Contenitore del menu Componenti",
   "description": "", 
   "author": ""
 }

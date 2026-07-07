@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:News_Feeds:_New_or_Edit_Category",
-  "title": "Feed di Notizie: Modifica Categoria ",
+  "title": "Feed di Notizie: Modifica Categoria",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Logged-in_Users",
-  "title": "Moduli: Utenti Registrati ",
+  "title": "Moduli: Utenti Registrati",
   "description": "", 
   "author": ""
 }

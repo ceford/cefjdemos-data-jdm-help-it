@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menus_Menu_Item_Weblink_Submit",
-  "title": "Invia un Link Web ",
+  "title": "Invia un Link Web",
   "description": "", 
   "author": ""
 }

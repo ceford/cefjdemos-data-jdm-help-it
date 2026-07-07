@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Redirects:_Links",
-  "title": "Reindirizzamenti: Collegamenti ",
+  "title": "Reindirizzamenti: Collegamenti",
   "description": "", 
   "author": ""
 }

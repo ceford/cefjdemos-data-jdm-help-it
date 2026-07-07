@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Users:_Edit_Profile",
-  "title": "Utenti: Nuovo o Modifica ",
+  "title": "Utenti: Nuovo o Modifica",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Mail_Templates:_Options",
-  "title": "Modelli di Email: Opzioni ",
+  "title": "Modelli di Email: Opzioni",
   "description": "", 
   "author": ""
 }

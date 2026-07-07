@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Administrator_Dashboard_Menu",
-  "title": "Moduli: Menu della Dashboard Amministratore ",
+  "title": "Moduli: Menu della Dashboard Amministratore",
   "description": "", 
   "author": ""
 }

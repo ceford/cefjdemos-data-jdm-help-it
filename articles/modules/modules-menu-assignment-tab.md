@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:Modules_Menu_Assignment_Tab",
-  "title": "Moduli: Scheda Assegnazione Menu  ",
+  "title": "Moduli: Scheda Assegnazione Menu ",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:List_Column_Headers",
-  "title": "Intestazioni di Colonne della Lista ",
+  "title": "Intestazioni di Colonne della Lista",
   "description": "", 
   "author": ""
 }

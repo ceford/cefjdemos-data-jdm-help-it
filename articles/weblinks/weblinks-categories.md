@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Components_Weblinks_Categories",
-  "title": "Link Web: Categorie ",
+  "title": "Link Web: Categorie",
   "description": "", 
   "author": ""
 }

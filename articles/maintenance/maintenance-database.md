@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Information:_Database",
-  "title": "Manutenzione: Database ",
+  "title": "Manutenzione: Database",
   "description": "", 
   "author": ""
 }

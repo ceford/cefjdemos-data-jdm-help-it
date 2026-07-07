@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Create_Request",
-  "title": "Voce di menu: Crea Richiesta ",
+  "title": "Voce di menu: Crea Richiesta",
   "description": "", 
   "author": ""
 }

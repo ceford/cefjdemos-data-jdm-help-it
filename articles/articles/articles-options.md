@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Articles:_Options",
-  "title": "Articoli: Opzioni ",
+  "title": "Articoli: Opzioni",
   "description": "", 
   "author": ""
 }
