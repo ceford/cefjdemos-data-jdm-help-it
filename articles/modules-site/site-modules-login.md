@@ -61,6 +61,8 @@ Alcuni elementi di questa pagina sono trattati in articoli di aiuto separati:
   menu popup. Se non è selezionato alcun elemento del menu, gli utenti resteranno sulla 
   stessa pagina dopo il logout.
 - **Pagina di Registrazione** Seleziona o crea una pagina per la registrazione.
+- **Link per reimpostare la password** Mostra o nasconde il link per reimpostare la password (novità della versione 6.2).
+- **Link per nome utente dimenticato** Mostra o nasconde il link per recuperare il nome utente (novità della versione 6.2).
 - **Saluto** Mostra o nascondi il testo di saluto semplice.
 - **Nome/Username** Mostra il nome o l'username dopo il login.
 - **Link al Profilo** Mostra o nascondi un link al profilo dell'utente.
