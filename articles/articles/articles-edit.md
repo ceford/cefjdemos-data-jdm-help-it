@@ -92,7 +92,7 @@ Puoi anche creare un nuovo articolo selezionando l'icona **+** nel Menu o nella 
 permessi Admin. Consente la visualizzazione di immagini e link negli articoli utilizzando
 layout standardizzati.
 
-![Scheda per modificare le immagini e link degli articoli](../../../it/images/articles/articles-edit/02-images-tab.png)
+![Scheda per modificare le immagini e link degli articoli](../../../it/images/articles/articles-edit/02-images-and-links-tab.png)
 
 #### Immagine Introduttiva
 
@@ -227,7 +227,7 @@ apparirà come una scheda separata.
 **Nota:** Questa può essere nascosta da un utente con permessi Admin nelle
 Articolo: Opzioni.
 
-![Scheda Configura schermata di modifica](../../../it/images/articles/articles-edit/05-editor-tab.png)
+![Scheda Configura schermata di modifica](../../../it/images/articles/articles-edit/05-configure-edit-screen-tab.png)
 
 - **Opzioni di Pubblicazione** Se Nascondi, la scheda Opzioni di Pubblicazione
   non verrà mostrata nel Backend. Questo significa che gli utenti del Backend non

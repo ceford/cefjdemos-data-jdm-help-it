@@ -46,7 +46,7 @@ Per modificare un elemento esistente del menu Opzioni Modello di Visualizzazione
 
 ## Screenshot Front End
 
-![Opzioni del template di visualizzazione nel modulo del front end](../../../../en/images/menu-items/configuration/display-template-options/02-frontend.png)
+![Opzioni del template di visualizzazione nel modulo del front end](../../../../it/images/menu-items/configuration/display-template-options/02-frontend.png)
 
 *Tradotto da openai.com*
 

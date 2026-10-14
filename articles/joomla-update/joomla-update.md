@@ -1,64 +1,75 @@
 <!--
 {
-  "source": "https://docs.joomla.org/Help4.x:Joomla_Update",
-  "title": "Aggiornamento di Joomla: Introduzione",
-  "description": "", 
-  "author": ""
+    "source": "https://docs.joomla.org/Help4.x:Joomla_Update",
+    "title": "Aggiornamento di Joomla: introduzione",
+    "description": " ",
+    "author": ""
 }
 -->
 
 ## Descrizione
 
-Questa pagina consente di aggiornare Joomla! utilizzando un pacchetto di aggiornamento dal repository del codice di Joomla!. È meglio e più sicuro lasciare che Joomla si aggiorni da solo utilizzando questo metodo.
+Questa pagina consente di aggiornare Joomla! utilizzando un pacchetto di aggiornamento dal repository del codice di Joomla!
+È consigliabile e più sicuro lasciare che Joomla si aggiorni autonomamente utilizzando questo
+metodo.
 
-## Come Accedere
+## Come accedere
 
-Nel **Dashboard Home → Pannello di Notifiche** l'icona di Joomla avrà uno dei due messaggi:
+Nel **Dashboard principale → Pannello notifiche** l'icona di Joomla mostrerà
+uno dei due messaggi:
 - **Joomla è aggiornato**
-- **X.Y.Z Disponibile - Aggiorna ora!**
+- **X.Y.Z disponibile - Aggiorna ora!**
 
 Seleziona l'icona.
 
-Inoltre, nel **Sistema → Pannello di Aggiornamento → Joomla** verrà visualizzato un segno di spunta, indicando che è aggiornato, o un numero di versione, indicando che è disponibile una nuova versione.
+Inoltre, il **Sistema → Pannello aggiornamenti → Joomla** mostrerà un segno di spunta, a indicare che
+è aggiornato, oppure un numero di versione, a indicare che è disponibile una nuova versione.
 
-## Screenshot
+## Schermata
 
-Se il tuo sito è aggiornato vedrai questa schermata:
+Se il sito è aggiornato, verrà visualizzata questa schermata:
 
-![Upload & Update up to data](../../../en/images/joomla-update/joomla-update/01-upload-update-up-to-date.png)
+![Caricamento e aggiornamento: aggiornato](../../../en/images/joomla-update/joomla-update/01-upload-update-up-to-date.png)
 
-Se è disponibile un aggiornamento vedrai questa schermata:
+Se è disponibile un aggiornamento, verrà visualizzata questa schermata:
 
-![Upload & Update update available](../../../en/images/joomla-update/joomla-update/02-upload-update-available.png)
+![Caricamento e aggiornamento: aggiornamento disponibile](../../../en/images/joomla-update/joomla-update/02-upload-update-available.png)
 
-Se stai aggiornando una versione principale o minore vedrai una schermata di controllo pre-aggiornamento:
+Se si aggiorna una versione principale o secondaria, verrà visualizzata una schermata di controllo preliminare dell'aggiornamento:
 
-![Upload & Update pre update check](../../../en/images/joomla-update/joomla-update/03-upload-update-pre-update-check.png)
+![Caricamento e aggiornamento: controllo preliminare dell'aggiornamento](../../../en/images/joomla-update/joomla-update/03-upload-update-pre-update-check.png)
 
-Seleziona ciascuno dei tre elementi del menu per vedere se qualcosa necessita di attenzione.
+Seleziona ciascuna delle tre voci di menu per verificare se è necessario intervenire.
 
-## Avvia Aggiornamento
+## Avvia aggiornamento
 
-Se non sei sull'ultima versione di Joomla, puoi installare l'ultimo aggiornamento da questa pagina. Per farlo, assicurati di aver eseguito un backup e seleziona la casella di controllo **Sono consapevole...** per indicare che l'hai fatto. Poi seleziona il pulsante **Avvia Aggiornamento** e Joomla installerà l'ultima versione.
+Se non stai utilizzando l'ultima versione di Joomla, puoi installare
+l'ultimo aggiornamento da questa pagina. Per farlo, assicurati di aver eseguito un backup
+e seleziona la casella di controllo **Sono consapevole...** per indicare che l'hai fatto. Quindi
+seleziona il pulsante **Avvia aggiornamento** e Joomla installerà l'ultima versione.
 
-La schermata di aggiornamento mostra una barra di progresso mentre l'aggiornamento è in corso.
+La schermata dell'aggiornamento mostra una barra di avanzamento mentre l'aggiornamento è in corso.
 
-### Carica e Aggiorna
+### Carica e aggiorna
 
-Puoi utilizzare questo pulsante per aggiornare Joomla se il tuo server è dietro un firewall o non è in grado di contattare i server di aggiornamento. Prima scarica il pacchetto di aggiornamento di Joomla in formato ZIP dalla pagina di download ufficiale di Joomla.
+Puoi utilizzare questo pulsante per aggiornare Joomla se il server è protetto da un
+firewall o non è altrimenti in grado di contattare i server degli aggiornamenti. Prima
+scarica il pacchetto di aggiornamento di Joomla in formato ZIP dalla pagina ufficiale
+dei download di Joomla.
 
-Devi avere il tuo PHP *upload_max_filesize* e *post_max_size* impostati a 64Mb e il limite di memoria PHP impostato a 256 Mb. Altrimenti l'aggiornamento potrebbe fallire. Un buon motivo per eseguire quel backup!
+Devi impostare *upload_max_filesize* e *post_max_size* di PHP su 64 MB
+e il limite di memoria di PHP su 256 MB. In caso contrario, l'aggiornamento potrebbe non riuscire. Un buon
+motivo per eseguire quel backup!
 
-![Upload & Update carica e installa](../../../en/images/joomla-update/joomla-update/04-upload-update-upload-install.png)
+![Carica e aggiorna: carica e installa](../../../en/images/joomla-update/joomla-update/04-upload-update-upload-install.png)
 
-## Opzioni di Aggiornamento
+## Opzioni di aggiornamento
 
-Il pulsante Opzioni della Barra degli Strumenti ti permette di selezionare il tipo di aggiornamento:
+Il pulsante Opzioni della barra degli strumenti consente di selezionare il tipo di aggiornamento:
 
-- **Predefinito** Questo è utilizzato per i siti impostati per rimanere con la versione installata.
-- **Joomla Next** Questo è utilizzato per i siti che normalmente passano alla prossima versione principale
-  non appena una versione stabile viene rilasciata.
-- **URL Personalizzato** Per gli sviluppatori che desiderano selezionare una fonte di aggiornamento.
+- **Predefinito** Viene utilizzato per i siti configurati per rimanere con la versione installata.
+- **Joomla Next** Viene utilizzato per i siti che normalmente passano alla versione principale
+  successiva non appena viene rilasciata una versione stabile.
+- **URL personalizzato** Per consentire agli sviluppatori di selezionare una fonte di aggiornamento.
 
 *Tradotto da openai.com*
-

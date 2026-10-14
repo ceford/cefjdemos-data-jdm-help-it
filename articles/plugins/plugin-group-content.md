@@ -11,7 +11,7 @@
 
 ### Contenuto - Conferma Consenso
 
-![Plugin di conferma del consenso del contenuto](../../../en/images/plugins/plugin-group-content/01-confirm-consent.png)
+![Plugin di conferma del consenso del contenuto](../../../it/images/plugins/plugin-group-content/01-confirmconsent.png)
 
 - **Breve Informativa sulla Privacy** Avviso breve del testo che verrà visualizzato sopra la checkbox del consenso sulla privacy.
 - **Articolo sulla Privacy** Se necessario, seleziona/crea il tuo Articolo sulla Privacy da collegare al tuo modulo.
@@ -20,7 +20,7 @@ Per maggiori informazioni, vedi Consenso sulla Privacy - Configurazione del Plug
 
 ### Contenuto - Contatto
 
-![Plugin di contatto del contenuto](../../../en/images/plugins/plugin-group-content/02-contact.png)
+![Plugin di contatto del contenuto](../../../it/images/plugins/plugin-group-content/02-contact.png)
 
 - **Redirezionamento** Puoi collegare il nome dell'autore a:
   - Pagina di contatto associata.
@@ -32,21 +32,31 @@ Per maggiori informazioni, vedi Consenso sulla Privacy - Configurazione del Plug
 
 Questo plugin offusca tutte le email nei contenuti usando JavaScript per ingannare gli spambots. Questo aiuta a prevenire che le email contenute negli articoli vengano aggiunte a liste di posta indesiderata. Puoi disabilitare l'Offuscamento Email all'interno di un articolo inserendo {emailcloak=off} in qualsiasi punto del testo dell'articolo. In questo caso, nessun indirizzo email nell'articolo verrà offuscato da questo plugin.
 
-![Plugin di offuscamento delle email del contenuto](../../../en/images/plugins/plugin-group-content/03-email-cloaking.png)
+![Plugin di offuscamento delle email del contenuto](../../../it/images/plugins/plugin-group-content/03-emailcloak.png)
 
 - **Modalità** Come verranno visualizzate le email. Le opzioni sono *Come indirizzo mailto collegabile* o come *Testo non collegabile*.
 
 ### Contenuto - Campi
 
-Questo plugin ti permette di visualizzare un campo personalizzato che è stato inserito con il plugin *Pulsante - Campi* o utilizzando la Sintassi: `{field #}` direttamente nell'area dell'editor. Sintassi:
+Questo plugin ti permette di visualizzare un campo personalizzato che è stato inserito con il plugin *Pulsante - Campi* o utilizzando la Sintassi: `{field #}` direttamente nell'area dell'editor. 
+
+![Contenuto campi plugin](../../../it/images/plugins/plugin-group-content/04-fields.png)
+
+Sintassi:
 
 - **`{field 1}`** visualizzerà il campo con l'ID 1.
 - **`{field 1,foo}`** visualizzerà il campo selezionato utilizzando il layout alternativo `foo`.
 - **`{fieldgroup 2}`** visualizzerà tutti i campi all'interno del gruppo di campi con l'ID 2.
 
+### Contenuto - Ricerca Intelligente
+
+Le modifiche ai contenuti non aggiorneranno l'indice di Ricerca Intelligente se non abiliti questo plugin.
+
+![Contenuto ricerca intelligente plugin](../../../it/images/plugins/plugin-group-content/05-finder.png)
+
 ### Contenuto - Joomla
 
-![Plugin di Joomla del contenuto](../../../en/images/plugins/plugin-group-content/04-joomla.png)
+![Plugin di Joomla del contenuto](../../../it/images/plugins/plugin-group-content/06-joomla.png)
 
 - **Controllo Eliminazione Categoria** Verifica che le categorie siano completamente vuote prima di essere eliminate.
 - **Email al Nuovo Articolo del Sito** Invia un'email agli utenti se *Invia email* è *Attivato* quando viene inviato un nuovo articolo tramite il Frontend.
@@ -55,7 +65,7 @@ Questo plugin ti permette di visualizzare un campo personalizzato che è stato i
 
 Questo plugin ti permette di inserire un Modulo all'interno di un Articolo con la sintassi: `{loadposition xx}`, dove `xx` è un codice di posizione definito dall'utente. Ad esempio, se crei un Modulo con il valore di Posizione `myposition1`, digitando il testo `{loadposition myposition1}` all'interno di un Articolo farà sì che quel Modulo venga mostrato in quel punto dell'Articolo.
 
-![Plugin di caricamento moduli del contenuto](../../../en/images/plugins/plugin-group-content/05-load-modules.png)
+![Plugin di caricamento moduli del contenuto](../../../it/images/plugins/plugin-group-content/07-loadmodule.png)
 
 - **Stile** Lo stile per il Modulo caricato.
 
@@ -63,7 +73,7 @@ Questo plugin ti permette di inserire un Modulo all'interno di un Articolo con l
 
 Questo plugin aggiunge funzionalità di indice dei contenuti a un Articolo paginato. Questo viene fatto automaticamente tramite l'uso del pulsante Interruzione di Pagina aggiunto nella parte inferiore del pannello di testo in un Articolo. Il codice HTML è incluso qui come riferimento di ciò che è disponibile. L'Interruzione di Pagina verrà visualizzata nella finestra di testo come una semplice riga orizzontale.
 
-![Plugin di interruzione di pagina del contenuto](../../../en/images/plugins/plugin-group-content/06-page-break.png)
+![Plugin di interruzione di pagina del contenuto](../../../it/images/plugins/plugin-group-content/08-pagebreak.png)
 
 - **Mostra Titolo del Sito** Se il titolo e gli attributi dell'intestazione del plugin verranno aggiunti o meno al tag Title del Sito.
 - **Intestazione Indice Articolo** Mostra o nasconde l'Intestazione dell'Indice dell'Articolo. L'Intestazione viene visualizzata in cima all'Indice dei Contenuti.
@@ -71,8 +81,6 @@ Questo plugin aggiunge funzionalità di indice dei contenuti a un Articolo pagin
 - **Indice dei Contenuti** Se nascondere o mostrare un indice dei contenuti per Articoli multi-pagina.
 - **Mostra tutto** Se offrire o meno agli utenti l'opzione di visualizzare tutte le pagine di un Articolo.
 - **Stile di Presentazione** Visualizza l'articolo con pagine separate, schede o slider.
-
-![Descrizione dell'interruzione di pagina del contenuto](../../../en/images/plugins/plugin-group-content/07-page-break-description.png)
 
 ### Contenuto - Navigazione di Pagina
 
@@ -83,19 +91,15 @@ Questo plugin ti permette di aggiungere link di navigazione Avanti & Indietro ag
 
 Nota che, se il plugin di Navigazione di Pagina è disabilitato in questa schermata, non verrà mostrata alcuna Navigazione di Pagina e le impostazioni dei parametri sopra non avranno effetto.
 
-![Plugin di navigazione di pagina del contenuto](../../../en/images/plugins/plugin-group-content/08-page-navigation.png)
+![Plugin di navigazione di pagina del contenuto](../../../it/images/plugins/plugin-group-content/09-pagenavigation.png)
 
 - **Posizione** Posizione del link di navigazione. Le opzioni sono *Sopra* l'Articolo o *Sotto* l'Articolo.
 - **Relativo a** Assegna la posizione relativa per i parametri di Posizione. Testo lo posizionerà direttamente sopra o sotto il contenuto dell'articolo. Articolo Completo lo posizionerà sopra o sotto l'intero display, compreso il titolo e il readmore.
 - **Testo del Link** Scegli cosa visualizzare come testo del link.
 
-### Contenuto - Ricerca Intelligente
-
-Le modifiche ai contenuti non aggiorneranno l'indice di Ricerca Intelligente se non abiliti questo plugin.
-
 ### Contenuto - Vota
 
-![Plugin di voto del contenuto](../../../en/images/plugins/plugin-group-content/09-vote.png)
+![Plugin di voto del contenuto](../../../it/images/plugins/plugin-group-content/10-vote.png)
 
 - **Posizione** Posizione della votazione.
 
