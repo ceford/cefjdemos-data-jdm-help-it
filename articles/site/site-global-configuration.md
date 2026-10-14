@@ -309,6 +309,19 @@ Alcuni aspetti di questa pagina sono trattati in articoli di aiuto separati:
   possono essere selezionati o deselezionati cliccando sulla lista a discesa.
 - **Categorie di registrazione** Una lista separata
 
+### Text Filters tab
+
+![global configuration text filters tab](../../../it/images/site/global-configuration/05-text-filters-tab.png)
+
+These text filter settings will be applied to all text editor fields
+submitted by users in the selected groups.
+
+These filtering options give more control over the HTML your content
+providers submit. You can be as strict or as liberal as you require to
+suit your site's needs. The filtering is opt-in and the default settings
+provide good protection against markup commonly associated with website
+attacks.
+
 ## Consigli
 
 - La maggior parte di queste impostazioni può essere configurata una volta sola e poi lasciata invariata.

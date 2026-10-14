@@ -24,7 +24,7 @@ Il set di barre degli strumenti 2 fornisce una riga di pulsanti come mostrato
 di seguito. Il set è assegnato per impostazione predefinita al gruppo di
 utenti Pubblico.
 
-![Barra degli strumenti TinyMCE set 2](../../../en/images/editors/editors/01-set-2.png)
+![Barra degli strumenti TinyMCE set 2](../../../it/images/editors/editors/01-set-2.png)
 
 - I pulsanti consentono di rendere il testo in grassetto, sottolineato o barrato.
 - Annulla e Ripeti.
@@ -40,7 +40,7 @@ Il set di barre degli strumenti 1 fornisce due righe di pulsanti come mostrato
 di seguito. Il set è assegnato per impostazione predefinita ai gruppi di
 utenti Manager e Registrati.
 
-![Barra degli strumenti TinyMCE set 1](../../../en/images/editors/editors/02-set-1.png)
+![Barra degli strumenti TinyMCE set 1](../../../it/images/editors/editors/02-set-1.png)
 
 Questa opzione fornisce tutti gli stessi pulsanti documentati nella barra
 degli strumenti Set 2 sopra descritta. Inoltre, sono disponibili le seguenti
@@ -54,7 +54,7 @@ opzioni.
 Articolo: l'esempio mostra come creare facilmente un collegamento a qualsiasi articolo
 del sito corrente.
 
-![Finestra modale del selettore di collegamenti TinyMCE](../../../en/images/editors/editors/03-link-button.png)
+![Finestra modale del selettore di collegamenti TinyMCE](../../../it/images/editors/editors/03-link-button.png)
 
 Per creare un collegamento all'articolo desiderato:
 
@@ -75,7 +75,7 @@ pagine quando l'articolo viene visualizzato in un layout. È utile per gli artic
 lunghi. Quando si preme questo pulsante, viene visualizzata una finestra come mostrato
 di seguito:
 
-![Modulo per l'interruzione di pagina TinyMCE](../../../en/images/editors/editors/03-pagebreak-form.png)
+![Modulo per l'interruzione di pagina TinyMCE](../../../it/images/editors/editors/04-pagebreak-button.png)
 
 - **Titolo della pagina**. Inserire il titolo da visualizzare per la nuova pagina (ad
   esempio, "Pagina 2").
@@ -132,7 +132,7 @@ Plugin - editors-xtd.
 
 Il set di barre degli strumenti 0 fornisce le opzioni di modifica più estese, come mostrato di seguito. Il set è assegnato per impostazione predefinita ai gruppi di utenti Amministratore, Editor e Super User.
 
-![Set di dati TinyMCE 0](../../../en/images/editors/editors/05-set-0.png)
+![Set di dati TinyMCE 0](../../../it/images/editors/editors/05-set-0.png)
 
 Questa opzione fornisce tutti gli stessi pulsanti documentati nella barra degli strumenti del Set 1 sopra. Inoltre, sono disponibili le seguenti opzioni.
 
@@ -198,7 +198,7 @@ Per ulteriori informazioni, vedere:
 
 L'editor «Editor - CodeMirror» è progettato per facilitare l'inserimento di codice HTML in un articolo o in una descrizione. CodeMirror supporta l'evidenziazione della sintassi e il completamento automatico, come mostrato in questa schermata.
 
-![modulo di modifica di CodeMirror](../../../en/images/editors/editors/06-codemirror.png)
+![modulo di modifica di CodeMirror](../../../it/images/editors/editors/06-codemirror.png)
 
 - I pulsanti mostrati sotto la finestra di modifica consentono di accedere al collegamento a qualsiasi elemento del sito.
 - CodeMirror offre alcuni degli stessi vantaggi dell'utilizzo di «Editor - None», ma semplifica in parte il lavoro con il codice HTML non elaborato.

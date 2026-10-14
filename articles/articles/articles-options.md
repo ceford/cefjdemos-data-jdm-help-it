@@ -206,6 +206,35 @@ Queste impostazioni si applicano alle Opzioni Condivise nei layout Lista, Blog e
 - **Articoli In Evidenza**
   - **Mostra** Visualizza artic
 
+### Scheda Integrazione
+
+Queste impostazioni determinano il modo in cui il componente Articolo si integrerà con gli altri
+estensioni.
+
+![Scheda integrazione opzioni articoli](../../../it/images/articles/articles-options/08-integration-tab.png)
+
+#### Pannello feed di notizie
+
+- **Collegamento al feed RSS** Se impostato su Mostra, un collegamento al feed verrà visualizzato come feed 
+icona nella barra degli indirizzi della maggior parte dei browser.
+- **Includi nel feed** 
+- *Testo introduttivo* Nel feed verrà visualizzato solo il testo introduttivo dell'articolo. 
+- *Testo completo* L'intero testo dell'articolo verrà visualizzato nel feed.
+- **Link "Leggi di più"** Mostra un collegamento "Leggi di più" nel feed.
+
+#### Pannello di instradamento
+
+- **Rimuovi gli ID dagli URL** Rimuovi l'ID del database degli articoli in a 
+collegamento.
+
+#### Pannello Campi personalizzati
+
+- **Modifica campi personalizzati** Abilita la creazione di campi personalizzati.
+
+#### Pannello del flusso di lavoro
+
+- **Abilita flusso di lavoro** Utilizza flussi di lavoro personalizzati per gestire gli articoli.
+
 ## Suggerimenti
 
 - Gli utenti principianti possono mantenere i valori predefiniti qui.
